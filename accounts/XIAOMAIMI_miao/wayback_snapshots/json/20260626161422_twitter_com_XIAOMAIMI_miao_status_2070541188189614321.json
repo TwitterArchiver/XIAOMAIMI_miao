@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2070540565226181003",
+    "created_at": "2026-06-26T16:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070541188189614321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818418625558331392",
+          "start": 0,
+          "username": "61sAumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070541188189614321",
+    "in_reply_to_user_id": "1818418625558331392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070540565226181003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@61sAumi 好幸福呀，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070540330382884864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwJddWXgAAsmpB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2070540565226181003",
+        "created_at": "2026-06-26T16:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070541188189614321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818418625558331392",
+              "start": 0,
+              "username": "61sAumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070541188189614321",
+        "in_reply_to_user_id": "1818418625558331392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070540565226181003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@61sAumi 好幸福呀，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070540330382884864"
+          ]
+        },
+        "author_id": "1818418625558331392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070540565226181003",
+        "created_at": "2026-06-26T16:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070540565226181003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lHs495jbuH",
+              "end": 43,
+              "expanded_url": "https://x.com/61sAumi/status/2070540565226181003/photo/1",
+              "media_key": "3_2070540330382884864",
+              "start": 20,
+              "url": "https://t.co/lHs495jbuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070540565226181003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近经常做的事情是点着香薰蜡烛听歌…… https://t.co/lHs495jbuH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8451,
+          "following_count": 233,
+          "like_count": 24361,
+          "listed_count": 28,
+          "media_count": 46,
+          "tweet_count": 2319
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T22:49:30.000Z",
+        "description": "欢迎参观我的尸体、我的脏器 和这一套加诸我身的酷刑",
+        "id": "1818418625558331392",
+        "location": "高p线下查无此人 不约 看眼缘互关 墙内外社媒不互通不加v",
+        "name": "苦薄荷",
+        "pinned_tweet_id": "2056032536736808995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066422882155040768/zWTErsXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 41,
+          "like_count": 3186,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 1318
+        },
+        "url": "",
+        "username": "61sAumi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2054532973282955552",
+    "created_at": "2026-05-13T12:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054538312342544741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036305955219292160",
+          "start": 0,
+          "username": "Kevelovem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054538312342544741",
+    "in_reply_to_user_id": "2036305955219292160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054537399276052622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kevelovem 我去咋这样，，，我之前一直是用的taptap，然后我现在发现taptap和Steam互通。。。！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2054532973282955552",
+        "created_at": "2026-05-13T12:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054538312342544741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036305955219292160",
+              "start": 0,
+              "username": "Kevelovem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054538312342544741",
+        "in_reply_to_user_id": "2036305955219292160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054537399276052622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kevelovem 我去咋这样，，，我之前一直是用的taptap，然后我现在发现taptap和Steam互通。。。！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036305955219292160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2054532973282955552",
+        "created_at": "2026-05-13T12:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054537399276052622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054537399276052622",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054532973282955552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我的喵斯换ios之后之前买的角色曲谱统统都用不了了(╥﹏╥)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7081,
+          "following_count": 197,
+          "like_count": 18361,
+          "listed_count": 26,
+          "media_count": 192,
+          "tweet_count": 2043
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T04:58:35.000Z",
+        "description": "¯꒳¯",
+        "id": "2036305955219292160",
+        "name": "Destiny",
+        "pinned_tweet_id": "2052612178025582770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049831536887988224/_lFvhqXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 25,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 353
+        },
+        "username": "Kevelovem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048003180236292119",
+    "created_at": "2026-04-26T09:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048330081165361624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595643343161085952",
+          "start": 0,
+          "username": "chiy70324009"
+        },
+        {
+          "end": 23,
+          "id": "126581934",
+          "start": 14,
+          "username": "dearemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048330081165361624",
+    "in_reply_to_user_id": "1595643343161085952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048323345545117871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiy70324009 @dearemon 招人不。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048003180236292119",
+        "created_at": "2026-04-26T09:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048330081165361624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595643343161085952",
+              "start": 0,
+              "username": "chiy70324009"
+            },
+            {
+              "end": 23,
+              "id": "126581934",
+              "start": 14,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048330081165361624",
+        "in_reply_to_user_id": "1595643343161085952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048323345545117871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiy70324009 @dearemon 招人不。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595643343161085952",
+        "conversation_id": "2048003180236292119",
+        "created_at": "2026-04-26T08:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048323345545117871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "126581934",
+              "start": 0,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048323345545117871",
+        "in_reply_to_user_id": "126581934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048003180236292119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearemon 。。。来我这干吧都不会还能一个月开4000呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5959,
+          "following_count": 177,
+          "like_count": 14245,
+          "listed_count": 21,
+          "media_count": 71,
+          "tweet_count": 1163
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T05:00:07.000Z",
+        "description": "需要安静的陪伴",
+        "id": "1595643343161085952",
+        "location": "Los Angeles, CA",
+        "name": "Fourth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021896794758602752/xyv8_TRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 2,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 65
+        },
+        "username": "chiy70324009",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53268,
+          "following_count": 667,
+          "like_count": 5718,
+          "listed_count": 201,
+          "media_count": 27818,
+          "tweet_count": 383914
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

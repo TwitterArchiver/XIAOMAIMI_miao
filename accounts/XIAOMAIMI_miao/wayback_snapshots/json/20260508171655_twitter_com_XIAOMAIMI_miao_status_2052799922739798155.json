@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052799922739798155",
+    "created_at": "2026-05-08T17:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052799922739798155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645454737817444353",
+          "start": 3,
+          "username": "justLustluck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052799922739798155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052789558899810711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justLustluck: 我希望我在意的人对我的窥探欲是相互的，如果对我连探索欲都没有的话那会让我觉得不值得也很失望，毕竟我愿意主动让你接近我、并给予了你了解我的机会，不把握也对我不好奇的话那可以滚蛋了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052799922739798155",
+        "created_at": "2026-05-08T17:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052799922739798155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645454737817444353",
+              "start": 3,
+              "username": "justLustluck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052799922739798155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052789558899810711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @justLustluck: 我希望我在意的人对我的窥探欲是相互的，如果对我连探索欲都没有的话那会让我觉得不值得也很失望，毕竟我愿意主动让你接近我、并给予了你了解我的机会，不把握也对我不好奇的话那可以滚蛋了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645454737817444353",
+        "conversation_id": "2052789558899810711",
+        "created_at": "2026-05-08T16:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052789558899810711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052789558899810711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 559,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我希望我在意的人对我的窥探欲是相互的，如果对我连探索欲都没有的话那会让我觉得不值得也很失望，毕竟我愿意主动让你接近我、并给予了你了解我的机会，不把握也对我不好奇的话那可以滚蛋了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6707,
+          "following_count": 193,
+          "like_count": 17109,
+          "listed_count": 27,
+          "media_count": 135,
+          "tweet_count": 1828
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T15:52:51.000Z",
+        "description": "如果有一个怀抱 勇敢 不计代价@Lukmiiin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "Lukmiiin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justlustluck/",
+                "end": 23,
+                "expanded_url": "https://ngl.link/justlustluck/",
+                "start": 0,
+                "url": "https://t.co/1S65eKSLUZ"
+              }
+            ]
+          }
+        },
+        "id": "1645454737817444353",
+        "location": "4i dom&s｜v只给互关",
+        "name": "m8",
+        "pinned_tweet_id": "2031393457391153373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031419504409063430/w1K2WqJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 97,
+          "like_count": 9825,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 3896
+        },
+        "url": "https://t.co/1S65eKSLUZ",
+        "username": "justLustluck",
+        "verified": false
+      }
+    ]
+  }
+}

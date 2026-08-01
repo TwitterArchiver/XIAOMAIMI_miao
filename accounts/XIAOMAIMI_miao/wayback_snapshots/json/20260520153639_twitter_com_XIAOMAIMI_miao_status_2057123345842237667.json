@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2057075621176676756",
+    "created_at": "2026-05-20T15:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057123345842237667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1992966878696984576",
+          "start": 0,
+          "username": "touchmelightlyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057123345842237667",
+    "in_reply_to_user_id": "1992966878696984576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057122826365132849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@touchmelightlyy 好！！！谢谢你！！！🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2057075621176676756",
+        "created_at": "2026-05-20T15:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057123345842237667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992966878696984576",
+              "start": 0,
+              "username": "touchmelightlyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057123345842237667",
+        "in_reply_to_user_id": "1992966878696984576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057122826365132849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@touchmelightlyy 好！！！谢谢你！！！🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992966878696984576",
+        "conversation_id": "2057075621176676756",
+        "created_at": "2026-05-20T15:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057122826365132849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057122826365132849",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057121925470543950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 不会宝贝，就是可能以后你的耳洞戴1.0的杆子会有点胀胀的感觉，因为银饰啥的好像都是0.8的吧我觉得问题不大，我枪打的0.8耳钉养了一年直接嗯戴1.2的杆，除了疼没别的，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7626,
+          "following_count": 198,
+          "like_count": 19242,
+          "listed_count": 26,
+          "media_count": 123,
+          "tweet_count": 2008
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T14:42:00.000Z",
+        "description": "眼泪的汛期",
+        "id": "1992966878696984576",
+        "name": "Kawayiiboom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056012699780202496/mprx4Jsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 0,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 56
+        },
+        "username": "touchmelightlyy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2058725793770152425",
+    "created_at": "2026-05-25T01:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058725793770152425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1950624011505053696",
+          "start": 3,
+          "username": "qinqin18616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058725793770152425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058563925692813465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinqin18616: 被人哄着拍背睡觉到底是啥感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2058725793770152425",
+        "created_at": "2026-05-25T01:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058725793770152425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1950624011505053696",
+              "start": 3,
+              "username": "qinqin18616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058725793770152425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058563925692813465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qinqin18616: 被人哄着拍背睡觉到底是啥感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950624011505053696",
+        "conversation_id": "2058563925692813465",
+        "created_at": "2026-05-24T15:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058563925692813465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058563925692813465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3399,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "被人哄着拍背睡觉到底是啥感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7674,
+          "following_count": 198,
+          "like_count": 19543,
+          "listed_count": 26,
+          "media_count": 132,
+          "tweet_count": 2082
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T18:26:40.000Z",
+        "description": "（熟人刷到了当没看到行不）讲日语是评论诈骗多，不聊骚，声乐/占卜问题可咨询",
+        "id": "1950624011505053696",
+        "location": "Kobe City Chuo Ward, Hyogo",
+        "name": "浅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044357183505412096/uWqXRW2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 9,
+          "like_count": 3337,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1492
+        },
+        "username": "qinqin18616",
+        "verified": false
+      }
+    ]
+  }
+}

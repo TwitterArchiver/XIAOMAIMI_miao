@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052651836772155732",
+    "created_at": "2026-05-08T07:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052651836772155732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1651273923114455041",
+          "start": 3,
+          "username": "X1anx1anZong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052651836772155732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052408030592139558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X1anx1anZong: 这世上最贵的东西就是穷男人的钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052651836772155732",
+        "created_at": "2026-05-08T07:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052651836772155732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1651273923114455041",
+              "start": 3,
+              "username": "X1anx1anZong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052651836772155732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052408030592139558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @X1anx1anZong: 这世上最贵的东西就是穷男人的钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651273923114455041",
+        "conversation_id": "2052408030592139558",
+        "created_at": "2026-05-07T15:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052408030592139558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052408030592139558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 24159,
+          "like_count": 682,
+          "quote_count": 13,
+          "reply_count": 117,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "这世上最贵的东西就是穷男人的钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6570,
+          "following_count": 192,
+          "like_count": 16952,
+          "listed_count": 27,
+          "media_count": 133,
+          "tweet_count": 1788
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T17:16:06.000Z",
+        "description": "奥特之父人间体/荣誉霓虹人/理性蒸发EX  1000円ちょーだい😋🤲\n\n来世に期待",
+        "id": "1651273923114455041",
+        "location": "魔女裁判",
+        "name": "我智力有问题",
+        "pinned_tweet_id": "1758893566326415693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039711550400057345/hBevM-k0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 45,
+          "like_count": 20520,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 11320
+        },
+        "username": "X1anx1anZong",
+        "verified": false
+      }
+    ]
+  }
+}

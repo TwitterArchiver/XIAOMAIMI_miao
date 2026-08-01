@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2046905368341848099",
+    "created_at": "2026-04-22T11:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046910724061143177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2041748267567083525",
+          "start": 0,
+          "username": "Uuyyoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046910724061143177",
+    "in_reply_to_user_id": "2041748267567083525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046909408555540500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uuyyoe 价格太高，下一个！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2046905368341848099",
+        "created_at": "2026-04-22T11:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046910724061143177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041748267567083525",
+              "start": 0,
+              "username": "Uuyyoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046910724061143177",
+        "in_reply_to_user_id": "2041748267567083525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046909408555540500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uuyyoe 价格太高，下一个！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041748267567083525",
+        "conversation_id": "2046905368341848099",
+        "created_at": "2026-04-22T11:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046909408555540500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046909408555540500",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046905368341848099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao rains还可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ碎碎念+身材照",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2045108263386317293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045899834297872384/W2EN1KwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5858,
+          "following_count": 173,
+          "like_count": 13688,
+          "listed_count": 20,
+          "media_count": 61,
+          "tweet_count": 1065
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T05:22:47.000Z",
+        "description": "",
+        "id": "2041748267567083525",
+        "name": "oahjdks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041751447432523779/ttrvILpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 76
+        },
+        "username": "Uuyyoe",
+        "verified": false
+      }
+    ]
+  }
+}

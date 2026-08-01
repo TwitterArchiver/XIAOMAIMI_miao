@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2046511144215495132",
+    "created_at": "2026-04-22T03:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T04:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046787943122280859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970885690398527488",
+          "start": 0,
+          "username": "NPSKUGoqK979284"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046787943122280859",
+    "in_reply_to_user_id": "1970885690398527488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046776100664258764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NPSKUGoqK979284 好可爱的说法！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2046511144215495132",
+        "created_at": "2026-04-22T03:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046787943122280859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970885690398527488",
+              "start": 0,
+              "username": "NPSKUGoqK979284"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046787943122280859",
+        "in_reply_to_user_id": "1970885690398527488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046776100664258764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NPSKUGoqK979284 好可爱的说法！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970885690398527488",
+        "conversation_id": "2046511144215495132",
+        "created_at": "2026-04-22T02:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046776100664258764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046776100664258764",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046511144215495132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 能与物件共情的人都是这辈子第一次当人类•̀֊•́"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ碎碎念+身材照",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2045108263386317293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045899834297872384/W2EN1KwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5842,
+          "following_count": 170,
+          "like_count": 13508,
+          "listed_count": 20,
+          "media_count": 62,
+          "tweet_count": 1024
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T16:19:11.000Z",
+        "description": "求独处教程",
+        "id": "1970885690398527488",
+        "location": "🍎",
+        "name": "苹果",
+        "pinned_tweet_id": "2032515740415467852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974898160654004224/JDhu7R9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13755,
+          "following_count": 134,
+          "like_count": 1444,
+          "listed_count": 22,
+          "media_count": 119,
+          "tweet_count": 407
+        },
+        "username": "NPSKUGoqK979284",
+        "verified": false
+      }
+    ]
+  }
+}

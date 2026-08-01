@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2062443584876622171",
+    "created_at": "2026-06-04T13:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062521674239778821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2043259613802332160",
+          "start": 0,
+          "username": "curry_step61242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062521674239778821",
+    "in_reply_to_user_id": "2043259613802332160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062521245653176767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@curry_step61242 都有档，都玩过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2062443584876622171",
+        "created_at": "2026-06-04T13:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062521674239778821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2043259613802332160",
+              "start": 0,
+              "username": "curry_step61242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062521674239778821",
+        "in_reply_to_user_id": "2043259613802332160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062521245653176767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@curry_step61242 都有档，都玩过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043259613802332160",
+        "conversation_id": "2062443584876622171",
+        "created_at": "2026-06-04T13:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062521245653176767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062521245653176767",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062443584876622171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 下一个档你可以试试joja流，发展速度太爽了，第一次玩收集了两年才把社区建完😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ\n酸酸又瑟瑟文稿发在这边@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8089,
+          "following_count": 198,
+          "like_count": 20488,
+          "listed_count": 29,
+          "media_count": 154,
+          "tweet_count": 2252
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T09:28:27.000Z",
+        "description": "🤔",
+        "id": "2043259613802332160",
+        "name": "kiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045454221152292864/om21sxuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 55,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 183
+        },
+        "username": "curry_step61242",
+        "verified": false
+      }
+    ]
+  }
+}

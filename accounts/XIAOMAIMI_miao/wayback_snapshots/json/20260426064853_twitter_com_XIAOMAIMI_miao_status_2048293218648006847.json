@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048289701698977951",
+    "created_at": "2026-04-26T06:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048293218648006847"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048293218648006847",
+    "in_reply_to_user_id": "1942995969043501056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048289701698977951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是我真觉得我有ADHD，，，而且我也有朋友觉得我的ADHD症状很明显，，，😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048289701698977951",
+        "created_at": "2026-04-26T06:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048293218648006847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048293218648006847",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048289701698977951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是我真觉得我有ADHD，，，而且我也有朋友觉得我的ADHD症状很明显，，，😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048289701698977951",
+        "created_at": "2026-04-26T06:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048289701698977951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048289701698977951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常会怀疑自己这里有病那里有病，但是又害怕自己是装的，实际上什么病都没有。😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5959,
+          "following_count": 177,
+          "like_count": 14226,
+          "listed_count": 21,
+          "media_count": 69,
+          "tweet_count": 1157
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

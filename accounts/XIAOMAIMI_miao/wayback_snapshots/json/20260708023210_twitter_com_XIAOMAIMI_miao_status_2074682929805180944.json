@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2074676506941620347",
+    "created_at": "2026-07-08T02:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T03:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074682929805180944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1622114910133002241",
+          "start": 0,
+          "username": "xsh19068663"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074682929805180944",
+    "in_reply_to_user_id": "1622114910133002241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074676506941620347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsh19068663 老大你是没试过把小猫梳下来的猫毛团成球丢给他玩！我家布偶特别爱玩他自己的毛球球www"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25503,
+        "height": 1280,
+        "media_key": "13_2074676418353803264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074676418353803264/img/hVVcAH7iG-HmZRoD.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074676418353803264/vid/avc1/320x568/D5kgN0h9MLL-hyJf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074676418353803264/vid/avc1/480x852/p5lY6wGqegqcI-t5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074676418353803264/vid/avc1/720x1280/YqvDddTrQCxx1hLC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074676418353803264/pl/Rjnf9g4TqhzatPEw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2074676506941620347",
+        "created_at": "2026-07-08T02:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074682929805180944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1622114910133002241",
+              "start": 0,
+              "username": "xsh19068663"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074682929805180944",
+        "in_reply_to_user_id": "1622114910133002241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074676506941620347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsh19068663 老大你是没试过把小猫梳下来的猫毛团成球丢给他玩！我家布偶特别爱玩他自己的毛球球www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074676418353803264"
+          ]
+        },
+        "author_id": "1622114910133002241",
+        "conversation_id": "2074676506941620347",
+        "created_at": "2026-07-08T02:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074676506941620347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pPP2HBx7hL",
+              "end": 49,
+              "expanded_url": "https://x.com/xsh19068663/status/2074676506941620347/video/1",
+              "media_key": "13_2074676418353803264",
+              "start": 26,
+              "url": "https://t.co/pPP2HBx7hL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074676506941620347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给海苔买玩具完全没必要    卫生纸团他都能玩半天 https://t.co/pPP2HBx7hL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8667,
+          "following_count": 240,
+          "like_count": 25892,
+          "listed_count": 28,
+          "media_count": 60,
+          "tweet_count": 2458
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T06:08:55.000Z",
+        "description": "防丢小号@Kuromise887\n匿名提问链接https://t.co/od9N959uey",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Kuromise887"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%80%81%E5%8…",
+                "end": 46,
+                "expanded_url": "https://ngl.link/%E8%80%81%E5%85%AC%E7%A1%AC%E7%A1%AC%E7%9A%84%E5%8E%9F%E6%9D%A5%E6%98%AF%E6%AD%BB%E4%BA%86",
+                "start": 23,
+                "url": "https://t.co/od9N959uey"
+              }
+            ]
+          }
+        },
+        "id": "1622114910133002241",
+        "location": "2.4km  ",
+        "name": "老公硬硬的原来是死了",
+        "pinned_tweet_id": "2025389471706050656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047853531894624256/uIrZEsBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2902,
+          "following_count": 395,
+          "like_count": 2433,
+          "listed_count": 6,
+          "media_count": 277,
+          "tweet_count": 3439
+        },
+        "url": "",
+        "username": "xsh19068663",
+        "verified": false
+      }
+    ]
+  }
+}

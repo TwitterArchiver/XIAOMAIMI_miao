@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2063541867405615522",
+    "created_at": "2026-06-08T04:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063835235415142714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1999582662152056832",
+          "start": 0,
+          "username": "q315830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063835235415142714",
+    "in_reply_to_user_id": "1999582662152056832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063810784921010304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q315830 但是运气不好，买的那个啤酒很不好喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2063541867405615522",
+        "created_at": "2026-06-08T04:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063835235415142714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1999582662152056832",
+              "start": 0,
+              "username": "q315830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063835235415142714",
+        "in_reply_to_user_id": "1999582662152056832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063810784921010304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q315830 但是运气不好，买的那个啤酒很不好喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999582662152056832",
+        "conversation_id": "2063541867405615522",
+        "created_at": "2026-06-08T02:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063810784921010304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063810784921010304",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063541867405615522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 会享受生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ\n酸酸又瑟瑟文稿发在这边@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8199,
+          "following_count": 201,
+          "like_count": 20802,
+          "listed_count": 30,
+          "media_count": 166,
+          "tweet_count": 2297
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T20:50:41.000Z",
+        "description": "",
+        "id": "1999582662152056832",
+        "name": "青山",
+        "pinned_tweet_id": "2034001679725826434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041913560650149888/7ROrAicn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 61,
+          "like_count": 6189,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 207
+        },
+        "username": "q315830",
+        "verified": false
+      }
+    ]
+  }
+}

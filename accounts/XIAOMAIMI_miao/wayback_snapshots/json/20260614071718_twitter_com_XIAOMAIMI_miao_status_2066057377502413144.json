@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066056519834300524",
+    "created_at": "2026-06-14T07:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066057377502413144"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066057377502413144",
+    "in_reply_to_user_id": "1942995969043501056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066056519834300524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了我现在一想到之前和他的那些破事我就恶心的难受我想哭。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1782,
+        "media_key": "3_2066056512343306240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwbc5ga8AAy4Lc.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066056519834300524",
+        "created_at": "2026-06-14T07:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066057377502413144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066057377502413144",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066056519834300524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了我现在一想到之前和他的那些破事我就恶心的难受我想哭。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066056512343306240"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066056519834300524",
+        "created_at": "2026-06-14T07:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066056519834300524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNdsmfAOo7",
+              "end": 158,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2066056519834300524/photo/1",
+              "media_key": "3_2066056512343306240",
+              "start": 135,
+              "url": "https://t.co/CNdsmfAOo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066056519834300524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃登上三角洲刚好遇见之前的共友在线，莫名其妙聊到前任了。。。我现在对我前任就纯恨。傻逼。妈的我一想到他之前装逼和我说家里有人脉能联系到x校的某导师，可以和老师沟通然后走后门录取我就特么想笑。你考去吧你考去吧，祝你有光明前程。我只能在后面妒忌的牙痒痒然后考不上去找工作。 https://t.co/CNdsmfAOo7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8285,
+          "following_count": 210,
+          "like_count": 21962,
+          "listed_count": 28,
+          "media_count": 178,
+          "tweet_count": 2521
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

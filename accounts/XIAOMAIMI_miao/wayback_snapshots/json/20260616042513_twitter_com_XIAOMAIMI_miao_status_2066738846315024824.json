@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066738831387508737"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066737336667496955",
+    "created_at": "2026-06-16T04:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066738846315024824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587039924913831936",
+          "start": 0,
+          "username": "Chrs_mua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ELMlagLkY",
+          "end": 46,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2066738846315024824/photo/1",
+          "media_key": "3_2066738831387508737",
+          "start": 23,
+          "url": "https://t.co/9ELMlagLkY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066738846315024824",
+    "in_reply_to_user_id": "1587039924913831936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066737336667496955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chrs_mua 已严肃脱掉裤子准备午睡！ https://t.co/9ELMlagLkY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066738831387508737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6IBGBbwAEYEO5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2210,
+        "media_key": "3_2066737326185926656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6GpetaUAAr6HQ.jpg",
+        "width": 1658
+      },
+      {
+        "height": 2080,
+        "media_key": "3_2066737326194339840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6GpevasAAmvQA.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066738831387508737"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066737336667496955",
+        "created_at": "2026-06-16T04:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066738846315024824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587039924913831936",
+              "start": 0,
+              "username": "Chrs_mua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ELMlagLkY",
+              "end": 46,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2066738846315024824/photo/1",
+              "media_key": "3_2066738831387508737",
+              "start": 23,
+              "url": "https://t.co/9ELMlagLkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066738846315024824",
+        "in_reply_to_user_id": "1587039924913831936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066737336667496955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chrs_mua 已严肃脱掉裤子准备午睡！ https://t.co/9ELMlagLkY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066737326185926656",
+            "3_2066737326194339840"
+          ]
+        },
+        "author_id": "1587039924913831936",
+        "conversation_id": "2066737336667496955",
+        "created_at": "2026-06-16T04:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066737336667496955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBDfTUgCCY",
+              "end": 33,
+              "expanded_url": "https://x.com/Chrs_mua/status/2066737336667496955/photo/1",
+              "media_key": "3_2066737326185926656",
+              "start": 10,
+              "url": "https://t.co/PBDfTUgCCY"
+            },
+            {
+              "display_url": "pic.x.com/PBDfTUgCCY",
+              "end": 33,
+              "expanded_url": "https://x.com/Chrs_mua/status/2066737336667496955/photo/1",
+              "media_key": "3_2066737326194339840",
+              "start": 10,
+              "url": "https://t.co/PBDfTUgCCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066737336667496955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不脱裤子不准上床😈 https://t.co/PBDfTUgCCY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8311,
+          "following_count": 216,
+          "like_count": 22691,
+          "listed_count": 28,
+          "media_count": 125,
+          "tweet_count": 2593
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T11:13:18.000Z",
+        "description": "随便看看 都很喜欢🩷\n没有🚪 不加🛰 止于推🔚\n有赛博暴露癖 喜欢半夜发疯",
+        "id": "1587039924913831936",
+        "location": "投喂请发口令 给我的gelato加个球🍨",
+        "name": "张桂芬",
+        "pinned_tweet_id": "2038611597523063008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957279870712692736/tAUB0yEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31232,
+          "following_count": 57,
+          "like_count": 1375,
+          "listed_count": 69,
+          "media_count": 247,
+          "tweet_count": 1242
+        },
+        "username": "Chrs_mua",
+        "verified": false
+      }
+    ]
+  }
+}

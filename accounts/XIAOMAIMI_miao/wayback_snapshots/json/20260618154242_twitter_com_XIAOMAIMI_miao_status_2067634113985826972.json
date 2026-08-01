@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2067629566731137103",
+    "created_at": "2026-06-18T15:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067634113985826972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1511174717465853953",
+          "start": 0,
+          "username": "_xiaoaishen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067634113985826972",
+    "in_reply_to_user_id": "1511174717465853953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067629566731137103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_xiaoaishen 咋这么萌呀，，，我要亲我要亲我要亲，，，！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067629549077360640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGyHr_bcAA-VR_.jpg",
+        "width": 1414
+      },
+      {
+        "height": 1980,
+        "media_key": "3_2067629548578238464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGyHqIbcAAzGR-.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067629548586582016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGyHqKawAAyuoJ.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067629548657889280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGyHqba0AA4T_S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2067629566731137103",
+        "created_at": "2026-06-18T15:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067634113985826972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1511174717465853953",
+              "start": 0,
+              "username": "_xiaoaishen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067634113985826972",
+        "in_reply_to_user_id": "1511174717465853953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067629566731137103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_xiaoaishen 咋这么萌呀，，，我要亲我要亲我要亲，，，！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067629549077360640",
+            "3_2067629548578238464",
+            "3_2067629548586582016",
+            "3_2067629548657889280"
+          ]
+        },
+        "author_id": "1511174717465853953",
+        "conversation_id": "2067629566731137103",
+        "created_at": "2026-06-18T15:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067629566731137103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pe380Sk9NS",
+              "end": 42,
+              "expanded_url": "https://x.com/_xiaoaishen/status/2067629566731137103/photo/1",
+              "media_key": "3_2067629549077360640",
+              "start": 19,
+              "url": "https://t.co/Pe380Sk9NS"
+            },
+            {
+              "display_url": "pic.x.com/Pe380Sk9NS",
+              "end": 42,
+              "expanded_url": "https://x.com/_xiaoaishen/status/2067629566731137103/photo/1",
+              "media_key": "3_2067629548578238464",
+              "start": 19,
+              "url": "https://t.co/Pe380Sk9NS"
+            },
+            {
+              "display_url": "pic.x.com/Pe380Sk9NS",
+              "end": 42,
+              "expanded_url": "https://x.com/_xiaoaishen/status/2067629566731137103/photo/1",
+              "media_key": "3_2067629548586582016",
+              "start": 19,
+              "url": "https://t.co/Pe380Sk9NS"
+            },
+            {
+              "display_url": "pic.x.com/Pe380Sk9NS",
+              "end": 42,
+              "expanded_url": "https://x.com/_xiaoaishen/status/2067629566731137103/photo/1",
+              "media_key": "3_2067629548657889280",
+              "start": 19,
+              "url": "https://t.co/Pe380Sk9NS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067629566731137103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不上班的时候我温良的长得像一只水獭。 https://t.co/Pe380Sk9NS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8350,
+          "following_count": 226,
+          "like_count": 23305,
+          "listed_count": 28,
+          "media_count": 50,
+          "tweet_count": 2590
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T02:51:48.000Z",
+        "description": "在努力學習成為厲害的大人ᗜⰙᗜ",
+        "id": "1511174717465853953",
+        "name": "每天都不想早起",
+        "pinned_tweet_id": "2064619706989072656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062020873612328960/XOBtm1x8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 86,
+          "like_count": 6042,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 892
+        },
+        "username": "_xiaoaishen",
+        "verified": false
+      }
+    ]
+  }
+}

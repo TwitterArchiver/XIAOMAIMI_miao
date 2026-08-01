@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048543056010613213",
+    "created_at": "2026-04-27T00:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T01:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048556810815394212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1512373779933978626",
+          "start": 0,
+          "username": "sweetiekittylol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048556810815394212",
+    "in_reply_to_user_id": "1512373779933978626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048555479509700663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@sweetiekittylol 白色嘴努子萌的要鼠，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048543056010613213",
+        "created_at": "2026-04-27T00:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048556810815394212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1512373779933978626",
+              "start": 0,
+              "username": "sweetiekittylol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048556810815394212",
+        "in_reply_to_user_id": "1512373779933978626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048555479509700663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@sweetiekittylol 白色嘴努子萌的要鼠，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512373779933978626",
+        "conversation_id": "2048543056010613213",
+        "created_at": "2026-04-27T00:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048555479509700663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048555479509700663",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048553770284724469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@XIAOMAIMI_miao 忧郁的大面包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5999,
+          "following_count": 180,
+          "like_count": 14305,
+          "listed_count": 23,
+          "media_count": 69,
+          "tweet_count": 1169
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T10:16:35.000Z",
+        "description": "ᐕ)ﾉ@kissmyloin\n  ✉️https://t.co/S2Ixg7QNcz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "kissmyloin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sweetiekittylol",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sweetiekittylol",
+                "start": 19,
+                "url": "https://t.co/S2Ixg7QNcz"
+              }
+            ]
+          }
+        },
+        "id": "1512373779933978626",
+        "location": "小猫会永远陪在你身边",
+        "name": "有时变成你下班路上遇见的小猫",
+        "pinned_tweet_id": "1996192099121963469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774994951652376576/zBfhfO-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25843,
+          "following_count": 681,
+          "like_count": 17269,
+          "listed_count": 59,
+          "media_count": 1150,
+          "tweet_count": 9718
+        },
+        "username": "sweetiekittylol",
+        "verified": false
+      }
+    ]
+  }
+}

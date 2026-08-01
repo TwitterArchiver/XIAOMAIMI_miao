@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2049341803376386048"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049341861530366101",
+    "created_at": "2026-04-29T04:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T05:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049341861530366101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GdDhiPx9oP",
+          "end": 47,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2049341861530366101/video/1",
+          "media_key": "7_2049341803376386048",
+          "start": 24,
+          "url": "https://t.co/GdDhiPx9oP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049341861530366101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妹子玩蕾娜手感好的时候就这样😋（依旧下三打法） https://t.co/GdDhiPx9oP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32093,
+        "height": 720,
+        "media_key": "7_2049341803376386048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049341803376386048/pu/img/DLeW5ZtjUzXkHq7j.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049341803376386048/pu/vid/avc1/432x270/De1DRyWaqGZE-xTg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049341803376386048/pu/vid/avc1/576x360/LOeXXnMT3C6-avgH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049341803376386048/pu/vid/avc1/1152x720/o_gzD-bFvvB8fsQ4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049341803376386048/pu/pl/uwkJTlWvfot6efQ1.m3u8?tag=12"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049341803376386048"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049341861530366101",
+        "created_at": "2026-04-29T04:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049341861530366101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GdDhiPx9oP",
+              "end": 47,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2049341861530366101/video/1",
+              "media_key": "7_2049341803376386048",
+              "start": 24,
+              "url": "https://t.co/GdDhiPx9oP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049341861530366101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹子玩蕾娜手感好的时候就这样😋（依旧下三打法） https://t.co/GdDhiPx9oP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6170,
+          "following_count": 188,
+          "like_count": 15001,
+          "listed_count": 28,
+          "media_count": 85,
+          "tweet_count": 1350
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

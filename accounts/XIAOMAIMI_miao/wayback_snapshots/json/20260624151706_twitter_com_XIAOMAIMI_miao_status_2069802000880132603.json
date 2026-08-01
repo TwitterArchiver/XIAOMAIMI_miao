@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069463624742260736"
+      ],
+      "media_source_tweet_id": [
+        "2069463632149369242"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2069802000880132603",
+    "created_at": "2026-06-24T15:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069802000880132603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1842825961559183360",
+          "start": 3,
+          "username": "SSKSjjq8GK56443"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qo65QtQvVD",
+          "end": 50,
+          "expanded_url": "https://x.com/SSKSjjq8GK56443/status/2069463632149369242/photo/1",
+          "media_key": "3_2069463624742260736",
+          "start": 27,
+          "url": "https://t.co/Qo65QtQvVD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069802000880132603",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069463632149369242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SSKSjjq8GK56443: ꒦ິ^꒦ິ https://t.co/Qo65QtQvVD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1129,
+        "media_key": "3_2069463624742260736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLg2M8Ra0AAzLLZ.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069463624742260736"
+          ],
+          "media_source_tweet_id": [
+            "2069463632149369242"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2069802000880132603",
+        "created_at": "2026-06-24T15:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069802000880132603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1842825961559183360",
+              "start": 3,
+              "username": "SSKSjjq8GK56443"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qo65QtQvVD",
+              "end": 50,
+              "expanded_url": "https://x.com/SSKSjjq8GK56443/status/2069463632149369242/photo/1",
+              "media_key": "3_2069463624742260736",
+              "start": 27,
+              "url": "https://t.co/Qo65QtQvVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069802000880132603",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069463632149369242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SSKSjjq8GK56443: ꒦ິ^꒦ິ https://t.co/Qo65QtQvVD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069463624742260736"
+          ]
+        },
+        "author_id": "1842825961559183360",
+        "conversation_id": "2069463632149369242",
+        "created_at": "2026-06-23T16:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069463632149369242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qo65QtQvVD",
+              "end": 29,
+              "expanded_url": "https://x.com/SSKSjjq8GK56443/status/2069463632149369242/photo/1",
+              "media_key": "3_2069463624742260736",
+              "start": 6,
+              "url": "https://t.co/Qo65QtQvVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069463632149369242",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6473,
+          "like_count": 161,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "꒦ິ^꒦ິ https://t.co/Qo65QtQvVD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8369,
+          "following_count": 233,
+          "like_count": 24011,
+          "listed_count": 29,
+          "media_count": 43,
+          "tweet_count": 2293
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T07:15:29.000Z",
+        "description": "许愿一条离开我就会死的狗",
+        "id": "1842825961559183360",
+        "location": "喜欢有趣的宝宝",
+        "name": "-",
+        "pinned_tweet_id": "1882884037569888452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065896533346693120/Qpz_7zlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4864,
+          "following_count": 26,
+          "like_count": 375,
+          "listed_count": 21,
+          "media_count": 11,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "SSKSjjq8GK56443",
+        "verified": false
+      }
+    ]
+  }
+}

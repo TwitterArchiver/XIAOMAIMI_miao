@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052178321115652143",
+    "created_at": "2026-05-07T00:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T01:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052178321115652143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "126581934",
+          "start": 3,
+          "username": "dearemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052178321115652143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051999858694008918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dearemon: 拜托你一直鲜活，keep learning，去思考原子、 死亡、性、外星人、魔法、生命的意义、遥远的星系，让人想跳舞的音乐…总之不要困在人和人的关系里，不要一潭死水，不要一成不变。拜托你拥有更大的信息密度和更高的知识层面，不要浅薄，不要无知。也拜托你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052178321115652143",
+        "created_at": "2026-05-07T00:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052178321115652143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "126581934",
+              "start": 3,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052178321115652143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051999858694008918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dearemon: 拜托你一直鲜活，keep learning，去思考原子、 死亡、性、外星人、魔法、生命的意义、遥远的星系，让人想跳舞的音乐…总之不要困在人和人的关系里，不要一潭死水，不要一成不变。拜托你拥有更大的信息密度和更高的知识层面，不要浅薄，不要无知。也拜托你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "126581934",
+        "conversation_id": "2051999858694008918",
+        "created_at": "2026-05-06T12:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051999858694008918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051999858694008918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 9239,
+          "like_count": 466,
+          "quote_count": 2,
+          "reply_count": 99,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "拜托你一直鲜活，keep learning，去思考原子、 死亡、性、外星人、魔法、生命的意义、遥远的星系，让人想跳舞的音乐…总之不要困在人和人的关系里，不要一潭死水，不要一成不变。拜托你拥有更大的信息密度和更高的知识层面，不要浅薄，不要无知。也拜托你永远莽撞，永远勇敢，永远知道爱是什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6488,
+          "following_count": 192,
+          "like_count": 16746,
+          "listed_count": 28,
+          "media_count": 124,
+          "tweet_count": 1718
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55314,
+          "following_count": 673,
+          "like_count": 5802,
+          "listed_count": 211,
+          "media_count": 28672,
+          "tweet_count": 388276
+        },
+        "url": "",
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

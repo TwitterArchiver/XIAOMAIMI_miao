@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2067846210480976042",
+    "created_at": "2026-06-19T06:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067852189603954897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783058785134895104",
+          "start": 0,
+          "username": "youaremylove976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067852189603954897",
+    "in_reply_to_user_id": "1783058785134895104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067846210480976042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youaremylove976 毛血旺给我来一碗，不要血。桃子给我来一个，洗干净！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067845787372183552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJ2yaabYAA5mHP.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2067845864920592385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJ227TaMAE6ee_.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2067845965760081920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJ28y9asAAlN6r.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2067846210480976042",
+        "created_at": "2026-06-19T06:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067852189603954897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783058785134895104",
+              "start": 0,
+              "username": "youaremylove976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067852189603954897",
+        "in_reply_to_user_id": "1783058785134895104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067846210480976042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youaremylove976 毛血旺给我来一碗，不要血。桃子给我来一个，洗干净！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067845787372183552",
+            "3_2067845864920592385",
+            "3_2067845965760081920"
+          ]
+        },
+        "author_id": "1783058785134895104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067846210480976042",
+        "created_at": "2026-06-19T05:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067846210480976042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Omtl5OGnpq",
+              "end": 29,
+              "expanded_url": "https://x.com/youaremylove976/status/2067846210480976042/photo/1",
+              "media_key": "3_2067845787372183552",
+              "start": 6,
+              "url": "https://t.co/Omtl5OGnpq"
+            },
+            {
+              "display_url": "pic.x.com/Omtl5OGnpq",
+              "end": 29,
+              "expanded_url": "https://x.com/youaremylove976/status/2067846210480976042/photo/1",
+              "media_key": "3_2067845864920592385",
+              "start": 6,
+              "url": "https://t.co/Omtl5OGnpq"
+            },
+            {
+              "display_url": "pic.x.com/Omtl5OGnpq",
+              "end": 29,
+              "expanded_url": "https://x.com/youaremylove976/status/2067846210480976042/photo/1",
+              "media_key": "3_2067845965760081920",
+              "start": 6,
+              "url": "https://t.co/Omtl5OGnpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067846210480976042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "端午安康呀 https://t.co/Omtl5OGnpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8354,
+          "following_count": 227,
+          "like_count": 23385,
+          "listed_count": 28,
+          "media_count": 45,
+          "tweet_count": 2592
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T09:02:06.000Z",
+        "description": "直男 随便发发日常，欢迎大家找我聊天\n可以来玩匿名喔https://t.co/zvsivWwNz9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wudixiaomao",
+                "end": 49,
+                "expanded_url": "https://ngl.link/wudixiaomao",
+                "start": 26,
+                "url": "https://t.co/zvsivWwNz9"
+              }
+            ]
+          }
+        },
+        "id": "1783058785134895104",
+        "name": "电子止疼药",
+        "pinned_tweet_id": "2051331948757561424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892950429870264321/VhtiFZNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 505,
+          "like_count": 9390,
+          "listed_count": 2,
+          "media_count": 333,
+          "tweet_count": 3264
+        },
+        "url": "",
+        "username": "youaremylove976",
+        "verified": false
+      }
+    ]
+  }
+}

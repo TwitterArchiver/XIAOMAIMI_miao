@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066066561186808300",
+    "created_at": "2026-06-14T17:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066205839527121289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012455424180604928",
+          "start": 0,
+          "username": "Sugarttt06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066205839527121289",
+    "in_reply_to_user_id": "2012455424180604928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066203132565303390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sugarttt06 我也是，，，总是三分钟热度，遇见困难就打退堂鼓，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T17:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066205839527121289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012455424180604928",
+              "start": 0,
+              "username": "Sugarttt06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066205839527121289",
+        "in_reply_to_user_id": "2012455424180604928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066203132565303390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sugarttt06 我也是，，，总是三分钟热度，遇见困难就打退堂鼓，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012455424180604928",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T16:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066203132565303390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066203132565303390",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066066561186808300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我真的很佩服可以下定决心并且很好的完成某一件事的人 因为我自己每次都是三分钟热度。从来没有这样的经历，好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8291,
+          "following_count": 211,
+          "like_count": 22178,
+          "listed_count": 28,
+          "media_count": 116,
+          "tweet_count": 2503
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T09:22:29.000Z",
+        "description": "",
+        "id": "2012455424180604928",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062912388341608449/rK0tM5hF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 54
+        },
+        "username": "Sugarttt06",
+        "verified": false
+      }
+    ]
+  }
+}

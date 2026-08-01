@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066886801743351933",
+    "created_at": "2026-06-16T14:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066893084617748750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "959490839364931586",
+          "start": 0,
+          "username": "Nseeuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066893084617748750",
+    "in_reply_to_user_id": "959490839364931586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066886801743351933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nseeuo 橙子别回头，，有点痛是正常的，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1913,
+        "media_key": "3_2066886794831138816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8OlszbEAATKg_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066886801743351933",
+        "created_at": "2026-06-16T14:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066893084617748750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "959490839364931586",
+              "start": 0,
+              "username": "Nseeuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066893084617748750",
+        "in_reply_to_user_id": "959490839364931586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066886801743351933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nseeuo 橙子别回头，，有点痛是正常的，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066886794831138816"
+          ]
+        },
+        "author_id": "959490839364931586",
+        "conversation_id": "2066886801743351933",
+        "created_at": "2026-06-16T14:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066886801743351933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6n0mCrQ4vE",
+              "end": 28,
+              "expanded_url": "https://x.com/Nseeuo/status/2066886801743351933/photo/1",
+              "media_key": "3_2066886794831138816",
+              "start": 5,
+              "url": "https://t.co/6n0mCrQ4vE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066886801743351933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 102,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摔倒了😈 https://t.co/6n0mCrQ4vE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8353,
+          "following_count": 219,
+          "like_count": 22832,
+          "listed_count": 28,
+          "media_count": 85,
+          "tweet_count": 2587
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-02T18:16:57.000Z",
+        "description": "小🍊的养成计划",
+        "id": "959490839364931586",
+        "location": "250m",
+        "name": "橙子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014657523283066885/AYXM0S0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5288,
+          "following_count": 50,
+          "like_count": 932,
+          "listed_count": 22,
+          "media_count": 84,
+          "tweet_count": 395
+        },
+        "username": "Nseeuo",
+        "verified": false
+      }
+    ]
+  }
+}

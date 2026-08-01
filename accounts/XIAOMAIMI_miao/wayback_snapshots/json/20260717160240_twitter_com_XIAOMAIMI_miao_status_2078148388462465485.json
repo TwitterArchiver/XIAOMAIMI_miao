@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2078146131402580293",
+    "created_at": "2026-07-17T16:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078148388462465485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996918310349557762",
+          "start": 0,
+          "username": "Guli1817513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078148388462465485",
+    "in_reply_to_user_id": "1996918310349557762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078148038535860534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guli1817513 真特么恐怖呀。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2078146131402580293",
+        "created_at": "2026-07-17T16:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078148388462465485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996918310349557762",
+              "start": 0,
+              "username": "Guli1817513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078148388462465485",
+        "in_reply_to_user_id": "1996918310349557762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078148038535860534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guli1817513 真特么恐怖呀。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996918310349557762",
+        "conversation_id": "2078146131402580293",
+        "created_at": "2026-07-17T16:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078148038535860534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078148038535860534",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078146131402580293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 就是这样，有的男的，说着说着话一根吊就附身了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9331,
+          "following_count": 255,
+          "like_count": 26396,
+          "listed_count": 31,
+          "media_count": 60,
+          "tweet_count": 2591
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T12:23:39.000Z",
+        "description": "经营自己的呆逼生活中……",
+        "id": "1996918310349557762",
+        "location": "幸福",
+        "name": "Guli",
+        "pinned_tweet_id": "2069768155795538070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057270374472028160/Z3qJUpTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 142,
+          "like_count": 4746,
+          "listed_count": 0,
+          "media_count": 871,
+          "tweet_count": 6218
+        },
+        "url": "",
+        "username": "Guli1817513",
+        "verified": true
+      }
+    ]
+  }
+}

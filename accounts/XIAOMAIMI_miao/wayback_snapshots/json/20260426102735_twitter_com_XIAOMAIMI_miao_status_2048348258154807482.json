@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048348247891259392"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048348258154807482",
+    "created_at": "2026-04-26T10:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048348258154807482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FzaUhXBC80",
+          "end": 55,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2048348258154807482/photo/1",
+          "media_key": "3_2048348247891259392",
+          "start": 32,
+          "url": "https://t.co/FzaUhXBC80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048348258154807482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想同时展示两边的耳钉，，，等左边好了我就要配一套蓝绿的同色系😋 https://t.co/FzaUhXBC80"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048348247891259392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0x4PvaMAAnzkf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048348247891259392"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048348258154807482",
+        "created_at": "2026-04-26T10:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048348258154807482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FzaUhXBC80",
+              "end": 55,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2048348258154807482/photo/1",
+              "media_key": "3_2048348247891259392",
+              "start": 32,
+              "url": "https://t.co/FzaUhXBC80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048348258154807482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想同时展示两边的耳钉，，，等左边好了我就要配一套蓝绿的同色系😋 https://t.co/FzaUhXBC80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5965,
+          "following_count": 177,
+          "like_count": 14261,
+          "listed_count": 21,
+          "media_count": 72,
+          "tweet_count": 1165
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

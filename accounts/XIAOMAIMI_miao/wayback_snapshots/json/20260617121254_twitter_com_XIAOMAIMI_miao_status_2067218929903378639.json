@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2067194287444603369",
+    "created_at": "2026-06-17T12:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067218929903378639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996918310349557762",
+          "start": 0,
+          "username": "Guli1817513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067218929903378639",
+    "in_reply_to_user_id": "1996918310349557762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067194287444603369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guli1817513 搞个牵线恋爱活动吧！（不是）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2067194287444603369",
+        "created_at": "2026-06-17T12:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067218929903378639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996918310349557762",
+              "start": 0,
+              "username": "Guli1817513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067218929903378639",
+        "in_reply_to_user_id": "1996918310349557762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067194287444603369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guli1817513 搞个牵线恋爱活动吧！（不是）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996918310349557762",
+        "conversation_id": "2067194287444603369",
+        "created_at": "2026-06-17T10:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067194287444603369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067194287444603369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的互关们怎么都在说想谈恋爱呀？我靠。🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8365,
+          "following_count": 222,
+          "like_count": 23029,
+          "listed_count": 28,
+          "media_count": 89,
+          "tweet_count": 2616
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T12:23:39.000Z",
+        "description": "幸福就好了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guli33050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guli33050",
+                "start": 0,
+                "url": "https://t.co/vFNHmjljcQ"
+              }
+            ]
+          }
+        },
+        "id": "1996918310349557762",
+        "location": "合肥",
+        "name": "Guli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057270374472028160/Z3qJUpTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 123,
+          "like_count": 3625,
+          "listed_count": 0,
+          "media_count": 774,
+          "tweet_count": 5209
+        },
+        "url": "https://t.co/vFNHmjljcQ",
+        "username": "Guli1817513",
+        "verified": false
+      }
+    ]
+  }
+}

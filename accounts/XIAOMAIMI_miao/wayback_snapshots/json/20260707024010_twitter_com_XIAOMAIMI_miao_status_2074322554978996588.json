@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2074299284292522186",
+    "created_at": "2026-07-07T02:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074322554978996588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1512373779933978626",
+          "start": 0,
+          "username": "sweetiekittylol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074322554978996588",
+    "in_reply_to_user_id": "1512373779933978626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074299284292522186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sweetiekittylol 妈妈，，，，妈妈妈妈妈妈，，，，，💗💗💗💗💗🥵🥵🥵🥵🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 112966,
+        "height": 1080,
+        "media_key": "13_2074298992545218560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074298992545218560/img/zpKfYzyapnYGoO9B.jpg",
+        "public_metrics": {
+          "view_count": 391
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074298992545218560/vid/avc1/480x270/iJZ49Fn2nMOL-xjY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074298992545218560/vid/avc1/640x360/5w-JWQf28bSmBM_L.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074298992545218560/vid/avc1/1280x720/eNSrwwaer9a9b4-M.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074298992545218560/pl/qmCs4DdNwA24FmRk.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2074299284292522186",
+        "created_at": "2026-07-07T02:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074322554978996588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1512373779933978626",
+              "start": 0,
+              "username": "sweetiekittylol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074322554978996588",
+        "in_reply_to_user_id": "1512373779933978626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074299284292522186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sweetiekittylol 妈妈，，，，妈妈妈妈妈妈，，，，，💗💗💗💗💗🥵🥵🥵🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074298992545218560"
+          ]
+        },
+        "author_id": "1512373779933978626",
+        "conversation_id": "2074299284292522186",
+        "created_at": "2026-07-07T01:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074299284292522186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6z03fZ3ow",
+              "end": 32,
+              "expanded_url": "https://x.com/sweetiekittylol/status/2074299284292522186/video/1",
+              "media_key": "13_2074298992545218560",
+              "start": 9,
+              "url": "https://t.co/o6z03fZ3ow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074299284292522186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 851,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于可以发视频了 https://t.co/o6z03fZ3ow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8609,
+          "following_count": 242,
+          "like_count": 25830,
+          "listed_count": 28,
+          "media_count": 58,
+          "tweet_count": 2443
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T10:16:35.000Z",
+        "description": "ᐕ)ﾉ@kissmyloin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "kissmyloin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sweetiekittyngl",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sweetiekittyngl",
+                "start": 0,
+                "url": "https://t.co/tPsOsbsRRl"
+              }
+            ]
+          }
+        },
+        "id": "1512373779933978626",
+        "location": "小猫会永远陪在你身边",
+        "name": "有时变成你下班路上遇见的小猫",
+        "pinned_tweet_id": "1996192099121963469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774994951652376576/zBfhfO-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27058,
+          "following_count": 687,
+          "like_count": 18416,
+          "listed_count": 65,
+          "media_count": 1251,
+          "tweet_count": 10211
+        },
+        "url": "https://t.co/tPsOsbsRRl",
+        "username": "sweetiekittylol",
+        "verified": false
+      }
+    ]
+  }
+}

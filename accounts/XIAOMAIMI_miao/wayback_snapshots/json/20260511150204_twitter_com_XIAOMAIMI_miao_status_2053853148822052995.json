@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2053853148822052995",
+    "created_at": "2026-05-11T15:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053853148822052995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2042802770059890690",
+          "start": 3,
+          "username": "o3oD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053853148822052995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053851399361028223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o3oD7: 老公，我视奸你很累，你能自觉告诉我今天和谁聊天了吗？和谁聊天了，说了什么话，有没有想我，想了多少次？这些我全要知道。在认识我之前你认识谁？这些我也要知道。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2053853148822052995",
+        "created_at": "2026-05-11T15:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053853148822052995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2042802770059890690",
+              "start": 3,
+              "username": "o3oD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053853148822052995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053851399361028223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o3oD7: 老公，我视奸你很累，你能自觉告诉我今天和谁聊天了吗？和谁聊天了，说了什么话，有没有想我，想了多少次？这些我全要知道。在认识我之前你认识谁？这些我也要知道。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042802770059890690",
+        "conversation_id": "2053851399361028223",
+        "created_at": "2026-05-11T14:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053851399361028223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053851399361028223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老公，我视奸你很累，你能自觉告诉我今天和谁聊天了吗？和谁聊天了，说了什么话，有没有想我，想了多少次？这些我全要知道。在认识我之前你认识谁？这些我也要知道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6909,
+          "following_count": 196,
+          "like_count": 17797,
+          "listed_count": 26,
+          "media_count": 166,
+          "tweet_count": 1962
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T03:13:52.000Z",
+        "description": "",
+        "id": "2042802770059890690",
+        "name": "o3o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044400892263489536/0DU-F-8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 86,
+          "like_count": 7612,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 458
+        },
+        "username": "o3oD7",
+        "verified": false
+      }
+    ]
+  }
+}

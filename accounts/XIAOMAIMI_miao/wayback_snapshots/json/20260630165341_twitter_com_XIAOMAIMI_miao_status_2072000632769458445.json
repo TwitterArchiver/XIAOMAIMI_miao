@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2071996263323886002",
+    "created_at": "2026-06-30T16:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072000632769458445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1810979093518897157",
+          "start": 0,
+          "username": "ZzZzthisday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072000632769458445",
+    "in_reply_to_user_id": "1810979093518897157",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072000079582695448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZzZzthisday TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2071996263323886002",
+        "created_at": "2026-06-30T16:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072000632769458445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1810979093518897157",
+              "start": 0,
+              "username": "ZzZzthisday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072000632769458445",
+        "in_reply_to_user_id": "1810979093518897157",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072000079582695448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZzZzthisday TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810979093518897157",
+        "conversation_id": "2071996263323886002",
+        "created_at": "2026-06-30T16:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072000079582695448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072000079582695448",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071997850662351146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 可以看看网上怎么调的🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8489,
+          "following_count": 236,
+          "like_count": 24902,
+          "listed_count": 28,
+          "media_count": 60,
+          "tweet_count": 2379
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T10:07:25.000Z",
+        "description": "",
+        "id": "1810979093518897157",
+        "name": "z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027295637281337344/H3OUy9l6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 72,
+          "like_count": 6213,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 927
+        },
+        "url": "",
+        "username": "ZzZzthisday",
+        "verified": false
+      }
+    ]
+  }
+}

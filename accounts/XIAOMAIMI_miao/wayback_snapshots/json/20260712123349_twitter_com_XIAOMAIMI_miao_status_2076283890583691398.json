@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2076253203201692037",
+    "created_at": "2026-07-12T12:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076283890583691398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682449686328922112",
+          "start": 0,
+          "username": "ChenY1869029230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076283890583691398",
+    "in_reply_to_user_id": "1682449686328922112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076264851329196540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenY1869029230 觉得谢孟勋不美味的可以去治阳痿了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2076253203201692037",
+        "created_at": "2026-07-12T12:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076283890583691398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682449686328922112",
+              "start": 0,
+              "username": "ChenY1869029230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076283890583691398",
+        "in_reply_to_user_id": "1682449686328922112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076264851329196540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenY1869029230 觉得谢孟勋不美味的可以去治阳痿了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682449686328922112",
+        "conversation_id": "2076253203201692037",
+        "created_at": "2026-07-12T11:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076264851329196540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076264851329196540",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076253203201692037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao xmx这么香？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9225,
+          "following_count": 245,
+          "like_count": 25985,
+          "listed_count": 29,
+          "media_count": 62,
+          "tweet_count": 2527
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T17:57:31.000Z",
+        "description": "",
+        "id": "1682449686328922112",
+        "location": "武汉",
+        "name": "soraka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942566436481748993/MnyZcWdi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 491,
+          "like_count": 26027,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 1688
+        },
+        "url": "",
+        "username": "ChenY1869029230",
+        "verified": false
+      }
+    ]
+  }
+}

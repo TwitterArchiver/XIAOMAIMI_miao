@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052195721726808180",
+    "created_at": "2026-05-07T01:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052195721726808180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1694296295375306752",
+          "start": 3,
+          "username": "xiaocai151887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052195721726808180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052009010963058921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaocai151887: 一定要有正常的男女关系\n一开始正常聊天 约会 互送礼物 互相请吃饭\n出去散步 \n慢慢讲一些擦边暧昧点到即止\n克制低级欲望，不是性压抑，做个正常人，会思考且能正常交流的人\n你会发现被人爱和爱别人可以安稳地同时发生\n综上，首先筛选就得远离lowb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052195721726808180",
+        "created_at": "2026-05-07T01:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052195721726808180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1694296295375306752",
+              "start": 3,
+              "username": "xiaocai151887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052195721726808180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052009010963058921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaocai151887: 一定要有正常的男女关系\n一开始正常聊天 约会 互送礼物 互相请吃饭\n出去散步 \n慢慢讲一些擦边暧昧点到即止\n克制低级欲望，不是性压抑，做个正常人，会思考且能正常交流的人\n你会发现被人爱和爱别人可以安稳地同时发生\n综上，首先筛选就得远离lowb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694296295375306752",
+        "conversation_id": "2052009010963058921",
+        "created_at": "2026-05-06T12:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052009010963058921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052009010963058921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 12473,
+          "like_count": 346,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "一定要有正常的男女关系\n一开始正常聊天 约会 互送礼物 互相请吃饭\n出去散步 \n慢慢讲一些擦边暧昧点到即止\n克制低级欲望，不是性压抑，做个正常人，会思考且能正常交流的人\n你会发现被人爱和爱别人可以安稳地同时发生\n综上，首先筛选就得远离lowb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6489,
+          "following_count": 192,
+          "like_count": 16779,
+          "listed_count": 28,
+          "media_count": 125,
+          "tweet_count": 1720
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T10:31:41.000Z",
+        "description": "ENTJ/无人设/能评论别私聊/变态别来恶心人",
+        "id": "1694296295375306752",
+        "location": "银河探索ing",
+        "name": "Shirly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037149173930483712/UYmAiHPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4616,
+          "following_count": 54,
+          "like_count": 1709,
+          "listed_count": 6,
+          "media_count": 742,
+          "tweet_count": 7869
+        },
+        "url": "",
+        "username": "xiaocai151887",
+        "verified": false
+      }
+    ]
+  }
+}

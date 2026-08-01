@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2064903332498723167",
+    "created_at": "2026-06-11T05:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064940899659124828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1844201594826665984",
+          "start": 0,
+          "username": "ruyu888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064940899659124828",
+    "in_reply_to_user_id": "1844201594826665984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064937742497399031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruyu888 摸摸你摸摸你，，，但是刀就是很贵啊。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2064903332498723167",
+        "created_at": "2026-06-11T05:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064940899659124828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1844201594826665984",
+              "start": 0,
+              "username": "ruyu888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064940899659124828",
+        "in_reply_to_user_id": "1844201594826665984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064937742497399031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruyu888 摸摸你摸摸你，，，但是刀就是很贵啊。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844201594826665984",
+        "conversation_id": "2064903332498723167",
+        "created_at": "2026-06-11T05:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064937742497399031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064937742497399031",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064903332498723167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 点了，玩了这么久只买过黑市出的打折紫金，就这一把枪皮，每次在排位中打出精彩的残局操作，切出黑漆漆的匕首喷漆他们都以为我是小号开挂的，我哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎讲梦话@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "XIAOSHUgugu"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8248,
+          "following_count": 206,
+          "like_count": 21357,
+          "listed_count": 28,
+          "media_count": 161,
+          "tweet_count": 2368
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T02:21:45.000Z",
+        "description": "我是神，但我现在装成普通人混在一个不知名的小县城里，目前大三在读，我给现在的阶段取名为《神也要上学》",
+        "id": "1844201594826665984",
+        "name": "DoDo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963506852496642054/nUPbQMwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 35
+        },
+        "username": "ruyu888",
+        "verified": false
+      }
+    ]
+  }
+}

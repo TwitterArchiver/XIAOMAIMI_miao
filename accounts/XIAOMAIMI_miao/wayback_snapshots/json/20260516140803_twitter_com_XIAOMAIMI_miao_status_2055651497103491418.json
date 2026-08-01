@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055651483157442560"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2055651497103491418",
+    "created_at": "2026-05-16T14:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055651497103491418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1587039924913831936",
+          "start": 15,
+          "username": "Chrs_mua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zPwQdhpIij",
+          "end": 48,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2055651497103491418/photo/1",
+          "media_key": "3_2055651483157442560",
+          "start": 25,
+          "url": "https://t.co/zPwQdhpIij"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055651497103491418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈咪我喜欢你ෆ꒡ .̮ ꒡ෆ\n@Chrs_mua https://t.co/zPwQdhpIij"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2055651483157442560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIckIfOasAAlHkm.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055651483157442560"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2055651497103491418",
+        "created_at": "2026-05-16T14:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055651497103491418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1587039924913831936",
+              "start": 15,
+              "username": "Chrs_mua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPwQdhpIij",
+              "end": 48,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2055651497103491418/photo/1",
+              "media_key": "3_2055651483157442560",
+              "start": 25,
+              "url": "https://t.co/zPwQdhpIij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055651497103491418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈咪我喜欢你ෆ꒡ .̮ ꒡ෆ\n@Chrs_mua https://t.co/zPwQdhpIij"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7502,
+          "following_count": 196,
+          "like_count": 18926,
+          "listed_count": 26,
+          "media_count": 215,
+          "tweet_count": 2107
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T11:13:18.000Z",
+        "description": "随便看看 都很喜欢🩷\n没有🚪 不加🛰 止于推🔚\n有赛博暴露癖 喜欢半夜发疯\n不会再为爱发电了 伤心了 谢谢大家喜欢",
+        "id": "1587039924913831936",
+        "location": "投喂请发口令 给我的gelato加个球🍨",
+        "name": "Chrs",
+        "pinned_tweet_id": "2042641496650695131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957279870712692736/tAUB0yEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31375,
+          "following_count": 53,
+          "like_count": 1213,
+          "listed_count": 69,
+          "media_count": 216,
+          "tweet_count": 1047
+        },
+        "username": "Chrs_mua",
+        "verified": false
+      }
+    ]
+  }
+}

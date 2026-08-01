@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047545274697232409",
+    "created_at": "2026-04-24T05:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047545274697232409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581937806435573760",
+          "start": 3,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047545274697232409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047236363649679463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fadai202202: 到底是谁把宝宝这个词给普及成全网女孩们打招呼和日常使用的？就这两个字但凡我被喊一声就会飘飘乎不知其所以然，整颗心都想跟这女孩回家了，结果人家根本没想把我往家里带。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047545274697232409",
+        "created_at": "2026-04-24T05:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047545274697232409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581937806435573760",
+              "start": 3,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047545274697232409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047236363649679463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fadai202202: 到底是谁把宝宝这个词给普及成全网女孩们打招呼和日常使用的？就这两个字但凡我被喊一声就会飘飘乎不知其所以然，整颗心都想跟这女孩回家了，结果人家根本没想把我往家里带。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2047236363649679463",
+        "created_at": "2026-04-23T08:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047236363649679463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047236363649679463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 22191,
+          "like_count": 593,
+          "quote_count": 8,
+          "reply_count": 48,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "到底是谁把宝宝这个词给普及成全网女孩们打招呼和日常使用的？就这两个字但凡我被喊一声就会飘飘乎不知其所以然，整颗心都想跟这女孩回家了，结果人家根本没想把我往家里带。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5878,
+          "following_count": 177,
+          "like_count": 13910,
+          "listed_count": 20,
+          "media_count": 66,
+          "tweet_count": 1103
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你",
+        "id": "1581937806435573760",
+        "location": "不要骚扰我 不接广告",
+        "name": "呆呆",
+        "pinned_tweet_id": "2046397450181849146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4217,
+          "following_count": 18,
+          "like_count": 415,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 363
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

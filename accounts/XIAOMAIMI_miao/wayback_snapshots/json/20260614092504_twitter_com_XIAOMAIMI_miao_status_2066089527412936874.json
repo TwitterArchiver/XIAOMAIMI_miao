@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066089444407685120",
+        "3_2066089444768448512",
+        "3_2066089445150085120",
+        "3_2066089445426905089"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066085237692752007",
+    "created_at": "2026-06-14T09:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066089527412936874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HGiloHtLJg",
+          "end": 30,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2066089527412936874/photo/1",
+          "media_key": "3_2066089444407685120",
+          "start": 7,
+          "url": "https://t.co/HGiloHtLJg"
+        },
+        {
+          "display_url": "pic.x.com/HGiloHtLJg",
+          "end": 30,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2066089527412936874/photo/1",
+          "media_key": "3_2066089444768448512",
+          "start": 7,
+          "url": "https://t.co/HGiloHtLJg"
+        },
+        {
+          "display_url": "pic.x.com/HGiloHtLJg",
+          "end": 30,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2066089527412936874/photo/1",
+          "media_key": "3_2066089445150085120",
+          "start": 7,
+          "url": "https://t.co/HGiloHtLJg"
+        },
+        {
+          "display_url": "pic.x.com/HGiloHtLJg",
+          "end": 30,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2066089527412936874/photo/1",
+          "media_key": "3_2066089445426905089",
+          "start": 7,
+          "url": "https://t.co/HGiloHtLJg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066089527412936874",
+    "in_reply_to_user_id": "1942995969043501056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066085237692752007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大妈你咋了。 https://t.co/HGiloHtLJg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066089444407685120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw5ZzAasAAmcX-.jpg",
+        "width": 930
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066089444768448512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw5Z0WbgAATixq.jpg",
+        "width": 930
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066089445150085120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw5Z1xa0AAZ5JE.jpg",
+        "width": 930
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066089445426905089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw5Z2zawAEycLa.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066089444407685120",
+            "3_2066089444768448512",
+            "3_2066089445150085120",
+            "3_2066089445426905089"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066085237692752007",
+        "created_at": "2026-06-14T09:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066089527412936874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HGiloHtLJg",
+              "end": 30,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2066089527412936874/photo/1",
+              "media_key": "3_2066089444407685120",
+              "start": 7,
+              "url": "https://t.co/HGiloHtLJg"
+            },
+            {
+              "display_url": "pic.x.com/HGiloHtLJg",
+              "end": 30,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2066089527412936874/photo/1",
+              "media_key": "3_2066089444768448512",
+              "start": 7,
+              "url": "https://t.co/HGiloHtLJg"
+            },
+            {
+              "display_url": "pic.x.com/HGiloHtLJg",
+              "end": 30,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2066089527412936874/photo/1",
+              "media_key": "3_2066089445150085120",
+              "start": 7,
+              "url": "https://t.co/HGiloHtLJg"
+            },
+            {
+              "display_url": "pic.x.com/HGiloHtLJg",
+              "end": 30,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2066089527412936874/photo/1",
+              "media_key": "3_2066089445426905089",
+              "start": 7,
+              "url": "https://t.co/HGiloHtLJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066089527412936874",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066085237692752007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大妈你咋了。 https://t.co/HGiloHtLJg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066085237692752007",
+        "created_at": "2026-06-14T09:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066085237692752007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066085237692752007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现推特评论区喜欢莫名其妙喷别人两句的都特别喜欢偷换概念，虽然可以联想到你说的点是什么但是实际上两件事关联并没有那么紧密，感觉像那个被害妄想症一样。🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8285,
+          "following_count": 211,
+          "like_count": 21999,
+          "listed_count": 28,
+          "media_count": 114,
+          "tweet_count": 2475
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

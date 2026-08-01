@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048010799269228904",
+    "created_at": "2026-04-25T12:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048010799269228904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048010799269228904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048006149795119391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 我们下辈子不要做网友了，我们在同城好不好，有好吃的好玩的一个电话就过去了说oi下楼给你个好东西。聊着聊着突然不见了不用只是隔着屏幕喊你去哪了而是可以说一句你再不回我我就去你家楼下拿大喇叭喊你了。我们可以半夜突发奇想的出去街上瞎转，可以想见面就见面不用担…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048010799269228904",
+        "created_at": "2026-04-25T12:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048010799269228904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048010799269228904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048006149795119391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 我们下辈子不要做网友了，我们在同城好不好，有好吃的好玩的一个电话就过去了说oi下楼给你个好东西。聊着聊着突然不见了不用只是隔着屏幕喊你去哪了而是可以说一句你再不回我我就去你家楼下拿大喇叭喊你了。我们可以半夜突发奇想的出去街上瞎转，可以想见面就见面不用担…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2048006149795119391",
+        "created_at": "2026-04-25T11:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048006149795119391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048006149795119391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我们下辈子不要做网友了，我们在同城好不好，有好吃的好玩的一个电话就过去了说oi下楼给你个好东西。聊着聊着突然不见了不用只是隔着屏幕喊你去哪了而是可以说一句你再不回我我就去你家楼下拿大喇叭喊你了。我们可以半夜突发奇想的出去街上瞎转，可以想见面就见面不用担心距离和路费。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 175,
+          "like_count": 14106,
+          "listed_count": 21,
+          "media_count": 68,
+          "tweet_count": 1145
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8634,
+          "following_count": 4,
+          "like_count": 1100,
+          "listed_count": 24,
+          "media_count": 105,
+          "tweet_count": 2078
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

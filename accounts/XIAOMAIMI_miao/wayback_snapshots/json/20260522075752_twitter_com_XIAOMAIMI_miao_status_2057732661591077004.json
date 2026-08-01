@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057732612706496512"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2057732661591077004",
+    "created_at": "2026-05-22T07:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T08:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057732661591077004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7rcPd5Tz5a",
+          "end": 52,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2057732661591077004/photo/1",
+          "media_key": "3_2057732612706496512",
+          "start": 29,
+          "url": "https://t.co/7rcPd5Tz5a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057732661591077004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大师说你不是我的正缘 没关系我已经把大师删掉了=⩌⩊⩌= https://t.co/7rcPd5Tz5a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057732612706496512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6I6K8bcAAfaYT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057732612706496512"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2057732661591077004",
+        "created_at": "2026-05-22T07:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057732661591077004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7rcPd5Tz5a",
+              "end": 52,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2057732661591077004/photo/1",
+              "media_key": "3_2057732612706496512",
+              "start": 29,
+              "url": "https://t.co/7rcPd5Tz5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057732661591077004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大师说你不是我的正缘 没关系我已经把大师删掉了=⩌⩊⩌= https://t.co/7rcPd5Tz5a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7632,
+          "following_count": 195,
+          "like_count": 19336,
+          "listed_count": 26,
+          "media_count": 128,
+          "tweet_count": 2021
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

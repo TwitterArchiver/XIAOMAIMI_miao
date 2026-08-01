@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066495185648054525",
+    "created_at": "2026-06-15T12:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066497156421410969"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066497156421410969",
+    "in_reply_to_user_id": "1942995969043501056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066495185648054525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起被自己菜笑了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066495185648054525",
+        "created_at": "2026-06-15T12:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066497156421410969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066497156421410969",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066495185648054525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起被自己菜笑了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066495185648054525",
+        "created_at": "2026-06-15T12:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066495185648054525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "哔哩哔哩（bilibili）直播，在这里看见最年轻的生活方式，学习、游戏、电竞、宅舞、唱见、绘画、美食等等应有尽有，快来捕捉你最喜欢的up主最真实的一面吧！弹幕，礼物，道具，活动多种玩法，bilibili 直播让您拉进与小伙伴们之间的距离。",
+              "display_url": "b23.tv/SyEgo6C",
+              "end": 53,
+              "expanded_url": "https://b23.tv/SyEgo6C",
+              "start": 30,
+              "status": 200,
+              "title": "麦咪菜菜瓦瓦中 - 麦咪麦咪喵喵喵 - 哔哩哔哩直播，二次元弹幕直播平台",
+              "unwound_url": "https://live.bilibili.com/1746143865?broadcast_type=0&is_room_feed=1&plat_id=365&share_from=live&share_medium=android&share_plat=android&share_session_id=3f132a40-636f-46e5-88e5-eda559fa44fd&share_source=COPY&share_tag=s_i&timestamp=1781525761&unique_k=SyEgo6C",
+              "url": "https://t.co/sqFF5kItXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066495185648054525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦神开播了，真的假的？\n\n【麦咪菜菜瓦瓦中-哔哩哔哩直播】 https://t.co/sqFF5kItXU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8305,
+          "following_count": 213,
+          "like_count": 22404,
+          "listed_count": 28,
+          "media_count": 119,
+          "tweet_count": 2531
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

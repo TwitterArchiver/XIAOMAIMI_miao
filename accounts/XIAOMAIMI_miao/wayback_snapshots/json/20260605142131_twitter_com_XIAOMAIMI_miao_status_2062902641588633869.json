@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062902634676375553"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2062902641588633869",
+    "created_at": "2026-06-05T14:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062902641588633869"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ew1BhzTdDS",
+          "end": 104,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2062902641588633869/photo/1",
+          "media_key": "3_2062902634676375553",
+          "start": 81,
+          "url": "https://t.co/ew1BhzTdDS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062902641588633869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实...我是一只水母，没有脑子,含水量百分百,装成人的样子社交,在遭受挫折的时候只会狂掉眼泪,然后干瘪掉,需要哥哥的亲亲才能活过来˶o̴̶̷᷄‸o̴̶̷̥᷅˶ https://t.co/ew1BhzTdDS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062902634676375553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDnBDoaUAEB6u7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062902634676375553"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2062902641588633869",
+        "created_at": "2026-06-05T14:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062902641588633869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ew1BhzTdDS",
+              "end": 104,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2062902641588633869/photo/1",
+              "media_key": "3_2062902634676375553",
+              "start": 81,
+              "url": "https://t.co/ew1BhzTdDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062902641588633869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实...我是一只水母，没有脑子,含水量百分百,装成人的样子社交,在遭受挫折的时候只会狂掉眼泪,然后干瘪掉,需要哥哥的亲亲才能活过来˶o̴̶̷᷄‸o̴̶̷̥᷅˶ https://t.co/ew1BhzTdDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ\n酸酸又瑟瑟文稿发在这边@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8167,
+          "following_count": 200,
+          "like_count": 20578,
+          "listed_count": 30,
+          "media_count": 161,
+          "tweet_count": 2267
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

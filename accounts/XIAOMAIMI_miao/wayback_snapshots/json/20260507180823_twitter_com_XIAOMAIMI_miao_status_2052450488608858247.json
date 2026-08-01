@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052248183817072903",
+    "created_at": "2026-05-07T18:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T19:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052450488608858247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1971360726158802944",
+          "start": 0,
+          "username": "Xmei0756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052450488608858247",
+    "in_reply_to_user_id": "1971360726158802944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052447433414856766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xmei0756 亲亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052248183817072903",
+        "created_at": "2026-05-07T18:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052450488608858247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1971360726158802944",
+              "start": 0,
+              "username": "Xmei0756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052450488608858247",
+        "in_reply_to_user_id": "1971360726158802944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052447433414856766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xmei0756 亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971360726158802944",
+        "conversation_id": "2052248183817072903",
+        "created_at": "2026-05-07T17:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052447433414856766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052447433414856766",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052248183817072903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 亲亲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6565,
+          "following_count": 192,
+          "like_count": 16906,
+          "listed_count": 27,
+          "media_count": 131,
+          "tweet_count": 1761
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T23:46:55.000Z",
+        "description": "叫我小莓吧！\n超级宅。爱打游戏不爱回信息\n不收🚪不约炮也不卖。发帖纯是因为喜欢分享自己身材",
+        "id": "1971360726158802944",
+        "location": "Japan",
+        "name": "我总泪眼萌萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971361348924964864/yvqgOZh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3519,
+          "following_count": 43,
+          "like_count": 140,
+          "listed_count": 5,
+          "media_count": 11,
+          "tweet_count": 90
+        },
+        "username": "Xmei0756",
+        "verified": false
+      }
+    ]
+  }
+}

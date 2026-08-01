@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2056573745876332885",
+    "created_at": "2026-05-19T09:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056666241260241033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697689812306657280",
+          "start": 0,
+          "username": "SilenceChaplin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056666241260241033",
+    "in_reply_to_user_id": "1697689812306657280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056640921672860115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SilenceChaplin 有的，鸡肉的🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2056573745876332885",
+        "created_at": "2026-05-19T09:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056666241260241033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697689812306657280",
+              "start": 0,
+              "username": "SilenceChaplin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056666241260241033",
+        "in_reply_to_user_id": "1697689812306657280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056640921672860115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SilenceChaplin 有的，鸡肉的🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697689812306657280",
+        "conversation_id": "2056573745876332885",
+        "created_at": "2026-05-19T07:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056640921672860115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056640921672860115",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056573745876332885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 里面有肉么，我尝一口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7622,
+          "following_count": 196,
+          "like_count": 19166,
+          "listed_count": 26,
+          "media_count": 128,
+          "tweet_count": 1988
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T19:16:16.000Z",
+        "description": "出了名的温柔",
+        "id": "1697689812306657280",
+        "name": "路人甲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858547181768343552/gE00EBdA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 59,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 142
+        },
+        "username": "SilenceChaplin",
+        "verified": false
+      }
+    ]
+  }
+}

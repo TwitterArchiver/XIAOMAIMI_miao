@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2078691153898250376",
+    "created_at": "2026-07-19T03:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078691293824524622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1817229531922784256",
+          "start": 0,
+          "username": "1Raooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078691293824524622",
+    "in_reply_to_user_id": "1817229531922784256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078691153898250376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1Raooo 我吃我吃。。。！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2078691146675732481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNj-laNbQAEuOLZ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2078691153898250376",
+        "created_at": "2026-07-19T03:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078691293824524622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1817229531922784256",
+              "start": 0,
+              "username": "1Raooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078691293824524622",
+        "in_reply_to_user_id": "1817229531922784256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078691153898250376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1Raooo 我吃我吃。。。！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078691146675732481"
+          ]
+        },
+        "author_id": "1817229531922784256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078691153898250376",
+        "created_at": "2026-07-19T03:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078691153898250376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BIPTL88Rdg",
+              "end": 45,
+              "expanded_url": "https://x.com/1Raooo/status/2078691153898250376/photo/1",
+              "media_key": "3_2078691146675732481",
+              "start": 22,
+              "url": "https://t.co/BIPTL88Rdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078691153898250376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说白了 谁不想急头白脸的吃一顿我做的饭吧 https://t.co/BIPTL88Rdg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047341329148256551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9344,
+          "following_count": 255,
+          "like_count": 26448,
+          "listed_count": 31,
+          "media_count": 26,
+          "tweet_count": 2448
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T16:04:27.000Z",
+        "description": "别难过\n吃点东西就好了\n欢迎来看我的生活流水账\n大号@Chrs_Mua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "Chrs_Mua"
+              }
+            ]
+          }
+        },
+        "id": "1817229531922784256",
+        "location": "🍓🍠🥐🥦🍤🍚🍪🍔🥩🧀🥚",
+        "name": "饱饱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069658063183704064/DqU0ltQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 1,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "1Raooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048366623376265286",
+    "created_at": "2026-04-26T11:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T12:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048366623376265286"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048366623376265286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我突然意识到我会觉得穿孔的男性有魅力是因为他们有“打扮欲”，穿孔是人类爱美选择的一种，不断更换&amp;搭配耳钉也是打扮自己的方式之一。小小的孔洞承载了美丽、探险的深刻内涵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048366623376265286",
+        "created_at": "2026-04-26T11:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048366623376265286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048366623376265286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然意识到我会觉得穿孔的男性有魅力是因为他们有“打扮欲”，穿孔是人类爱美选择的一种，不断更换&amp;搭配耳钉也是打扮自己的方式之一。小小的孔洞承载了美丽、探险的深刻内涵。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5963,
+          "following_count": 177,
+          "like_count": 14276,
+          "listed_count": 22,
+          "media_count": 72,
+          "tweet_count": 1169
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

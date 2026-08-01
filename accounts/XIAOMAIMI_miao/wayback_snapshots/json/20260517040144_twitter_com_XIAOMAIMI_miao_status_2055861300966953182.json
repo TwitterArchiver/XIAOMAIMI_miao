@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2055561278517825673",
+    "created_at": "2026-05-17T04:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055861300966953182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799693315505606656",
+          "start": 0,
+          "username": "wangsirisd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055861300966953182",
+    "in_reply_to_user_id": "1799693315505606656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055848103626817881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangsirisd 有没有可能，我写了“吵不散”几个字？我没有否定人家会吵架啊，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2055561278517825673",
+        "created_at": "2026-05-17T04:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055861300966953182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799693315505606656",
+              "start": 0,
+              "username": "wangsirisd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055861300966953182",
+        "in_reply_to_user_id": "1799693315505606656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055848103626817881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangsirisd 有没有可能，我写了“吵不散”几个字？我没有否定人家会吵架啊，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799693315505606656",
+        "conversation_id": "2055561278517825673",
+        "created_at": "2026-05-17T03:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055848103626817881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055848103626817881",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055561278517825673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 哪有谈恋爱不吵架，没矛盾的。只有可能你和人家不熟，人家不咋和你聊天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7505,
+          "following_count": 197,
+          "like_count": 18971,
+          "listed_count": 26,
+          "media_count": 217,
+          "tweet_count": 2114
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T06:41:57.000Z",
+        "description": "喜欢你\nlike you",
+        "id": "1799693315505606656",
+        "location": "南阳",
+        "name": "Steve James",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011481306501369856/FYcG2nYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 201,
+          "like_count": 2319,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 3423
+        },
+        "username": "wangsirisd",
+        "verified": false
+      }
+    ]
+  }
+}

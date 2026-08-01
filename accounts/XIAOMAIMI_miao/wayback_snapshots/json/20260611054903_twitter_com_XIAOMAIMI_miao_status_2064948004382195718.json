@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2064947624286011761",
+    "created_at": "2026-06-11T05:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064948004382195718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1511174717465853953",
+          "start": 0,
+          "username": "_xiaoaishen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064948004382195718",
+    "in_reply_to_user_id": "1511174717465853953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064947733480579130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_xiaoaishen 我也笑的好难受，我一想到有人气急败坏就一直在笑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2064947624286011761",
+        "created_at": "2026-06-11T05:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064948004382195718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1511174717465853953",
+              "start": 0,
+              "username": "_xiaoaishen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064948004382195718",
+        "in_reply_to_user_id": "1511174717465853953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064947733480579130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_xiaoaishen 我也笑的好难受，我一想到有人气急败坏就一直在笑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511174717465853953",
+        "conversation_id": "2064947624286011761",
+        "created_at": "2026-06-11T05:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064947733480579130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064947733480579130",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064947624286011761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我笑的好难受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8246,
+          "following_count": 206,
+          "like_count": 21365,
+          "listed_count": 28,
+          "media_count": 161,
+          "tweet_count": 2375
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T02:51:48.000Z",
+        "description": "讓你流淚的事情我做不到。",
+        "id": "1511174717465853953",
+        "name": "每天都不想早起",
+        "pinned_tweet_id": "2061836163405750461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062020873612328960/XOBtm1x8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 80,
+          "like_count": 3960,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 550
+        },
+        "username": "_xiaoaishen",
+        "verified": false
+      }
+    ]
+  }
+}

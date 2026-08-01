@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2050178280813367457",
+    "created_at": "2026-05-01T11:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050180633423659131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031327513981628420",
+          "start": 0,
+          "username": "HaoHaoWodec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050180633423659131",
+    "in_reply_to_user_id": "2031327513981628420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050180210956660988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaoHaoWodec 我没带电脑回来😭😭😭😭😭我四号回学校就玩！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2050178280813367457",
+        "created_at": "2026-05-01T11:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050180633423659131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031327513981628420",
+              "start": 0,
+              "username": "HaoHaoWodec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050180633423659131",
+        "in_reply_to_user_id": "2031327513981628420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050180210956660988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaoHaoWodec 我没带电脑回来😭😭😭😭😭我四号回学校就玩！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031327513981628420",
+        "conversation_id": "2050178280813367457",
+        "created_at": "2026-05-01T11:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050180210956660988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050180210956660988",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050178280813367457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 打！无畏契约真好玩！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6259,
+          "following_count": 195,
+          "like_count": 15605,
+          "listed_count": 27,
+          "media_count": 95,
+          "tweet_count": 1518
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T11:14:33.000Z",
+        "description": "只做自己确定想做的事 即使会因此遭到讥诋\n我挺吵的！请忍耐一下吧！",
+        "id": "2031327513981628420",
+        "location": "对女人卖萌完全无法控制…",
+        "name": "哦我就冷冰冰",
+        "pinned_tweet_id": "2049468727587148121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031328314657505280/Z4yC7Ics_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 82,
+          "like_count": 5753,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 960
+        },
+        "username": "HaoHaoWodec",
+        "verified": false
+      }
+    ]
+  }
+}

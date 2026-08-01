@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049156029280370865",
+    "created_at": "2026-04-28T16:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049159610658091017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595643343161085952",
+          "start": 0,
+          "username": "chiy70324009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049159610658091017",
+    "in_reply_to_user_id": "1595643343161085952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049159135447626107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiy70324009 纯傻逼来的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049156029280370865",
+        "created_at": "2026-04-28T16:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049159610658091017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595643343161085952",
+              "start": 0,
+              "username": "chiy70324009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049159610658091017",
+        "in_reply_to_user_id": "1595643343161085952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049159135447626107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiy70324009 纯傻逼来的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595643343161085952",
+        "conversation_id": "2049156029280370865",
+        "created_at": "2026-04-28T16:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049159135447626107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049159135447626107",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049158318846009412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 其实蛮无语的一路我听着，都各自有对象了还在这扯什么。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6135,
+          "following_count": 188,
+          "like_count": 14919,
+          "listed_count": 27,
+          "media_count": 84,
+          "tweet_count": 1347
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T05:00:07.000Z",
+        "description": "在这里我可以想说什么就说什么",
+        "id": "1595643343161085952",
+        "location": "Los Angeles, CA",
+        "name": "Fourth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021896794758602752/xyv8_TRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 2,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 91
+        },
+        "username": "chiy70324009",
+        "verified": false
+      }
+    ]
+  }
+}

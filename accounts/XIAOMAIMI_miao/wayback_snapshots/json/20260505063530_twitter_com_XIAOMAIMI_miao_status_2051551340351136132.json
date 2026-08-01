@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2051548827228996082",
+    "created_at": "2026-05-05T06:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T07:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051551340351136132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1958580027517542404",
+          "start": 0,
+          "username": "tsuki678x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051551340351136132",
+    "in_reply_to_user_id": "1958580027517542404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051550506414424133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsuki678x 我准备回去打打go，我觉得打一段时间go枪法会变准"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2051548827228996082",
+        "created_at": "2026-05-05T06:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051551340351136132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1958580027517542404",
+              "start": 0,
+              "username": "tsuki678x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051551340351136132",
+        "in_reply_to_user_id": "1958580027517542404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051550506414424133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsuki678x 我准备回去打打go，我觉得打一段时间go枪法会变准"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958580027517542404",
+        "conversation_id": "2051548827228996082",
+        "created_at": "2026-05-05T06:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051550506414424133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051550506414424133",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051548827228996082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 玩就完了 我打go也经常负战绩 就是玩🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6460,
+          "following_count": 191,
+          "like_count": 16416,
+          "listed_count": 27,
+          "media_count": 114,
+          "tweet_count": 1656
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T17:20:59.000Z",
+        "description": "",
+        "id": "1958580027517542404",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "tsuki9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988930872993853440/I5zoiFC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 805,
+          "like_count": 32630,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1765
+        },
+        "username": "tsuki678x",
+        "verified": false
+      }
+    ]
+  }
+}

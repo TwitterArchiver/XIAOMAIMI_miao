@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049638891800653850",
+    "created_at": "2026-04-30T04:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049704024908431368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595643343161085952",
+          "start": 0,
+          "username": "chiy70324009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049704024908431368",
+    "in_reply_to_user_id": "1595643343161085952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049638891800653850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiy70324009 一看这个视角就知道个子高😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2049638873219919872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHHshwa8AAOWqO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2049638873735847936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHHsjrbYAAW34m.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2049638873878421504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHHskNa4AABtvW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049638891800653850",
+        "created_at": "2026-04-30T04:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049704024908431368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595643343161085952",
+              "start": 0,
+              "username": "chiy70324009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049704024908431368",
+        "in_reply_to_user_id": "1595643343161085952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049638891800653850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiy70324009 一看这个视角就知道个子高😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049638873219919872",
+            "3_2049638873735847936",
+            "3_2049638873878421504"
+          ]
+        },
+        "author_id": "1595643343161085952",
+        "conversation_id": "2049638891800653850",
+        "created_at": "2026-04-29T23:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049638891800653850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBOkXjagwP",
+              "end": 45,
+              "expanded_url": "https://x.com/chiy70324009/status/2049638891800653850/photo/1",
+              "media_key": "3_2049638873219919872",
+              "start": 22,
+              "url": "https://t.co/WBOkXjagwP"
+            },
+            {
+              "display_url": "pic.x.com/WBOkXjagwP",
+              "end": 45,
+              "expanded_url": "https://x.com/chiy70324009/status/2049638891800653850/photo/1",
+              "media_key": "3_2049638873735847936",
+              "start": 22,
+              "url": "https://t.co/WBOkXjagwP"
+            },
+            {
+              "display_url": "pic.x.com/WBOkXjagwP",
+              "end": 45,
+              "expanded_url": "https://x.com/chiy70324009/status/2049638891800653850/photo/1",
+              "media_key": "3_2049638873878421504",
+              "start": 22,
+              "url": "https://t.co/WBOkXjagwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049638891800653850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年轻人能不能吃苦我不知道，但真的抢不到座票 https://t.co/WBOkXjagwP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6261,
+          "following_count": 191,
+          "like_count": 15326,
+          "listed_count": 27,
+          "media_count": 92,
+          "tweet_count": 1456
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T05:00:07.000Z",
+        "description": "在这里我可以想说什么就说什么",
+        "id": "1595643343161085952",
+        "location": "Los Angeles, CA",
+        "name": "Fourth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021896794758602752/xyv8_TRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 2,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 93
+        },
+        "username": "chiy70324009",
+        "verified": false
+      }
+    ]
+  }
+}

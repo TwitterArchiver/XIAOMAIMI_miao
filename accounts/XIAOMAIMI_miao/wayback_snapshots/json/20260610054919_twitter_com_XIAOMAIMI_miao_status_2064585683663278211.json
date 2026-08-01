@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2064034579271577981",
+    "created_at": "2026-06-10T05:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064585683663278211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1475658535753199617",
+          "start": 0,
+          "username": "kwiiii10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064585683663278211",
+    "in_reply_to_user_id": "1475658535753199617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064584823218340185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwiiii10 我现在只能听懂一小部分，那个发音我完全搞不懂TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2064034579271577981",
+        "created_at": "2026-06-10T05:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064585683663278211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1475658535753199617",
+              "start": 0,
+              "username": "kwiiii10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064585683663278211",
+        "in_reply_to_user_id": "1475658535753199617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064584823218340185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwiiii10 我现在只能听懂一小部分，那个发音我完全搞不懂TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475658535753199617",
+        "conversation_id": "2064034579271577981",
+        "created_at": "2026-06-10T05:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064584823218340185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064584823218340185",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064034579271577981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我这种广东本地人就是会唱粤语歌不会讲粤语。力竭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎讲梦话@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "XIAOSHUgugu"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8189,
+          "following_count": 205,
+          "like_count": 21195,
+          "listed_count": 28,
+          "media_count": 157,
+          "tweet_count": 2330
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-28T02:43:13.000Z",
+        "description": "06 bi infp\n喜欢胸肌练得比我奶大的肌肉男\n女生可以和我互fo🥺特别爱评论聊天\n不认识的男的别私信我了 不谈恋爱不聊骚也不想鸟你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiwi77059",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiwi77059",
+                "start": 0,
+                "url": "https://t.co/aXO4gDdthS"
+              }
+            ]
+          }
+        },
+        "id": "1475658535753199617",
+        "name": "kiwi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039561312326356993/I0WB5u-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 78,
+          "like_count": 21523,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/aXO4gDdthS",
+        "username": "kwiiii10",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2053622926285656381",
+    "created_at": "2026-05-11T10:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053784217264542146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682023562553749505",
+          "start": 0,
+          "username": "wizsharonxyuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053784217264542146",
+    "in_reply_to_user_id": "1682023562553749505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053622926285656381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wizsharonxyuu 下颌紊乱。不要吃硬东西尽量不要侧躺。平时可以试试用毛巾热敷，自己把嘴巴张开用手掰正可以缓解一下。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2053622926285656381",
+        "created_at": "2026-05-11T10:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053784217264542146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682023562553749505",
+              "start": 0,
+              "username": "wizsharonxyuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053784217264542146",
+        "in_reply_to_user_id": "1682023562553749505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053622926285656381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wizsharonxyuu 下颌紊乱。不要吃硬东西尽量不要侧躺。平时可以试试用毛巾热敷，自己把嘴巴张开用手掰正可以缓解一下。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682023562553749505",
+        "conversation_id": "2053622926285656381",
+        "created_at": "2026-05-10T23:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T00:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053622926285656381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053622926285656381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 526,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "左边下颌咬合的时候好痛 吃不了硬的韧的食物 有没有不去医院就能好的办法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6821,
+          "following_count": 196,
+          "like_count": 17610,
+          "listed_count": 26,
+          "media_count": 161,
+          "tweet_count": 1923
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T13:44:16.000Z",
+        "description": "置顶推广自辨｜我很萌｜小号防炸@JiaowoXiaotiano｜现生朋友勿认｜提问箱https://t.co/JFprdIey9J",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "JiaowoXiaotiano"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/wizsharonxyuu1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/wizsharonxyuu1",
+                "start": 42,
+                "url": "https://t.co/JFprdIey9J"
+              }
+            ]
+          }
+        },
+        "id": "1682023562553749505",
+        "location": "🚪",
+        "name": "不甜糯几",
+        "pinned_tweet_id": "2048771597092483416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014680574418690048/CClq-Nh-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5389,
+          "following_count": 84,
+          "like_count": 11826,
+          "listed_count": 17,
+          "media_count": 308,
+          "tweet_count": 4662
+        },
+        "username": "wizsharonxyuu",
+        "verified": false
+      }
+    ]
+  }
+}

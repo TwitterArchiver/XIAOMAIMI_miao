@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047298994595103093",
+    "created_at": "2026-04-23T13:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047301075485819290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019599534524100612",
+          "start": 0,
+          "username": "yngshn5837339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047301075485819290",
+    "in_reply_to_user_id": "2019599534524100612",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047298994595103093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yngshn5837339 别害我，我圈外人。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047298994595103093",
+        "created_at": "2026-04-23T13:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047301075485819290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019599534524100612",
+              "start": 0,
+              "username": "yngshn5837339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047301075485819290",
+        "in_reply_to_user_id": "2019599534524100612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047298994595103093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yngshn5837339 别害我，我圈外人。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019599534524100612",
+        "conversation_id": "2047298994595103093",
+        "created_at": "2026-04-23T12:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047298994595103093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomaimi_miao…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/xiaomaimi_miao/status/2047281588019601765",
+              "start": 21,
+              "url": "https://t.co/HO6w8QEjLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047298994595103093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047281588019601765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有人去害这个妹子 plq有个婊子急了哦 https://t.co/HO6w8QEjLS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047105151471915009/afyeBBA8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 176,
+          "like_count": 13852,
+          "listed_count": 20,
+          "media_count": 64,
+          "tweet_count": 1092
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T02:30:51.000Z",
+        "description": "截图发墙内全家起飞\n在我帖子下面乱喷粪的我真的会鈤你 别当疯狗好吗女孩？",
+        "id": "2019599534524100612",
+        "name": "贱命一条别搞我",
+        "pinned_tweet_id": "2039571407567528268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019602695120879616/xh4ojWPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 150,
+          "like_count": 943,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1726
+        },
+        "username": "yngshn5837339",
+        "verified": false
+      }
+    ]
+  }
+}

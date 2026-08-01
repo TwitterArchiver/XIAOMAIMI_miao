@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2058511255917531377",
+    "created_at": "2026-05-24T11:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058511255917531377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neko0202002/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/neko0202002/status/2058322830866182263",
+          "start": 5,
+          "url": "https://t.co/rgnWR1HuSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058511255917531377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058322830866182263",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "陪我玩！ https://t.co/rgnWR1HuSZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 641,
+        "media_key": "3_2058322817255628800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJChsmOaYAAm4NQ.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2058511255917531377",
+        "created_at": "2026-05-24T11:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058511255917531377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neko0202002/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/neko0202002/status/2058322830866182263",
+              "start": 5,
+              "url": "https://t.co/rgnWR1HuSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058511255917531377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058322830866182263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "陪我玩！ https://t.co/rgnWR1HuSZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058322817255628800"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2058322830866182263",
+        "created_at": "2026-05-23T23:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T00:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058322830866182263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLcFkArrdN",
+              "end": 30,
+              "expanded_url": "https://x.com/neko0202002/status/2058322830866182263/photo/1",
+              "media_key": "3_2058322817255628800",
+              "start": 7,
+              "url": "https://t.co/BLcFkArrdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058322830866182263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1576,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "陪我玩一下喵 https://t.co/BLcFkArrdN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7663,
+          "following_count": 197,
+          "like_count": 19434,
+          "listed_count": 26,
+          "media_count": 132,
+          "tweet_count": 2034
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "乐园",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 975,
+          "like_count": 1592,
+          "listed_count": 2,
+          "media_count": 1425,
+          "tweet_count": 4005
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

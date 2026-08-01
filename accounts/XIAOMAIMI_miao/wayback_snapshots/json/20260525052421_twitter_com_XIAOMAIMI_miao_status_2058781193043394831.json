@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2058714592705208360",
+    "created_at": "2026-05-25T05:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T06:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058781193043394831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "708273952435470336",
+          "start": 0,
+          "username": "WazaaLuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058781193043394831",
+    "in_reply_to_user_id": "708273952435470336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058779400125235658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WazaaLuo 我点的无酒精。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2058714592705208360",
+        "created_at": "2026-05-25T05:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058781193043394831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "708273952435470336",
+              "start": 0,
+              "username": "WazaaLuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058781193043394831",
+        "in_reply_to_user_id": "708273952435470336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058779400125235658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WazaaLuo 我点的无酒精。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708273952435470336",
+        "conversation_id": "2058714592705208360",
+        "created_at": "2026-05-25T05:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058779400125235658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058779400125235658",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058714592705208360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 这款有酒精的啊，15ml金酒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7678,
+          "following_count": 198,
+          "like_count": 19545,
+          "listed_count": 26,
+          "media_count": 132,
+          "tweet_count": 2088
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-11T12:50:44.000Z",
+        "description": "在陌生人那儿我睡得很糟，/而我的生命离我很遥远。 丁克，禁烟。不是什么s/dom，癖好比较广比较重而已，找个看书时垫脚、放酒杯的小狗",
+        "id": "708273952435470336",
+        "location": "上海",
+        "name": "放松",
+        "pinned_tweet_id": "2052543379263856850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/914673743737233408/nUblinjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 128,
+          "like_count": 334,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 570
+        },
+        "username": "WazaaLuo",
+        "verified": false
+      }
+    ]
+  }
+}

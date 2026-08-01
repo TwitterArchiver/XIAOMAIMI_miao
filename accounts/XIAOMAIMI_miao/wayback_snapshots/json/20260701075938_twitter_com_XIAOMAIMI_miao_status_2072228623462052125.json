@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072228607788032000"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2072228623462052125",
+    "created_at": "2026-07-01T07:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072228623462052125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZBSfUGkFD0",
+          "end": 48,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2072228623462052125/photo/1",
+          "media_key": "3_2072228607788032000",
+          "start": 25,
+          "url": "https://t.co/ZBSfUGkFD0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072228623462052125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "都去看恋爱的犀牛。。。段奕宏演的那版特别绝。。。 https://t.co/ZBSfUGkFD0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2072228607788032000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMII8IyboAAA3h9.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072228607788032000"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2072228623462052125",
+        "created_at": "2026-07-01T07:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072228623462052125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZBSfUGkFD0",
+              "end": 48,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2072228623462052125/photo/1",
+              "media_key": "3_2072228607788032000",
+              "start": 25,
+              "url": "https://t.co/ZBSfUGkFD0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072228623462052125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都去看恋爱的犀牛。。。段奕宏演的那版特别绝。。。 https://t.co/ZBSfUGkFD0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8491,
+          "following_count": 237,
+          "like_count": 24964,
+          "listed_count": 28,
+          "media_count": 59,
+          "tweet_count": 2390
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049880790683852993",
+    "created_at": "2026-04-30T15:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049880790683852993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2046986090700316672",
+          "start": 3,
+          "username": "ovo5cecilia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049880790683852993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049763886652633210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovo5cecilia: 叫哥哥真的太爽了 談年上只為了叫那聲哥哥 任何無法解決的時候只要叫聲哥哥撒嬌就好了 在對方正經的時候一聲哥哥就讓對方慌亂緊張無措 在委屈難過的時候一聲哥哥就能讓對方耐心的把你抱在懷裡哄 在惹對方生氣的時候一聲哥哥就能讓對方心軟 最喜歡哥哥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049880790683852993",
+        "created_at": "2026-04-30T15:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049880790683852993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2046986090700316672",
+              "start": 3,
+              "username": "ovo5cecilia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049880790683852993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049763886652633210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovo5cecilia: 叫哥哥真的太爽了 談年上只為了叫那聲哥哥 任何無法解決的時候只要叫聲哥哥撒嬌就好了 在對方正經的時候一聲哥哥就讓對方慌亂緊張無措 在委屈難過的時候一聲哥哥就能讓對方耐心的把你抱在懷裡哄 在惹對方生氣的時候一聲哥哥就能讓對方心軟 最喜歡哥哥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046986090700316672",
+        "conversation_id": "2049763886652633210",
+        "created_at": "2026-04-30T08:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049763886652633210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049763886652633210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5807,
+          "like_count": 75,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "叫哥哥真的太爽了 談年上只為了叫那聲哥哥 任何無法解決的時候只要叫聲哥哥撒嬌就好了 在對方正經的時候一聲哥哥就讓對方慌亂緊張無措 在委屈難過的時候一聲哥哥就能讓對方耐心的把你抱在懷裡哄 在惹對方生氣的時候一聲哥哥就能讓對方心軟 最喜歡哥哥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6268,
+          "following_count": 190,
+          "like_count": 15462,
+          "listed_count": 27,
+          "media_count": 94,
+          "tweet_count": 1495
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T16:16:04.000Z",
+        "description": "我是一个贪婪的坏女孩",
+        "id": "2046986090700316672",
+        "name": "一枚糕",
+        "pinned_tweet_id": "2047370284626514196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046988002535329792/zmMIVcn-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 13,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 269
+        },
+        "username": "ovo5cecilia",
+        "verified": false
+      }
+    ]
+  }
+}

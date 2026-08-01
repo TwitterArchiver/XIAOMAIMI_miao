@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2048776499021627392"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048776500426764787",
+    "created_at": "2026-04-27T14:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048776500426764787"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048776500426764787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们觉得我可以发我以前的doi视频吗"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-04-28T14:49:16.000Z",
+        "id": "2048776499021627392",
+        "options": [
+          {
+            "label": "可以，看看",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不想看，另有人选",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2048776499021627392"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048776500426764787",
+        "created_at": "2026-04-27T14:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048776500426764787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048776500426764787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们觉得我可以发我以前的doi视频吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5997,
+          "following_count": 182,
+          "like_count": 14422,
+          "listed_count": 23,
+          "media_count": 71,
+          "tweet_count": 1196
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

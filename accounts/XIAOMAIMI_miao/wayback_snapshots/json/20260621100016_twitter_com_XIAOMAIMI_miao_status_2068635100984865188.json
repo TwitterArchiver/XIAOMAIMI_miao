@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068635092269076482"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068635100984865188",
+    "created_at": "2026-06-21T10:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068635100984865188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 45,
+          "id": "1512373779933978626",
+          "start": 29,
+          "username": "sweetiekittylol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ce8sVLf9Z1",
+          "end": 82,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2068635100984865188/photo/1",
+          "media_key": "3_2068635092269076482",
+          "start": 59,
+          "url": "https://t.co/ce8sVLf9Z1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068635100984865188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小猫今天请我吃烤鸭卷饼呀＾＾\n好吃呀＾＾我吃的撑撑的呀！\n@sweetiekittylol 我爱你，，，嫁给我，，， https://t.co/ce8sVLf9Z1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2068635092269076482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVEqASbEAIwjas.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068635092269076482"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068635100984865188",
+        "created_at": "2026-06-21T10:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068635100984865188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1512373779933978626",
+              "start": 29,
+              "username": "sweetiekittylol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ce8sVLf9Z1",
+              "end": 82,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2068635100984865188/photo/1",
+              "media_key": "3_2068635092269076482",
+              "start": 59,
+              "url": "https://t.co/ce8sVLf9Z1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068635100984865188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫今天请我吃烤鸭卷饼呀＾＾\n好吃呀＾＾我吃的撑撑的呀！\n@sweetiekittylol 我爱你，，，嫁给我，，， https://t.co/ce8sVLf9Z1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8355,
+          "following_count": 229,
+          "like_count": 23593,
+          "listed_count": 28,
+          "media_count": 38,
+          "tweet_count": 2251
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T10:16:35.000Z",
+        "description": "ᐕ)ﾉ@kissmyloin\n  ✉️https://t.co/S2Ixg7QNcz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "kissmyloin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sweetiekittylol",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sweetiekittylol",
+                "start": 19,
+                "url": "https://t.co/S2Ixg7QNcz"
+              }
+            ]
+          }
+        },
+        "id": "1512373779933978626",
+        "location": "小猫会永远陪在你身边",
+        "name": "有时变成你下班路上遇见的小猫",
+        "pinned_tweet_id": "1996192099121963469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774994951652376576/zBfhfO-u_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 27139,
+          "following_count": 688,
+          "like_count": 18438,
+          "listed_count": 65,
+          "media_count": 1246,
+          "tweet_count": 10203
+        },
+        "url": "",
+        "username": "sweetiekittylol",
+        "verified": false
+      }
+    ]
+  }
+}

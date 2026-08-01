@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049388342769525197",
+    "created_at": "2026-04-29T14:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049493084317352261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "972674020083613696",
+          "start": 0,
+          "username": "leebo1226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049493084317352261",
+    "in_reply_to_user_id": "972674020083613696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049491717225943091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leebo1226 去干瑞也行😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049388342769525197",
+        "created_at": "2026-04-29T14:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049493084317352261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "972674020083613696",
+              "start": 0,
+              "username": "leebo1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049493084317352261",
+        "in_reply_to_user_id": "972674020083613696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049491717225943091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leebo1226 去干瑞也行😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "972674020083613696",
+        "conversation_id": "2049388342769525197",
+        "created_at": "2026-04-29T14:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049491717225943091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049491717225943091",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049388342769525197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我看成瑞幸的瑞了，我服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6214,
+          "following_count": 191,
+          "like_count": 15242,
+          "listed_count": 27,
+          "media_count": 91,
+          "tweet_count": 1431
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-11T03:22:12.000Z",
+        "description": "中国人，喜欢日本的娱乐文化，欢迎和平交流",
+        "id": "972674020083613696",
+        "name": "四爱老公在外面做0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039617058703605760/nqclqviu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 100,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 165
+        },
+        "username": "leebo1226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080228512787742720"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2080231370195169777",
+    "created_at": "2026-07-23T09:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080231370195169777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KNTmRc22Cs",
+          "end": 43,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2080231370195169777/video/1",
+          "media_key": "13_2080228512787742720",
+          "start": 20,
+          "url": "https://t.co/KNTmRc22Cs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080231370195169777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哥哥你人真好 知道我怕热 所以冷暴力我 https://t.co/KNTmRc22Cs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32252,
+        "height": 1280,
+        "media_key": "13_2080228512787742720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080228512787742720/img/MHYcjx37lM8ATYvx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080228512787742720/vid/avc1/320x568/E3myP3xCA_iny8-e.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080228512787742720/vid/avc1/480x852/SrBsG2lbKput4z7F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080228512787742720/vid/avc1/720x1280/pGxPxXo1UYGv0s2P.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080228512787742720/pl/AjhqrGEyhtLplKbp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080228512787742720"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2080231370195169777",
+        "created_at": "2026-07-23T09:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080231370195169777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KNTmRc22Cs",
+              "end": 43,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2080231370195169777/video/1",
+              "media_key": "13_2080228512787742720",
+              "start": 20,
+              "url": "https://t.co/KNTmRc22Cs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080231370195169777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥你人真好 知道我怕热 所以冷暴力我 https://t.co/KNTmRc22Cs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047341329148256551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9337,
+          "following_count": 260,
+          "like_count": 26625,
+          "listed_count": 31,
+          "media_count": 24,
+          "tweet_count": 2465
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

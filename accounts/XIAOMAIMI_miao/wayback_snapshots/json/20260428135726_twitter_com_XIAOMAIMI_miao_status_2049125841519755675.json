@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2049125841519755675",
+    "created_at": "2026-04-28T13:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049125841519755675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XIAOMAIMI_miao…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/XIAOMAIMI_miao/status/2049016822226452687",
+          "start": 112,
+          "url": "https://t.co/jty0OTiuwF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049125841519755675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049016822226452687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我自己看来我身边的爱是这样的：我爱你，所以我约束你，规训你的想法，你的行为。我爱你，所以我会用不合适的方法表达我的关心，我会期待又害怕你的离开，我会打压你从而让你变得坚强。我爱你，所以我所有看似不合理的行为都变得有迹可循。 https://t.co/jty0OTiuwF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2049125841519755675",
+        "created_at": "2026-04-28T13:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049125841519755675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XIAOMAIMI_miao…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/XIAOMAIMI_miao/status/2049016822226452687",
+              "start": 112,
+              "url": "https://t.co/jty0OTiuwF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049125841519755675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049016822226452687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我自己看来我身边的爱是这样的：我爱你，所以我约束你，规训你的想法，你的行为。我爱你，所以我会用不合适的方法表达我的关心，我会期待又害怕你的离开，我会打压你从而让你变得坚强。我爱你，所以我所有看似不合理的行为都变得有迹可循。 https://t.co/jty0OTiuwF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2049016822226452687",
+        "created_at": "2026-04-28T06:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049016822226452687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049016822226452687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7155,
+          "like_count": 223,
+          "quote_count": 9,
+          "reply_count": 16,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "中国人喜欢：恨海情天、烂人真心、圣人私心，，，什么时候才能学会直白地健康地表达爱意是中国人一生的课题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6123,
+          "following_count": 188,
+          "like_count": 14820,
+          "listed_count": 27,
+          "media_count": 80,
+          "tweet_count": 1310
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

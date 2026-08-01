@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065840114258059264"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2065840126182429034",
+    "created_at": "2026-06-13T16:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065840126182429034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lrXlvSsGcf",
+          "end": 97,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2065840126182429034/photo/1",
+          "media_key": "3_2065840114258059264",
+          "start": 74,
+          "url": "https://t.co/lrXlvSsGcf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065840126182429034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前老是刷到说手机上有些什么软件什么什么的然后就没有对象怎么怎么样我不以为然，现在发现真是这样。。。妈的。。。我涉猎范围都这么广了咋还没对象。。。 https://t.co/lrXlvSsGcf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1615,
+        "media_key": "3_2065840114258059264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtWo30aoAAq198.jpg",
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065840114258059264"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2065840126182429034",
+        "created_at": "2026-06-13T16:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065840126182429034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lrXlvSsGcf",
+              "end": 97,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2065840126182429034/photo/1",
+              "media_key": "3_2065840114258059264",
+              "start": 74,
+              "url": "https://t.co/lrXlvSsGcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065840126182429034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前老是刷到说手机上有些什么软件什么什么的然后就没有对象怎么怎么样我不以为然，现在发现真是这样。。。妈的。。。我涉猎范围都这么广了咋还没对象。。。 https://t.co/lrXlvSsGcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8267,
+          "following_count": 212,
+          "like_count": 21844,
+          "listed_count": 28,
+          "media_count": 176,
+          "tweet_count": 2473
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

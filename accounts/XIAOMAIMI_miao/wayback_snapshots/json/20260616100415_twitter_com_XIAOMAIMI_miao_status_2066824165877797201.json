@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066529137700077972",
+    "created_at": "2026-06-16T10:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066824165877797201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1622587760514158593",
+          "start": 0,
+          "username": "ForlikOOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066824165877797201",
+    "in_reply_to_user_id": "1622587760514158593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066823907622179301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForlikOOO 57 小汐送我的atk湖水绿键鼠套装和爸爸妈妈送我的每一份礼物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066529137700077972",
+        "created_at": "2026-06-16T10:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066824165877797201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1622587760514158593",
+              "start": 0,
+              "username": "ForlikOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066824165877797201",
+        "in_reply_to_user_id": "1622587760514158593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066823907622179301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForlikOOO 57 小汐送我的atk湖水绿键鼠套装和爸爸妈妈送我的每一份礼物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622587760514158593",
+        "conversation_id": "2066529137700077972",
+        "created_at": "2026-06-16T10:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066823907622179301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066823907622179301",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066529137700077972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 57"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8345,
+          "following_count": 217,
+          "like_count": 22744,
+          "listed_count": 28,
+          "media_count": 84,
+          "tweet_count": 2574
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T13:27:34.000Z",
+        "description": "我是cyclo，中文/English/Deutsch，she/her，bi。有对象感情非常好。不厌男不厌女，厌脑残。incel/terf/pinky/反lfbtq都滚。互关可以来：@smolc123 提问箱：https://t.co/WNwv3YVZzj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 90,
+                "username": "smolc123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cyclo86441",
+                "end": 127,
+                "expanded_url": "https://ngl.link/cyclo86441",
+                "start": 104,
+                "url": "https://t.co/WNwv3YVZzj"
+              }
+            ]
+          }
+        },
+        "id": "1622587760514158593",
+        "location": "München, Bayern",
+        "name": "皱巴巴的肠粉最好吃了",
+        "pinned_tweet_id": "2057500065078595596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747339034894336/BvxBM4bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264,
+          "following_count": 272,
+          "like_count": 53506,
+          "listed_count": 2,
+          "media_count": 603,
+          "tweet_count": 11824
+        },
+        "username": "ForlikOOO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2058714592705208360",
+    "created_at": "2026-05-25T00:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T01:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058714592705208360"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058714592705208360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天晚饭来了一杯绯色月光，忘了里面含咖啡因了，光顾着研究明明没酒精但是有酒味了。硬生生熬到早上七点多才睡着，结果八点半就醒了。。。憋了半年多没接触任何咖啡，后劲太大了。。。TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2058714592705208360",
+        "created_at": "2026-05-25T00:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058714592705208360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058714592705208360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚饭来了一杯绯色月光，忘了里面含咖啡因了，光顾着研究明明没酒精但是有酒味了。硬生生熬到早上七点多才睡着，结果八点半就醒了。。。憋了半年多没接触任何咖啡，后劲太大了。。。TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7674,
+          "following_count": 198,
+          "like_count": 19529,
+          "listed_count": 26,
+          "media_count": 132,
+          "tweet_count": 2079
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

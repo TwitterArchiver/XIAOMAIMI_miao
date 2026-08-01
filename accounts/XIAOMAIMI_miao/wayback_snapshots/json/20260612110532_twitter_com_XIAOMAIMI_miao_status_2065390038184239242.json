@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2065371287858642955",
+    "created_at": "2026-06-12T11:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065390038184239242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1844201594826665984",
+          "start": 0,
+          "username": "ruyu888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065390038184239242",
+    "in_reply_to_user_id": "1844201594826665984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065389006305755153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruyu888 那休息的很舒服了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2065371287858642955",
+        "created_at": "2026-06-12T11:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065390038184239242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1844201594826665984",
+              "start": 0,
+              "username": "ruyu888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065390038184239242",
+        "in_reply_to_user_id": "1844201594826665984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065389006305755153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruyu888 那休息的很舒服了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844201594826665984",
+        "conversation_id": "2065371287858642955",
+        "created_at": "2026-06-12T11:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065389006305755153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065389006305755153",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065371287858642955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我大二 报的四级，周六早上没起来被禁考一年，这学期终于能考了，但班级QQ群被窝屏蔽，QQ也不看，导致错过了报名，第二天才得知报名结束，只能等下半年了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8254,
+          "following_count": 211,
+          "like_count": 21536,
+          "listed_count": 28,
+          "media_count": 167,
+          "tweet_count": 2401
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T02:21:45.000Z",
+        "description": "我是神，但我现在装成普通人混在一个不知名的小县城里，目前大三在读，我给现在的阶段取名为《神也要上学》",
+        "id": "1844201594826665984",
+        "name": "DoDo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963506852496642054/nUPbQMwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "ruyu888",
+        "verified": false
+      }
+    ]
+  }
+}

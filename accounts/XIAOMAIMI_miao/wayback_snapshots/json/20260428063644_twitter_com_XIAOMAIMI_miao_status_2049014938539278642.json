@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049014938539278642",
+    "created_at": "2026-04-28T06:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049014938539278642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XIAOMAIMI_miao…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/XIAOMAIMI_miao/status/2048805899016569267",
+          "start": 51,
+          "url": "https://t.co/Ur6NT28zGo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049014938539278642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048805899016569267",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实不止如此啊，你还要时刻担心经血弄脏裤子/内裤/床单甚至被罩，还有概率附赠b疼（反正我会疼，，，） https://t.co/Ur6NT28zGo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049014938539278642",
+        "created_at": "2026-04-28T06:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049014938539278642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XIAOMAIMI_miao…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/XIAOMAIMI_miao/status/2048805899016569267",
+              "start": 51,
+              "url": "https://t.co/Ur6NT28zGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049014938539278642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048805899016569267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实不止如此啊，你还要时刻担心经血弄脏裤子/内裤/床单甚至被罩，还有概率附赠b疼（反正我会疼，，，） https://t.co/Ur6NT28zGo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048805899016569267",
+        "created_at": "2026-04-27T16:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048805899016569267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048805899016569267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1392,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生理期。胃痛。小腹坠涨痛。情绪波动大。激素水平不稳定。整个人都好无力。我讨厌生理期，生理期的我不适合进行任何深度思考也不适合做出任何决定。我是弱智吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6119,
+          "following_count": 186,
+          "like_count": 14635,
+          "listed_count": 26,
+          "media_count": 77,
+          "tweet_count": 1262
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

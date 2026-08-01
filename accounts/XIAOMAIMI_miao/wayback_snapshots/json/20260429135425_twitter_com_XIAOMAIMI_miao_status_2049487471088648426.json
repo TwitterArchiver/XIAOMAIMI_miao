@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049445329762926939",
+    "created_at": "2026-04-29T13:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049487471088648426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1280479931277832193",
+          "start": 0,
+          "username": "Nabi_bsxhd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049487471088648426",
+    "in_reply_to_user_id": "1280479931277832193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049487341639901513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nabi_bsxhd 好！谢谢公主！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049445329762926939",
+        "created_at": "2026-04-29T13:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049487471088648426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1280479931277832193",
+              "start": 0,
+              "username": "Nabi_bsxhd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049487471088648426",
+        "in_reply_to_user_id": "1280479931277832193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049487341639901513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nabi_bsxhd 好！谢谢公主！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280479931277832193",
+        "conversation_id": "2049445329762926939",
+        "created_at": "2026-04-29T13:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049487341639901513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049487341639901513",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049445329762926939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 不用去洗它擦它什么的!就保持干燥就好了，如果有点血痂可以用棉签轻轻擦掉，擦不掉也没关系就不管就好，不要推杆 一个星期之后可以偶尔试试把杆子转一下，这样不容易粘黏，如果觉得痛的话就不要动了。如果不小心打湿了就拿纸擦干或者吹风机吹干就行了!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6214,
+          "following_count": 191,
+          "like_count": 15234,
+          "listed_count": 27,
+          "media_count": 91,
+          "tweet_count": 1430
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-07T12:33:10.000Z",
+        "description": "否极泰来",
+        "id": "1280479931277832193",
+        "location": "北极",
+        "name": "芝士🧀焗公主",
+        "pinned_tweet_id": "1927975107789787316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807656982851293184/ah0Ce6Dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 25,
+          "like_count": 4176,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 912
+        },
+        "username": "Nabi_bsxhd",
+        "verified": false
+      }
+    ]
+  }
+}

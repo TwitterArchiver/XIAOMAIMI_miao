@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047281588019601765",
+    "created_at": "2026-04-23T12:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047298380532187430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046109813902651392",
+          "start": 0,
+          "username": "Yukiiii_Xux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047298380532187430",
+    "in_reply_to_user_id": "2046109813902651392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047296237850780107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukiiii_Xux 什么是无痛飞升，他俩谁啊。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047281588019601765",
+        "created_at": "2026-04-23T12:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047298380532187430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046109813902651392",
+              "start": 0,
+              "username": "Yukiiii_Xux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047298380532187430",
+        "in_reply_to_user_id": "2046109813902651392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047296237850780107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukiiii_Xux 什么是无痛飞升，他俩谁啊。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046109813902651392",
+        "conversation_id": "2047281588019601765",
+        "created_at": "2026-04-23T12:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047296237850780107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047296237850780107",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047281588019601765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao wlj傻逼一个为了无痛飞升害死mzc了。mzc好惨。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047105151471915009/afyeBBA8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5867,
+          "following_count": 176,
+          "like_count": 13847,
+          "listed_count": 20,
+          "media_count": 64,
+          "tweet_count": 1089
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T06:14:47.000Z",
+        "description": "一只猫",
+        "id": "2046109813902651392",
+        "name": "Yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046110411360206849/mCeeYmjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "Yukiiii_Xux",
+        "verified": false
+      }
+    ]
+  }
+}

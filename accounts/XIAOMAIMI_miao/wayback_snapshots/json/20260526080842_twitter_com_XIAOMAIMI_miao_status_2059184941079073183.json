@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2059182628524449792",
+    "created_at": "2026-05-26T08:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059184941079073183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054369041788334080",
+          "start": 0,
+          "username": "PuddingMinii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059184941079073183",
+    "in_reply_to_user_id": "2054369041788334080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059183735996903452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PuddingMinii 666还有第二关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2059182628524449792",
+        "created_at": "2026-05-26T08:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059184941079073183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054369041788334080",
+              "start": 0,
+              "username": "PuddingMinii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059184941079073183",
+        "in_reply_to_user_id": "2054369041788334080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059183735996903452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PuddingMinii 666还有第二关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054369041788334080",
+        "conversation_id": "2059182628524449792",
+        "created_at": "2026-05-26T08:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059183735996903452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059183735996903452",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059182628524449792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我去，差点看成打手枪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7691,
+          "following_count": 196,
+          "like_count": 19623,
+          "listed_count": 26,
+          "media_count": 134,
+          "tweet_count": 2106
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T01:12:19.000Z",
+        "description": "我喜欢玩游戏，我可以和你玩英雄联盟和三角洲，欢迎大家私信我，和我聊天。",
+        "id": "2054369041788334080",
+        "name": "Waning Yearning Cusp✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054378073735458816/QFzkv_VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 62,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 197
+        },
+        "username": "PuddingMinii",
+        "verified": false
+      }
+    ]
+  }
+}

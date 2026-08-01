@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2076154141072908484",
+    "created_at": "2026-07-12T03:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T04:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076154141072908484"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/show5560/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/show5560/status/2076063988597543121",
+          "start": 4,
+          "url": "https://t.co/gF85Q1tMPN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076154141072908484",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076063988597543121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "家产。 https://t.co/gF85Q1tMPN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2075957721476800512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9IjH1aoAAEw_K.jpg",
+        "width": 871
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2076154141072908484",
+        "created_at": "2026-07-12T03:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076154141072908484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/show5560/status/2076063988597543121",
+              "start": 4,
+              "url": "https://t.co/gF85Q1tMPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076154141072908484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076063988597543121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家产。 https://t.co/gF85Q1tMPN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075957721476800512"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076063988597543121",
+        "created_at": "2026-07-11T22:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076063988597543121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CC1PXAAzyA",
+              "end": 30,
+              "expanded_url": "https://x.com/show5560/status/2076063988597543121/photo/1",
+              "media_key": "3_2075957721476800512",
+              "start": 7,
+              "url": "https://t.co/CC1PXAAzyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076063988597543121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6082,
+          "like_count": 174,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "要变成干尸了 https://t.co/CC1PXAAzyA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9218,
+          "following_count": 244,
+          "like_count": 25974,
+          "listed_count": 29,
+          "media_count": 62,
+          "tweet_count": 2521
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4810,
+          "following_count": 1735,
+          "like_count": 30914,
+          "listed_count": 12,
+          "media_count": 2198,
+          "tweet_count": 10180
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

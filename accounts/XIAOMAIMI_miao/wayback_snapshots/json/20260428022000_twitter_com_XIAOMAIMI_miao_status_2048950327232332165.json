@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048940586535977274",
+    "created_at": "2026-04-28T02:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T03:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048950327232332165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1638508348638396423",
+          "start": 0,
+          "username": "z1x2c88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048950327232332165",
+    "in_reply_to_user_id": "1638508348638396423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048946608289861793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z1x2c88 我对喜爱时候的记忆比较模糊，，，我只记得我妈妈当时会给我做注意力训练，批评得最多的就是“粗心”的问题，也会控制我做作业的时候乱想乱看分神。或许小时候我妈妈就有一点意识到这件事了吗？妈妈是特教老师来的，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048940586535977274",
+        "created_at": "2026-04-28T02:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048950327232332165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1638508348638396423",
+              "start": 0,
+              "username": "z1x2c88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048950327232332165",
+        "in_reply_to_user_id": "1638508348638396423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048946608289861793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z1x2c88 我对喜爱时候的记忆比较模糊，，，我只记得我妈妈当时会给我做注意力训练，批评得最多的就是“粗心”的问题，也会控制我做作业的时候乱想乱看分神。或许小时候我妈妈就有一点意识到这件事了吗？妈妈是特教老师来的，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638508348638396423",
+        "conversation_id": "2048940586535977274",
+        "created_at": "2026-04-28T02:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048946608289861793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048946608289861793",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048945106699620582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao ADHD（注意力不足过动症）若长期未被注意或治疗，在压力增加的情况下，极高机率会产生「灾难性思维」（Catastrophizing）以及一系列严重的心理情绪问题。\n我想到的是可能的，因为先天没有注意到并被压抑的ADHD,随着生活压力的持续上升出现恶化及产生额外共病的可能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6109,
+          "following_count": 184,
+          "like_count": 14555,
+          "listed_count": 26,
+          "media_count": 74,
+          "tweet_count": 1224
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-22T11:50:33.000Z",
+        "description": "喜歡BDSM，尋找一份固定相處一同成長的女生\n當你飼養某隻狐狸時，於他眼中，你將與眾不同，而它也將於你是唯一\n彼此的心靈相互需要，彼此靠近，世上的聲音都因他而特別",
+        "id": "1638508348638396423",
+        "name": "沉默的人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865203900527357952/7ldrGVl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 469,
+          "like_count": 486,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1731
+        },
+        "username": "z1x2c88",
+        "verified": false
+      }
+    ]
+  }
+}

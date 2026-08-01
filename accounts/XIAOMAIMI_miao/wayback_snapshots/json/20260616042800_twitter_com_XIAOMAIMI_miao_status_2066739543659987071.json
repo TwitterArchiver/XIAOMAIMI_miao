@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066737336667496955",
+    "created_at": "2026-06-16T04:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066739543659987071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587039924913831936",
+          "start": 0,
+          "username": "Chrs_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066739543659987071",
+    "in_reply_to_user_id": "1587039924913831936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066739464987390062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chrs_mua 严肃入眠！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066737336667496955",
+        "created_at": "2026-06-16T04:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066739543659987071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587039924913831936",
+              "start": 0,
+              "username": "Chrs_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066739543659987071",
+        "in_reply_to_user_id": "1587039924913831936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066739464987390062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chrs_mua 严肃入眠！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587039924913831936",
+        "conversation_id": "2066737336667496955",
+        "created_at": "2026-06-16T04:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066739464987390062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066739464987390062",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066738846315024824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 一起zzz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8310,
+          "following_count": 216,
+          "like_count": 22693,
+          "listed_count": 28,
+          "media_count": 117,
+          "tweet_count": 2586
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T11:13:18.000Z",
+        "description": "随便看看 都很喜欢🩷\n没有🚪 不加🛰 止于推🔚\n有赛博暴露癖 喜欢半夜发疯",
+        "id": "1587039924913831936",
+        "location": "投喂请发口令 给我的gelato加个球🍨",
+        "name": "张桂芬",
+        "pinned_tweet_id": "2038611597523063008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957279870712692736/tAUB0yEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31232,
+          "following_count": 57,
+          "like_count": 1376,
+          "listed_count": 69,
+          "media_count": 247,
+          "tweet_count": 1243
+        },
+        "username": "Chrs_mua",
+        "verified": false
+      }
+    ]
+  }
+}

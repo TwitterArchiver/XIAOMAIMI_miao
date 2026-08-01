@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062359111350845441"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2062359121484292112",
+    "created_at": "2026-06-04T02:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T03:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062359121484292112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/605hDY0e2A",
+          "end": 39,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2062359121484292112/photo/1",
+          "media_key": "3_2062359111350845441",
+          "start": 16,
+          "url": "https://t.co/605hDY0e2A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062359121484292112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "口口声声叫哥哥，口口哥哥怎么了 https://t.co/605hDY0e2A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062359111350845441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ74r1dbgAEU7hM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062359111350845441"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2062359121484292112",
+        "created_at": "2026-06-04T02:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062359121484292112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/605hDY0e2A",
+              "end": 39,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2062359121484292112/photo/1",
+              "media_key": "3_2062359111350845441",
+              "start": 16,
+              "url": "https://t.co/605hDY0e2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062359121484292112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "口口声声叫哥哥，口口哥哥怎么了 https://t.co/605hDY0e2A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ\n酸酸又瑟瑟文稿发在这边@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8063,
+          "following_count": 198,
+          "like_count": 20445,
+          "listed_count": 29,
+          "media_count": 154,
+          "tweet_count": 2245
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

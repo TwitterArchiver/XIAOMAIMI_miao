@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049133564076429453",
+    "created_at": "2026-04-29T05:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049364310963663067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1961183303559507968",
+          "start": 0,
+          "username": "a0t_h47589"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049364310963663067",
+    "in_reply_to_user_id": "1961183303559507968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049328808243667185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a0t_h47589 严肃更换"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049133564076429453",
+        "created_at": "2026-04-29T05:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049364310963663067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961183303559507968",
+              "start": 0,
+              "username": "a0t_h47589"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049364310963663067",
+        "in_reply_to_user_id": "1961183303559507968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049328808243667185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a0t_h47589 严肃更换"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961183303559507968",
+        "conversation_id": "2049133564076429453",
+        "created_at": "2026-04-29T03:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049328808243667185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049328808243667185",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049133564076429453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 那穿高腰纯棉内裤（什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6184,
+          "following_count": 190,
+          "like_count": 15046,
+          "listed_count": 27,
+          "media_count": 88,
+          "tweet_count": 1363
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T21:45:28.000Z",
+        "description": "不常看推，常驻国内软件 扩列私",
+        "id": "1961183303559507968",
+        "name": "Ｓｏｙｂｅaｎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006751470155128832/uyBMpy5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "a0t_h47589",
+        "verified": false
+      }
+    ]
+  }
+}

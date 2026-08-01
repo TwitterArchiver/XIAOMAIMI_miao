@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2055466117318209648",
+    "created_at": "2026-05-16T02:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T03:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055470030876479882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1736380188655558656",
+          "start": 0,
+          "username": "jhyfw13465626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055470030876479882",
+    "in_reply_to_user_id": "1736380188655558656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055469112948932712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jhyfw13465626 我同意。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2055466117318209648",
+        "created_at": "2026-05-16T02:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055470030876479882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1736380188655558656",
+              "start": 0,
+              "username": "jhyfw13465626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055470030876479882",
+        "in_reply_to_user_id": "1736380188655558656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055469112948932712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jhyfw13465626 我同意。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736380188655558656",
+        "conversation_id": "2055466117318209648",
+        "created_at": "2026-05-16T02:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055469112948932712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055469112948932712",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055466117318209648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 体测请删除在大学生活里谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7345,
+          "following_count": 196,
+          "like_count": 18821,
+          "listed_count": 26,
+          "media_count": 208,
+          "tweet_count": 2095
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T13:38:09.000Z",
+        "description": "🐱·ゆい 被夸会很高兴^^｜叫我布洛芬｜infp🦁｜双相｜垃圾桶制造中｜匿名箱https://t.co/rqvEz2R7LQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yui7w00",
+                "end": 62,
+                "expanded_url": "https://ngl.link/yui7w00",
+                "start": 39,
+                "url": "https://t.co/rqvEz2R7LQ"
+              }
+            ]
+          }
+        },
+        "id": "1736380188655558656",
+        "location": "GodFather",
+        "name": "电子小猫止痛片",
+        "pinned_tweet_id": "2054915016718197071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054510195578130432/_xAKB0IR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 30
+        },
+        "username": "jhyfw13465626",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046437645795069952"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2046437659455979874",
+    "created_at": "2026-04-21T03:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T04:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046437659455979874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lBIFaDt55V",
+          "end": 48,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2046437659455979874/photo/1",
+          "media_key": "3_2046437645795069952",
+          "start": 25,
+          "url": "https://t.co/lBIFaDt55V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046437659455979874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "tangle这个形态也好玩（水晶猪小肠自锁形态） https://t.co/lBIFaDt55V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2046437645795069952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZoMkSaEAAxrRA.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046437645795069952"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046437659455979874",
+        "created_at": "2026-04-21T03:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046437659455979874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBIFaDt55V",
+              "end": 48,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2046437659455979874/photo/1",
+              "media_key": "3_2046437645795069952",
+              "start": 25,
+              "url": "https://t.co/lBIFaDt55V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046437659455979874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "tangle这个形态也好玩（水晶猪小肠自锁形态） https://t.co/lBIFaDt55V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ碎碎念+身材照",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2045108263386317293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045899834297872384/W2EN1KwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5935,
+          "following_count": 167,
+          "like_count": 13396,
+          "listed_count": 20,
+          "media_count": 61,
+          "tweet_count": 996
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

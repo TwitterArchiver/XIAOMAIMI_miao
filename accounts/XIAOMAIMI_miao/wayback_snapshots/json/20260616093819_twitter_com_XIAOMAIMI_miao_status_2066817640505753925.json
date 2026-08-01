@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066816104547430808",
+    "created_at": "2026-06-16T09:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066817640505753925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1669341428055687170",
+          "start": 0,
+          "username": "Wuha441954"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066817640505753925",
+    "in_reply_to_user_id": "1669341428055687170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066816874839675252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wuha441954 我去，，，这个看起来好好吃啊，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066816863032709120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7O_IjaEAANAGP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066816104547430808",
+        "created_at": "2026-06-16T09:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066817640505753925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1669341428055687170",
+              "start": 0,
+              "username": "Wuha441954"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066817640505753925",
+        "in_reply_to_user_id": "1669341428055687170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066816874839675252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wuha441954 我去，，，这个看起来好好吃啊，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066816863032709120"
+          ]
+        },
+        "author_id": "1669341428055687170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066816104547430808",
+        "created_at": "2026-06-16T09:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066816874839675252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y5XFuwg0aV",
+              "end": 45,
+              "expanded_url": "https://x.com/Wuha441954/status/2066816874839675252/photo/1",
+              "media_key": "3_2066816863032709120",
+              "start": 22,
+              "url": "https://t.co/Y5XFuwg0aV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066816874839675252",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066816104547430808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 吃粥底火锅 https://t.co/Y5XFuwg0aV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8342,
+          "following_count": 217,
+          "like_count": 22734,
+          "listed_count": 28,
+          "media_count": 84,
+          "tweet_count": 2572
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T13:50:11.000Z",
+        "description": "世界乌漆麻黑，小狗闪耀光辉",
+        "id": "1669341428055687170",
+        "location": "我是小雨",
+        "name": "小狗超人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056409636887261184/0Jz-kIT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 260,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 587
+        },
+        "username": "Wuha441954",
+        "verified": false
+      }
+    ]
+  }
+}

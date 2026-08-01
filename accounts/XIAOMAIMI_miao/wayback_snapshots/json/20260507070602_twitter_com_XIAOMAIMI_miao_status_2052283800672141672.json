@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052274532657009087",
+    "created_at": "2026-05-07T07:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052283800672141672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1512373779933978626",
+          "start": 0,
+          "username": "sweetiekittylol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052283800672141672",
+    "in_reply_to_user_id": "1512373779933978626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052274532657009087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@sweetiekittylol 等你摸呢！！！戒过毒吗快摸他快！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5839,
+        "height": 1280,
+        "media_key": "7_2052274499836645376",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2052274499836645376/pu/img/u5HNLU3iR98YfQ5J.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052274499836645376/pu/vid/avc1/320x568/BxPRl8OWTFS3JhOG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052274499836645376/pu/vid/avc1/480x852/ATh7LQcAKg5EkJ9q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052274499836645376/pu/vid/avc1/720x1280/YPbYH9VzS7e0PuiI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2052274499836645376/pu/pl/JARdbS2VLo7fQjzQ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052274532657009087",
+        "created_at": "2026-05-07T07:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052283800672141672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1512373779933978626",
+              "start": 0,
+              "username": "sweetiekittylol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052283800672141672",
+        "in_reply_to_user_id": "1512373779933978626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052274532657009087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@sweetiekittylol 等你摸呢！！！戒过毒吗快摸他快！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2052274499836645376"
+          ]
+        },
+        "author_id": "1512373779933978626",
+        "conversation_id": "2052274532657009087",
+        "created_at": "2026-05-07T06:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052274532657009087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjg36sQNxa",
+              "end": 38,
+              "expanded_url": "https://x.com/sweetiekittylol/status/2052274532657009087/video/1",
+              "media_key": "7_2052274499836645376",
+              "start": 15,
+              "url": "https://t.co/jjg36sQNxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052274532657009087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "猫总是用尾巴蹭我是为什么呢？ https://t.co/jjg36sQNxa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6487,
+          "following_count": 192,
+          "like_count": 16837,
+          "listed_count": 28,
+          "media_count": 125,
+          "tweet_count": 1732
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T10:16:35.000Z",
+        "description": "ᐕ)ﾉ@kissmyloin\n  ✉️https://t.co/S2Ixg7QNcz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "kissmyloin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sweetiekittylol",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sweetiekittylol",
+                "start": 19,
+                "url": "https://t.co/S2Ixg7QNcz"
+              }
+            ]
+          }
+        },
+        "id": "1512373779933978626",
+        "location": "小猫会永远陪在你身边",
+        "name": "有时变成你下班路上遇见的小猫",
+        "pinned_tweet_id": "1996192099121963469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774994951652376576/zBfhfO-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25948,
+          "following_count": 686,
+          "like_count": 17781,
+          "listed_count": 60,
+          "media_count": 1184,
+          "tweet_count": 9897
+        },
+        "url": "",
+        "username": "sweetiekittylol",
+        "verified": false
+      }
+    ]
+  }
+}

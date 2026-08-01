@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2050178280813367457",
+    "created_at": "2026-05-01T11:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050183227109982640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1504042247460859904",
+          "start": 0,
+          "username": "HRO68915583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050183227109982640",
+    "in_reply_to_user_id": "1504042247460859904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050183024369934575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HRO68915583 瓦瘾犯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2050178280813367457",
+        "created_at": "2026-05-01T11:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050183227109982640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1504042247460859904",
+              "start": 0,
+              "username": "HRO68915583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050183227109982640",
+        "in_reply_to_user_id": "1504042247460859904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050183024369934575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HRO68915583 瓦瘾犯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504042247460859904",
+        "conversation_id": "2050178280813367457",
+        "created_at": "2026-05-01T11:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050183024369934575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050183024369934575",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050178280813367457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 瓦瘾来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6259,
+          "following_count": 195,
+          "like_count": 15607,
+          "listed_count": 27,
+          "media_count": 95,
+          "tweet_count": 1519
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-16T10:30:00.000Z",
+        "description": "随手拍/男/",
+        "id": "1504042247460859904",
+        "name": "HRO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902973862775754752/VRCSHaZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 228,
+          "like_count": 60010,
+          "listed_count": 6,
+          "media_count": 180,
+          "tweet_count": 17195
+        },
+        "username": "HRO68915583",
+        "verified": false
+      }
+    ]
+  }
+}

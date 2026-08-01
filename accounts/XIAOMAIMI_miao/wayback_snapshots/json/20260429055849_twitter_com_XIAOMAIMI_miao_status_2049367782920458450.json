@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049367782920458450",
+    "created_at": "2026-04-29T05:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049367782920458450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1747291885100744704",
+          "start": 3,
+          "username": "gracexiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049367782920458450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049157623153598969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gracexiya: 关于一些调brat【不专业版】\n\n“姐姐 我家小狗不乐意怎么办”\n\nbrat的本质 还是小狗\n只要是狗 就会听主人的\n不听都是装的 内心希望被强制\n\n不要总问brat想不想 问就是不想\n直接给选项 让对方二选一\n不选就扇巴掌 惩罚或替对方做决定…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049367782920458450",
+        "created_at": "2026-04-29T05:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049367782920458450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1747291885100744704",
+              "start": 3,
+              "username": "gracexiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049367782920458450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049157623153598969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gracexiya: 关于一些调brat【不专业版】\n\n“姐姐 我家小狗不乐意怎么办”\n\nbrat的本质 还是小狗\n只要是狗 就会听主人的\n不听都是装的 内心希望被强制\n\n不要总问brat想不想 问就是不想\n直接给选项 让对方二选一\n不选就扇巴掌 惩罚或替对方做决定…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747291885100744704",
+        "conversation_id": "2049157623153598969",
+        "created_at": "2026-04-28T16:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049157623153598969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049157623153598969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 189,
+                "start": 184,
+                "tag": "brat"
+              }
+            ]
+          },
+          "text": "关于一些调brat【不专业版】\n\n“姐姐 我家小狗不乐意怎么办”\n\nbrat的本质 还是小狗\n只要是狗 就会听主人的\n不听都是装的 内心希望被强制\n\n不要总问brat想不想 问就是不想\n直接给选项 让对方二选一\n不选就扇巴掌 惩罚或替对方做决定\n\n没有所谓的不乐意 强制 懂？\n真不乐意游戏结束对方会主动和你提的\n\n不会强制你就乖乖当狗\n让brat当主人 行不行啊你\n#brat"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1524,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "关于一些调brat【不专业版】\n\n“姐姐 我家小狗不乐意怎么办”\n\nbrat的本质 还是小狗\n只要是狗 就会听主人的\n不听都是装的 内心希望被强制\n\n不要总问brat想不想 问就是不想\n直接给选项 让对方二选一\n不选就扇巴掌 惩罚或替对方做决定\n\n没有所谓的不乐意 强制 懂？\n真不乐意游戏结束对方会主动和你提的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6187,
+          "following_count": 190,
+          "like_count": 15052,
+          "listed_count": 27,
+          "media_count": 88,
+          "tweet_count": 1365
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T16:17:30.000Z",
+        "description": "失眠好烦\n少关注我\n三观不正\n不聊骚 \n有对象",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/grace51066",
+                "end": 23,
+                "expanded_url": "https://ngl.link/grace51066",
+                "start": 0,
+                "url": "https://t.co/TuMWnxWHw6"
+              }
+            ]
+          }
+        },
+        "id": "1747291885100744704",
+        "name": "桉",
+        "pinned_tweet_id": "1920696799951511581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037130171866865664/MfTgtFAd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18048,
+          "following_count": 1,
+          "like_count": 26571,
+          "listed_count": 21,
+          "media_count": 811,
+          "tweet_count": 6227
+        },
+        "url": "https://t.co/TuMWnxWHw6",
+        "username": "gracexiya",
+        "verified": true
+      }
+    ]
+  }
+}

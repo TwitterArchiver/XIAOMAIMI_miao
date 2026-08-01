@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2067134432314864099",
+    "created_at": "2026-06-17T10:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067191412836409696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1475658535753199617",
+          "start": 0,
+          "username": "kwiiii10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067191412836409696",
+    "in_reply_to_user_id": "1475658535753199617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067191049286463944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwiiii10 我现在就是希望天上掉钱的一个状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2067134432314864099",
+        "created_at": "2026-06-17T10:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067191412836409696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1475658535753199617",
+              "start": 0,
+              "username": "kwiiii10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067191412836409696",
+        "in_reply_to_user_id": "1475658535753199617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067191049286463944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwiiii10 我现在就是希望天上掉钱的一个状态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475658535753199617",
+        "conversation_id": "2067134432314864099",
+        "created_at": "2026-06-17T10:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067191049286463944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067191049286463944",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067134432314864099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我现在就是希望天上掉钱的一个状态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8366,
+          "following_count": 222,
+          "like_count": 23014,
+          "listed_count": 28,
+          "media_count": 89,
+          "tweet_count": 2614
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-28T02:43:13.000Z",
+        "description": "06 bi infp\n喜欢胸肌练得比我奶大的肌肉男\n女生可以和我互fo🥺特别爱评论聊天\n不认识的男的别私信我了 不谈恋爱不聊骚也不想鸟你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiwi77059",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiwi77059",
+                "start": 0,
+                "url": "https://t.co/aXO4gDdthS"
+              }
+            ]
+          }
+        },
+        "id": "1475658535753199617",
+        "name": "kiwi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039561312326356993/I0WB5u-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 79,
+          "like_count": 22269,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/aXO4gDdthS",
+        "username": "kwiiii10",
+        "verified": false
+      }
+    ]
+  }
+}

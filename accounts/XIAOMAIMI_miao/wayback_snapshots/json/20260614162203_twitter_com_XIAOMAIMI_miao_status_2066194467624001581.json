@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066066561186808300",
+    "created_at": "2026-06-14T16:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066194467624001581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1334176616835031043",
+          "start": 0,
+          "username": "1005Persistent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066194467624001581",
+    "in_reply_to_user_id": "1334176616835031043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066194096771965219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1005Persistent 小宝宝你好厉害呀！！！终于可以结束了！！！一位伟大的女战士成功从痛苦荆棘中挣脱出来了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T16:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066194467624001581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1334176616835031043",
+              "start": 0,
+              "username": "1005Persistent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066194467624001581",
+        "in_reply_to_user_id": "1334176616835031043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066194096771965219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1005Persistent 小宝宝你好厉害呀！！！终于可以结束了！！！一位伟大的女战士成功从痛苦荆棘中挣脱出来了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1334176616835031043",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T16:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066194096771965219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066194096771965219",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066066561186808300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 看得我又泪两滴💧💧今天刚面完事业编面试，在这之前上了10天面试班，对上学都不愿意pre的小女孩来说，实在太痛苦太崩溃了，每天说的嗓子疼，下课回家哭，一边怀疑自己一边还在坚持，一边哭一边做，幸好还是以微弱的优势守住了，这一切终于可以结束"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8289,
+          "following_count": 211,
+          "like_count": 22162,
+          "listed_count": 28,
+          "media_count": 116,
+          "tweet_count": 2500
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-02T16:44:41.000Z",
+        "description": "ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧",
+        "id": "1334176616835031043",
+        "name": "qiqiqzzn_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864590780951908352/EpFQFN7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 58,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 154
+        },
+        "username": "1005Persistent",
+        "verified": false
+      }
+    ]
+  }
+}

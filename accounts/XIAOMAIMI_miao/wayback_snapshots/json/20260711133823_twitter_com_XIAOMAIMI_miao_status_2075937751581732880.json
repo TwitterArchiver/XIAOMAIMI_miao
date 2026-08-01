@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2075934575734452615",
+    "created_at": "2026-07-11T13:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075937751581732880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587039924913831936",
+          "start": 0,
+          "username": "Chrs_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075937751581732880",
+    "in_reply_to_user_id": "1587039924913831936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075934575734452615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chrs_mua 妈咪亲亲你，这是你的账号！想发什么就发什么从来不应该被这种傻逼限制呀。。。！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075934565064208384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8zfPebcAADOuw.jpg",
+        "width": 768
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2075934565030641665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8zfPWbQAEiRpW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2075934565009690624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8zfPRbkAAbqs7.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1380,
+        "media_key": "3_2075934565005479936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8zfPQbUAAAeNx.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2075934575734452615",
+        "created_at": "2026-07-11T13:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075937751581732880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587039924913831936",
+              "start": 0,
+              "username": "Chrs_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075937751581732880",
+        "in_reply_to_user_id": "1587039924913831936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075934575734452615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chrs_mua 妈咪亲亲你，这是你的账号！想发什么就发什么从来不应该被这种傻逼限制呀。。。！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075934565064208384",
+            "3_2075934565030641665",
+            "3_2075934565009690624",
+            "3_2075934565005479936"
+          ]
+        },
+        "author_id": "1587039924913831936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075934575734452615",
+        "created_at": "2026-07-11T13:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075934575734452615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJytN82EFD",
+              "end": 133,
+              "expanded_url": "https://x.com/Chrs_mua/status/2075934575734452615/photo/1",
+              "media_key": "3_2075934565064208384",
+              "start": 110,
+              "url": "https://t.co/BJytN82EFD"
+            },
+            {
+              "display_url": "pic.x.com/BJytN82EFD",
+              "end": 133,
+              "expanded_url": "https://x.com/Chrs_mua/status/2075934575734452615/photo/1",
+              "media_key": "3_2075934565030641665",
+              "start": 110,
+              "url": "https://t.co/BJytN82EFD"
+            },
+            {
+              "display_url": "pic.x.com/BJytN82EFD",
+              "end": 133,
+              "expanded_url": "https://x.com/Chrs_mua/status/2075934575734452615/photo/1",
+              "media_key": "3_2075934565009690624",
+              "start": 110,
+              "url": "https://t.co/BJytN82EFD"
+            },
+            {
+              "display_url": "pic.x.com/BJytN82EFD",
+              "end": 133,
+              "expanded_url": "https://x.com/Chrs_mua/status/2075934575734452615/photo/1",
+              "media_key": "3_2075934565005479936",
+              "start": 110,
+              "url": "https://t.co/BJytN82EFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075934575734452615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚吃完饭打开推 看到之前聊的自我感觉还不错的一位朋友给我发来这样一段私信 想要回复发现已经被蔽了心里算是五味杂陈吧\n首先我想说的是 我玩这个号 一开始的目的就是纯纯的释放自己的欲望 我分享过奇怪的 xp doi 的瞬间 也不避讳去首先我想说的是，我玩这个号一开始的目的，就是纯纯地释放自己的欲望。我分享过奇怪的 xp、doi 的瞬间，也不避讳去谈起性；也会分享生活中看到的猫猫狗狗 每天吃的饭和一些自己觉得有趣的事情 我觉得这才是一个真实的我 完整的我 你看到的没有任何虚假的我\n我喜欢去咬着嘴唇拍照 喜欢穿各种各样的丝袜 喜欢吃吃吃 喜欢和各式各样的人聊天\n所以你说我变了 我觉得我从来没变 而是你从来没有把我当成朋友 而是你的泄欲工具罢了 还有就是我翻了翻聊天记录 确实你连一个口令都没有给我发过 也没有必要这样道德绑架我 不喜欢就取关 不用再跳出来找一下存在感\n可能今天我在炒股 明天又会去画画 现在在卖袜子或者下一次又有什么奇奇怪怪的想法 我的脾气就是这样直来直去恨海情天的 被我骂的人也不少 喜欢我的也有是 做不到每一个人都会喜欢我 就这样吧"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚吃完饭打开推 看到之前聊的自我感觉还不错的一位朋友给我发来这样一段私信 想要回复发现已经被蔽了心里算是五味杂陈吧\n首先我想说的是 我玩这个号 一开始的目的就是纯纯的释放自己的欲望 我分享过奇怪的 xp doi 的瞬间 https://t.co/BJytN82EFD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9198,
+          "following_count": 244,
+          "like_count": 25889,
+          "listed_count": 29,
+          "media_count": 61,
+          "tweet_count": 2497
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T11:13:18.000Z",
+        "description": "随便看看 都很喜欢🩷\n没有🚪 不加🛰 止于推🔚不接电诈⚡️\n生活号 分享做饭吃饭日常 @1Raooo\n出👔🧦先到先得 私信未回可联系小号👆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "1Raooo"
+              }
+            ]
+          }
+        },
+        "id": "1587039924913831936",
+        "location": "投喂请发口令 给我的gelato加个球🍨",
+        "name": "Chrs",
+        "pinned_tweet_id": "2074522125420167584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069288971855917056/qDLvE6cZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31779,
+          "following_count": 62,
+          "like_count": 1468,
+          "listed_count": 69,
+          "media_count": 278,
+          "tweet_count": 1407
+        },
+        "url": "",
+        "username": "Chrs_mua",
+        "verified": true
+      }
+    ]
+  }
+}

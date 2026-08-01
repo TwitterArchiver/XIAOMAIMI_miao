@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2080985616502657223",
+    "created_at": "2026-07-25T16:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T17:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081048938057224272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613468646323675138",
+          "start": 0,
+          "username": "QiuMoDesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081048938057224272",
+    "in_reply_to_user_id": "1613468646323675138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080985616502657223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuMoDesu 你又几把干啥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2080985616502657223",
+        "created_at": "2026-07-25T16:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081048938057224272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613468646323675138",
+              "start": 0,
+              "username": "QiuMoDesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081048938057224272",
+        "in_reply_to_user_id": "1613468646323675138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080985616502657223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuMoDesu 你又几把干啥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613468646323675138",
+        "conversation_id": "2080985616502657223",
+        "created_at": "2026-07-25T11:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080985616502657223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080985616502657223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将每天提醒自己一遍不要再做让自己掉价的事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047341329148256551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9345,
+          "following_count": 262,
+          "like_count": 26690,
+          "listed_count": 31,
+          "media_count": 24,
+          "tweet_count": 2461
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-12T09:31:24.000Z",
+        "description": "赛博算卦小摊+不知名碎碎念bot，偶尔也作为不知名歌手。另一个我@QiuZhiMoZhi\n匿名箱：https://t.co/IdcRbxn7bO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "QiuZhiMoZhi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kanamesamui",
+                "end": 72,
+                "expanded_url": "https://ngl.link/kanamesamui",
+                "start": 49,
+                "url": "https://t.co/IdcRbxn7bO"
+              }
+            ]
+          }
+        },
+        "id": "1613468646323675138",
+        "name": "秋墨",
+        "pinned_tweet_id": "2046664239021212075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053539330933813248/bf7Jsp8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 40,
+          "like_count": 7851,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "QiuMoDesu",
+        "verified": false
+      }
+    ]
+  }
+}

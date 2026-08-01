@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052719136686714968",
+    "created_at": "2026-05-08T16:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052787144574554490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1567543722170253313",
+          "start": 0,
+          "username": "ouO1nieowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052787144574554490",
+    "in_reply_to_user_id": "1567543722170253313",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052719136686714968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouO1nieowo Mommy，，，，🥹❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1090,
+        "media_key": "3_2052719125777227776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy5K0uaIAAorwk.jpg",
+        "width": 819
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052719136686714968",
+        "created_at": "2026-05-08T16:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052787144574554490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1567543722170253313",
+              "start": 0,
+              "username": "ouO1nieowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052787144574554490",
+        "in_reply_to_user_id": "1567543722170253313",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052719136686714968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouO1nieowo Mommy，，，，🥹❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052719125777227776"
+          ]
+        },
+        "author_id": "1567543722170253313",
+        "conversation_id": "2052719136686714968",
+        "created_at": "2026-05-08T11:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052719136686714968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ML49jWjiJ",
+              "end": 34,
+              "expanded_url": "https://x.com/ouO1nieowo/status/2052719136686714968/photo/1",
+              "media_key": "3_2052719125777227776",
+              "start": 11,
+              "url": "https://t.co/4ML49jWjiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052719136686714968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 37450,
+          "like_count": 2473,
+          "quote_count": 8,
+          "reply_count": 212,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "这期是真的妈妈级别了 https://t.co/4ML49jWjiJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6701,
+          "following_count": 192,
+          "like_count": 17087,
+          "listed_count": 27,
+          "media_count": 134,
+          "tweet_count": 1823
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T16:02:09.000Z",
+        "description": "管好你自己/置顶推广自辨",
+        "id": "1567543722170253313",
+        "location": "🚪188/520/1314",
+        "name": "SweetyRoll",
+        "pinned_tweet_id": "2029278292415840553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015403365497270272/XImd6Pk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12005,
+          "following_count": 40,
+          "like_count": 1089,
+          "listed_count": 41,
+          "media_count": 46,
+          "tweet_count": 818
+        },
+        "username": "ouO1nieowo",
+        "verified": false
+      }
+    ]
+  }
+}

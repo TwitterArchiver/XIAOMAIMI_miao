@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049429072821043341",
+    "created_at": "2026-04-29T10:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049429072821043341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1972559113948364800",
+          "start": 3,
+          "username": "towanttoyour"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049429072821043341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049391588024156451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @towanttoyour: 你的关注又新增了一个女的 我要杀了你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049429072821043341",
+        "created_at": "2026-04-29T10:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049429072821043341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1972559113948364800",
+              "start": 3,
+              "username": "towanttoyour"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049429072821043341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049391588024156451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @towanttoyour: 你的关注又新增了一个女的 我要杀了你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972559113948364800",
+        "conversation_id": "2049391588024156451",
+        "created_at": "2026-04-29T07:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049391588024156451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049391588024156451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你的关注又新增了一个女的 我要杀了你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6200,
+          "following_count": 191,
+          "like_count": 15127,
+          "listed_count": 27,
+          "media_count": 90,
+          "tweet_count": 1400
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T07:08:45.000Z",
+        "description": "物质虚荣拜金女一枚 不要找我闲聊 🚪",
+        "id": "1972559113948364800",
+        "location": "猫窝",
+        "name": "3Q",
+        "pinned_tweet_id": "2013571864115720649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028669483372732416/xrE1hXre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 55,
+          "like_count": 1,
+          "listed_count": 5,
+          "media_count": 158,
+          "tweet_count": 633
+        },
+        "username": "towanttoyour",
+        "verified": false
+      }
+    ]
+  }
+}

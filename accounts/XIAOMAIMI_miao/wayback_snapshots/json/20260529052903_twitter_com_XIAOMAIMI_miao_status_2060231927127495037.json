@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2060227118135697473",
+    "created_at": "2026-05-29T05:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060231927127495037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877992679453454336",
+          "start": 0,
+          "username": "BladeStarr0714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060231927127495037",
+    "in_reply_to_user_id": "1877992679453454336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060229567672168718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BladeStarr0714 这两天星露谷上瘾中。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2060227118135697473",
+        "created_at": "2026-05-29T05:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060231927127495037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877992679453454336",
+              "start": 0,
+              "username": "BladeStarr0714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060231927127495037",
+        "in_reply_to_user_id": "1877992679453454336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060229567672168718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BladeStarr0714 这两天星露谷上瘾中。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877992679453454336",
+        "conversation_id": "2060227118135697473",
+        "created_at": "2026-05-29T05:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060229567672168718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060229567672168718",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060227118135697473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 所以我们什么时候继续成行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7883,
+          "following_count": 197,
+          "like_count": 19825,
+          "listed_count": 27,
+          "media_count": 137,
+          "tweet_count": 2140
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T08:15:31.000Z",
+        "description": "这里是小蛙墙外的发疯撒泼标记点，宣泄压抑负能量的垃圾桶，但是也会因为喜欢大家而努力用自己最美好的一面来感染喜欢的大家。\n 有时候会因为太过可爱所以让大家搞混性别其实蛙是男生哦~这么可爱真是抱歉！@Frogly2887是t已经停更暴露狂蛙的黄色废料小号没什么好看的但也只过互关！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "Frogly2887"
+              }
+            ]
+          }
+        },
+        "id": "1877992679453454336",
+        "name": "ff",
+        "pinned_tweet_id": "2031031420953735469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924760681330704384/xQ-xUWFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 1155,
+          "like_count": 48950,
+          "listed_count": 10,
+          "media_count": 767,
+          "tweet_count": 39780
+        },
+        "username": "BladeStarr0714",
+        "verified": false
+      }
+    ]
+  }
+}

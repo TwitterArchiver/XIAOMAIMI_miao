@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2046431821056077915",
+    "created_at": "2026-04-22T03:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T04:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046787828953305272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912571337387962372",
+          "start": 0,
+          "username": "lnln755610"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046787828953305272",
+    "in_reply_to_user_id": "1912571337387962372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046646663188791509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnln755610 什么杯子这么厉害！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2046431821056077915",
+        "created_at": "2026-04-22T03:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046787828953305272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912571337387962372",
+              "start": 0,
+              "username": "lnln755610"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046787828953305272",
+        "in_reply_to_user_id": "1912571337387962372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046646663188791509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnln755610 什么杯子这么厉害！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912571337387962372",
+        "conversation_id": "2046431821056077915",
+        "created_at": "2026-04-21T17:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046646663188791509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046646663188791509",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046431821056077915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我也是嘿嘿 名创优品一个杯子我已经买了五次了 非常专一的一个小女孩😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ碎碎念+身材照",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2045108263386317293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045899834297872384/W2EN1KwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5842,
+          "following_count": 170,
+          "like_count": 13508,
+          "listed_count": 20,
+          "media_count": 62,
+          "tweet_count": 1023
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T18:18:55.000Z",
+        "description": "🙋‍♀️🥺",
+        "id": "1912571337387962372",
+        "name": "linlin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037047144717385728/Y7RLScFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 70,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 107
+        },
+        "username": "lnln755610",
+        "verified": false
+      }
+    ]
+  }
+}

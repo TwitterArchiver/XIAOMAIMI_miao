@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048783161879138430",
+    "created_at": "2026-04-27T15:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048784383575015870"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048784383575015870",
+    "in_reply_to_user_id": "1942995969043501056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048783161879138430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拍这条的时候带了眼罩➕小骨头口球（所以除了呜呜啊啊嗯嗯没有别的声音，，，）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20387,
+        "height": 720,
+        "media_key": "7_2048783116693868544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048783116693868544/pu/img/Ei6l_fK1D-C3S_kb.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048783116693868544/pu/vid/avc1/480x270/kepMdYeOn89AQFTS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048783116693868544/pu/vid/avc1/640x360/-V4XQFTNZ_oMWn1u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048783116693868544/pu/vid/avc1/1280x720/jnXgs1AEPMFPmfm4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048783116693868544/pu/pl/4uFuPHVVea4GZpwS.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048783161879138430",
+        "created_at": "2026-04-27T15:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048784383575015870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048784383575015870",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048783161879138430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拍这条的时候带了眼罩➕小骨头口球（所以除了呜呜啊啊嗯嗯没有别的声音，，，）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048783116693868544"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048783161879138430",
+        "created_at": "2026-04-27T15:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048783161879138430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBETPYwX4M",
+              "end": 44,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2048783161879138430/video/1",
+              "media_key": "7_2048783116693868544",
+              "start": 21,
+              "url": "https://t.co/aBETPYwX4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048783161879138430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 70,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前do的视频😋拿出来细细品味一下。。。 https://t.co/aBETPYwX4M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5999,
+          "following_count": 182,
+          "like_count": 14436,
+          "listed_count": 23,
+          "media_count": 72,
+          "tweet_count": 1200
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

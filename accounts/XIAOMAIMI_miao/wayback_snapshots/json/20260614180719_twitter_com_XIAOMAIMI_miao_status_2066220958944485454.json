@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066066561186808300",
+    "created_at": "2026-06-14T18:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066220958944485454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1635616824036343810",
+          "start": 0,
+          "username": "xiaodingdang664"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066220958944485454",
+    "in_reply_to_user_id": "1635616824036343810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066220140929364098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaodingdang664 我肯定不会去创业的啦，但是我也无法忍受在这种考公考编的高压环境下久待。就算是暂时获得身份也无法忍受，，，哎。以后再说吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T18:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066220958944485454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1635616824036343810",
+              "start": 0,
+              "username": "xiaodingdang664"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066220958944485454",
+        "in_reply_to_user_id": "1635616824036343810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066220140929364098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaodingdang664 我肯定不会去创业的啦，但是我也无法忍受在这种考公考编的高压环境下久待。就算是暂时获得身份也无法忍受，，，哎。以后再说吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635616824036343810",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T18:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066220140929364098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066220140929364098",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066066561186808300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao x上竟然有说考公考编的🥲，其实考公考编这种零和游戏失败才是正常的。我觉得创业从零开辟自己的业务的苦和压力远大于考试，如果让我单纯考试我感觉还有点幸福。我之前也考过公但总感觉只是为了先暂时获得一个身份待不了太久。不过我也不了解公务员到底会不会有大把时间做自己的事情，有的话还是很值的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8295,
+          "following_count": 211,
+          "like_count": 22193,
+          "listed_count": 28,
+          "media_count": 116,
+          "tweet_count": 2508
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T12:20:39.000Z",
+        "description": "",
+        "id": "1635616824036343810",
+        "name": "花清 Hua Qing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993927487613759488/yPWceZym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 135,
+          "like_count": 1617,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 63
+        },
+        "username": "xiaodingdang664",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073985978856062976"
+      ],
+      "media_source_tweet_id": [
+        "2073986034552172589"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2074050928743948569",
+    "created_at": "2026-07-06T08:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074050928743948569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2467615668",
+          "start": 3,
+          "username": "omeletzhao_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SOsldfKQTj",
+          "end": 102,
+          "expanded_url": "https://x.com/omeletzhao_/status/2073986034552172589/video/1",
+          "media_key": "13_2073985978856062976",
+          "start": 79,
+          "url": "https://t.co/SOsldfKQTj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074050928743948569",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073986034552172589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @omeletzhao_: aqปิดยิมอีกทีมปะ หน้าวีมานก้หร่อแต่นี่คถแจ้มกลมของมาน🥹\n©️ 叶云九 https://t.co/SOsldfKQTj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5300,
+        "height": 960,
+        "media_key": "13_2073985978856062976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073985978856062976/img/0iQ0ee6uzE-w9gYn.jpg",
+        "public_metrics": {
+          "view_count": 53
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073985978856062976/vid/avc1/320x426/ovWbOz4khQSJsx3U.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073985978856062976/vid/avc1/480x640/Pus2-SeO8T0UXoDC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073985978856062976/vid/avc1/720x960/79Plu3r7tEbZ93de.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073985978856062976/pl/iPGGoO_8mhE079Q1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073985978856062976"
+          ],
+          "media_source_tweet_id": [
+            "2073986034552172589"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2074050928743948569",
+        "created_at": "2026-07-06T08:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074050928743948569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2467615668",
+              "start": 3,
+              "username": "omeletzhao_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOsldfKQTj",
+              "end": 102,
+              "expanded_url": "https://x.com/omeletzhao_/status/2073986034552172589/video/1",
+              "media_key": "13_2073985978856062976",
+              "start": 79,
+              "url": "https://t.co/SOsldfKQTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074050928743948569",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073986034552172589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @omeletzhao_: aqปิดยิมอีกทีมปะ หน้าวีมานก้หร่อแต่นี่คถแจ้มกลมของมาน🥹\n©️ 叶云九 https://t.co/SOsldfKQTj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073985978856062976"
+          ]
+        },
+        "author_id": "2467615668",
+        "conversation_id": "2073986034552172589",
+        "created_at": "2026-07-06T04:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073986034552172589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOsldfKQTj",
+              "end": 85,
+              "expanded_url": "https://x.com/omeletzhao_/status/2073986034552172589/video/1",
+              "media_key": "13_2073985978856062976",
+              "start": 62,
+              "url": "https://t.co/SOsldfKQTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073986034552172589",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 143,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "aqปิดยิมอีกทีมปะ หน้าวีมานก้หร่อแต่นี่คถแจ้มกลมของมาน🥹\n©️ 叶云九 https://t.co/SOsldfKQTj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8610,
+          "following_count": 248,
+          "like_count": 25740,
+          "listed_count": 28,
+          "media_count": 58,
+          "tweet_count": 2431
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-28T11:37:50.000Z",
+        "description": "ꕀ 𝖨𝗍𝗌 𝗇𝗈𝗍𝗁𝗂𝗇𝗀 𝗃𝗎𝗌𝗍 𝗆𝖾𝗈𝗏𝗏 @SmoggyO_o ⋆ 𑁥౿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "SmoggyO_o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@omeletzhao_",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@omeletzhao_",
+                "start": 0,
+                "url": "https://t.co/0IY0Z2eDNn"
+              }
+            ]
+          }
+        },
+        "id": "2467615668",
+        "location": "vctcn & edward gaming ♡̶",
+        "name": "luna ◞✿ 𓈒˙",
+        "pinned_tweet_id": "2068345832714453008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065653758550589441/pZYeBrT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 120,
+          "like_count": 50065,
+          "listed_count": 3,
+          "media_count": 2308,
+          "tweet_count": 199955
+        },
+        "url": "https://t.co/0IY0Z2eDNn",
+        "username": "omeletzhao_",
+        "verified": false
+      }
+    ]
+  }
+}

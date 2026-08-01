@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2057075621176676756",
+    "created_at": "2026-05-20T15:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057121925470543950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1992966878696984576",
+          "start": 0,
+          "username": "touchmelightlyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057121925470543950",
+    "in_reply_to_user_id": "1992966878696984576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057120544042991816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@touchmelightlyy 妈咪我想问一下就是我换成细杆的耳钉是不是会影响恢复TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2057075621176676756",
+        "created_at": "2026-05-20T15:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057121925470543950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992966878696984576",
+              "start": 0,
+              "username": "touchmelightlyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057121925470543950",
+        "in_reply_to_user_id": "1992966878696984576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057120544042991816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@touchmelightlyy 妈咪我想问一下就是我换成细杆的耳钉是不是会影响恢复TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992966878696984576",
+        "conversation_id": "2057075621176676756",
+        "created_at": "2026-05-20T15:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057120544042991816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057120544042991816",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057075621176676756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 耳洞最好就是不管他，我枪打的换黄金耳钉养的到现在一点事没有除了会臭，银耳钉可能会让耳洞变黑好像也达不到1.2的粗度，建议用纯金的或者钛合金的杆子，打了一个月了可以买6mm1.2的杆子了，长杆戴久了反复剐蹭很容易发炎的（我九个耳洞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7626,
+          "following_count": 198,
+          "like_count": 19239,
+          "listed_count": 26,
+          "media_count": 123,
+          "tweet_count": 2006
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T14:42:00.000Z",
+        "description": "眼泪的汛期",
+        "id": "1992966878696984576",
+        "name": "Kawayiiboom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056012699780202496/mprx4Jsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 0,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 55
+        },
+        "username": "touchmelightlyy",
+        "verified": false
+      }
+    ]
+  }
+}

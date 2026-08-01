@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2046057776758370358",
+    "created_at": "2026-04-20T02:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046057776758370358"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046057776758370358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为啥这个梅森马吉拉的慵懒周末留香这么牛逼？清明节喷在外套上的，到现在还能闻见。。。（中间没洗外套因为这件外套太厚了，过完清明就没穿了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2046057776758370358",
+        "created_at": "2026-04-20T02:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046057776758370358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046057776758370358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥这个梅森马吉拉的慵懒周末留香这么牛逼？清明节喷在外套上的，到现在还能闻见。。。（中间没洗外套因为这件外套太厚了，过完清明就没穿了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ碎碎念+身材照",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2045108263386317293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045899834297872384/W2EN1KwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5898,
+          "following_count": 189,
+          "like_count": 13204,
+          "listed_count": 20,
+          "media_count": 60,
+          "tweet_count": 968
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

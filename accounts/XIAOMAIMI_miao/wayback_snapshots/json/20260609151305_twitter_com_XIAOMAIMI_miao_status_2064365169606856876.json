@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2064322732402327978",
+    "created_at": "2026-06-09T15:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064365169606856876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1941534794627846144",
+          "start": 0,
+          "username": "qjw200104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064365169606856876",
+    "in_reply_to_user_id": "1941534794627846144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064355844733772013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qjw200104 你好我吃一口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2064322732402327978",
+        "created_at": "2026-06-09T15:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064365169606856876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1941534794627846144",
+              "start": 0,
+              "username": "qjw200104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064365169606856876",
+        "in_reply_to_user_id": "1941534794627846144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064355844733772013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qjw200104 你好我吃一口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941534794627846144",
+        "conversation_id": "2064322732402327978",
+        "created_at": "2026-06-09T14:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064355844733772013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064355844733772013",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064322732402327978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao +1 今天去吃必胜客自助了，吃完人都懵了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8203,
+          "following_count": 204,
+          "like_count": 21030,
+          "listed_count": 28,
+          "media_count": 156,
+          "tweet_count": 2309
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T16:29:14.000Z",
+        "description": "一个低电量长续航的入",
+        "id": "1941534794627846144",
+        "name": "qaq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941535068490723328/1e8jtyHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 217,
+          "like_count": 3605,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 164
+        },
+        "username": "qjw200104",
+        "verified": false
+      }
+    ]
+  }
+}

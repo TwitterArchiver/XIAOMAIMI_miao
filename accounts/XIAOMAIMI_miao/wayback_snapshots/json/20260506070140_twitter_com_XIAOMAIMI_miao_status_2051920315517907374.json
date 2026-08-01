@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2051902008232407347",
+    "created_at": "2026-05-06T07:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T08:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051920315517907374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1987551419168411648",
+          "start": 0,
+          "username": "pihuadawang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051920315517907374",
+    "in_reply_to_user_id": "1987551419168411648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051918477632684208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pihuadawang 我用过一段时间！用久了感觉效果变差了😿而且我超喜欢这个味道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2051902008232407347",
+        "created_at": "2026-05-06T07:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051920315517907374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1987551419168411648",
+              "start": 0,
+              "username": "pihuadawang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051920315517907374",
+        "in_reply_to_user_id": "1987551419168411648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051918477632684208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pihuadawang 我用过一段时间！用久了感觉效果变差了😿而且我超喜欢这个味道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987551419168411648",
+        "conversation_id": "2051902008232407347",
+        "created_at": "2026-05-06T06:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051918477632684208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051918477632684208",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051902008232407347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 丝蕴的日本柚子，香香又便宜，油头可以三天一洗（反正我是）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6484,
+          "following_count": 193,
+          "like_count": 16582,
+          "listed_count": 27,
+          "media_count": 118,
+          "tweet_count": 1693
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T16:02:52.000Z",
+        "description": "xp记事簿（别给我看脏东西啊歪！）",
+        "id": "1987551419168411648",
+        "location": "🈚🚪",
+        "name": "屁话大王👑",
+        "pinned_tweet_id": "2046756828143665396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022303354354085888/SqfdIN9__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16560,
+          "following_count": 13,
+          "like_count": 116,
+          "listed_count": 91,
+          "media_count": 72,
+          "tweet_count": 330
+        },
+        "username": "pihuadawang",
+        "verified": false
+      }
+    ]
+  }
+}

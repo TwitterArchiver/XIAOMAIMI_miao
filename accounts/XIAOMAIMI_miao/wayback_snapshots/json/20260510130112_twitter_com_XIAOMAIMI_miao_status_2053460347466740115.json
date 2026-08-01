@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2053441441251430527",
+    "created_at": "2026-05-10T13:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053460347466740115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043585775682650112",
+          "start": 0,
+          "username": "jueling2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053460347466740115",
+    "in_reply_to_user_id": "2043585775682650112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053454129771774132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jueling2007 好贵呃啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2053441441251430527",
+        "created_at": "2026-05-10T13:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053460347466740115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043585775682650112",
+              "start": 0,
+              "username": "jueling2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053460347466740115",
+        "in_reply_to_user_id": "2043585775682650112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053454129771774132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jueling2007 好贵呃啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043585775682650112",
+        "conversation_id": "2053441441251430527",
+        "created_at": "2026-05-10T12:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053454129771774132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053454129771774132",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053441441251430527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我不知道我只知道我的16pm白色512卖了5800"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6777,
+          "following_count": 194,
+          "like_count": 17359,
+          "listed_count": 27,
+          "media_count": 148,
+          "tweet_count": 1875
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T07:03:58.000Z",
+        "description": "请叫我薛定谔的猫\n因为万一哪天被x抬走了呢hhh\n时不时死一下，每次都让我重新养一个号其实也是蛮好玩的",
+        "id": "2043585775682650112",
+        "name": "阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043586661934940160/LygLkQj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 73,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 60
+        },
+        "username": "jueling2007",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050176536272044032"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2050176542651621755",
+    "created_at": "2026-05-01T11:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050176542651621755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+          "display_url": "infinitetweet.me/secret-stalker…",
+          "end": 47,
+          "expanded_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2048989134342242304/0f0RhHB8?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2048989134342242304/0f0RhHB8?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "Secret Stalkers • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+          "url": "https://t.co/LXG1fVCj3h"
+        },
+        {
+          "display_url": "pic.x.com/zzR16yVpFD",
+          "end": 71,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2050176542651621755/photo/1",
+          "media_key": "3_2050176536272044032",
+          "start": 48,
+          "url": "https://t.co/zzR16yVpFD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050176542651621755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/LXG1fVCj3h https://t.co/zzR16yVpFD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_2050176536272044032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOwsotWAAAVh-A.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050176536272044032"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2050176542651621755",
+        "created_at": "2026-05-01T11:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050176542651621755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+              "display_url": "infinitetweet.me/secret-stalker…",
+              "end": 47,
+              "expanded_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2048989134342242304/0f0RhHB8?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048989134342242304/0f0RhHB8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "Secret Stalkers • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "url": "https://t.co/LXG1fVCj3h"
+            },
+            {
+              "display_url": "pic.x.com/zzR16yVpFD",
+              "end": 71,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2050176542651621755/photo/1",
+              "media_key": "3_2050176536272044032",
+              "start": 48,
+              "url": "https://t.co/zzR16yVpFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050176542651621755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/LXG1fVCj3h https://t.co/zzR16yVpFD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6256,
+          "following_count": 195,
+          "like_count": 15594,
+          "listed_count": 27,
+          "media_count": 96,
+          "tweet_count": 1516
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

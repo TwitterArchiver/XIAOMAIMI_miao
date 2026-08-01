@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2074819479888888088",
+    "created_at": "2026-07-08T12:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074835317924962632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2000911854386716676",
+          "start": 0,
+          "username": "JoshZastrow03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074835317924962632",
+    "in_reply_to_user_id": "2000911854386716676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074824992777289772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoshZastrow03 并没有吐，，，但是一直不太舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2074819479888888088",
+        "created_at": "2026-07-08T12:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074835317924962632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000911854386716676",
+              "start": 0,
+              "username": "JoshZastrow03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074835317924962632",
+        "in_reply_to_user_id": "2000911854386716676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074824992777289772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoshZastrow03 并没有吐，，，但是一直不太舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000911854386716676",
+        "conversation_id": "2074819479888888088",
+        "created_at": "2026-07-08T11:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074824992777289772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074824992777289772",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074819479888888088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我的天呐。看能不能去厕所吐出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8848,
+          "following_count": 242,
+          "like_count": 25917,
+          "listed_count": 28,
+          "media_count": 58,
+          "tweet_count": 2461
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T12:52:47.000Z",
+        "description": "吐槽我的阴暗生活🖐🏻️😭🖐🏻️",
+        "id": "2000911854386716676",
+        "location": "重庆",
+        "name": "人生就是咪咪又喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071192773676662784/8Ie7e6GB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 149,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 365
+        },
+        "url": "",
+        "username": "JoshZastrow03",
+        "verified": false
+      }
+    ]
+  }
+}

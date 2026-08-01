@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049014938539278642",
+    "created_at": "2026-04-28T09:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049062947486638214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "981495576410800129",
+          "start": 0,
+          "username": "ArCe7an"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049062947486638214",
+    "in_reply_to_user_id": "981495576410800129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049060522897674501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArCe7an 我感觉外面也会痛，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049014938539278642",
+        "created_at": "2026-04-28T09:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049062947486638214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "981495576410800129",
+              "start": 0,
+              "username": "ArCe7an"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049062947486638214",
+        "in_reply_to_user_id": "981495576410800129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049060522897674501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArCe7an 我感觉外面也会痛，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "981495576410800129",
+        "conversation_id": "2049014938539278642",
+        "created_at": "2026-04-28T09:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049060522897674501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049060522897674501",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049014938539278642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我也会！感觉是阴道里面痛，离奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6120,
+          "following_count": 187,
+          "like_count": 14718,
+          "listed_count": 26,
+          "media_count": 80,
+          "tweet_count": 1289
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-04T11:35:55.000Z",
+        "description": "",
+        "id": "981495576410800129",
+        "name": "ArCe7an",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013211259496218624/fvNZB60N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 17,
+          "like_count": 33603,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1626
+        },
+        "username": "ArCe7an",
+        "verified": false
+      }
+    ]
+  }
+}

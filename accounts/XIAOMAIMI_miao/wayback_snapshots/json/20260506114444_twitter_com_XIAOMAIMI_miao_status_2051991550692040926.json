@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2051902008232407347",
+    "created_at": "2026-05-06T11:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051991550692040926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959035687011065857",
+          "start": 0,
+          "username": "FangX79807"
+        },
+        {
+          "end": 25,
+          "id": "1853967550381445127",
+          "start": 12,
+          "username": "Ahalfhediboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051991550692040926",
+    "in_reply_to_user_id": "1959035687011065857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051981592688820368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FangX79807 @Ahalfhediboy 我也是细软塌，，，额啊啊啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2051902008232407347",
+        "created_at": "2026-05-06T11:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051991550692040926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959035687011065857",
+              "start": 0,
+              "username": "FangX79807"
+            },
+            {
+              "end": 25,
+              "id": "1853967550381445127",
+              "start": 12,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051991550692040926",
+        "in_reply_to_user_id": "1959035687011065857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051981592688820368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FangX79807 @Ahalfhediboy 我也是细软塌，，，额啊啊啊啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959035687011065857",
+        "conversation_id": "2051902008232407347",
+        "created_at": "2026-05-06T11:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051981592688820368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            },
+            {
+              "end": 29,
+              "id": "1942995969043501056",
+              "start": 14,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051981592688820368",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051929755717406768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy @XIAOMAIMI_miao 可是我细软塌怎么办……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6478,
+          "following_count": 191,
+          "like_count": 16643,
+          "listed_count": 28,
+          "media_count": 121,
+          "tweet_count": 1706
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T23:32:19.000Z",
+        "description": "4i/1i 可以叫我乐乐  想要做一只小猫黏在对方身边🥺 🚪52 https://t.co/h4B4lu9iWu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lele1207",
+                "end": 56,
+                "expanded_url": "https://ngl.link/lele1207",
+                "start": 33,
+                "url": "https://t.co/h4B4lu9iWu"
+              }
+            ]
+          }
+        },
+        "id": "1959035687011065857",
+        "name": "Xanny.",
+        "pinned_tweet_id": "1964760195453857998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016753831900852225/7AfwPheL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 221,
+          "like_count": 4500,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2145
+        },
+        "username": "FangX79807",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 373,
+          "like_count": 4349,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1277
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2053622926285656381",
+    "created_at": "2026-05-11T13:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053830072528982150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682023562553749505",
+          "start": 0,
+          "username": "wizsharonxyuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053830072528982150",
+    "in_reply_to_user_id": "1682023562553749505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053829535200931954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wizsharonxyuu 对着镜子看是往哪边歪，然后慢慢往反方向推一下。你可以在网上搜“颞下颌关节紊乱”，有一些方法还是管用的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2053622926285656381",
+        "created_at": "2026-05-11T13:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053830072528982150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682023562553749505",
+              "start": 0,
+              "username": "wizsharonxyuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053830072528982150",
+        "in_reply_to_user_id": "1682023562553749505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053829535200931954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wizsharonxyuu 对着镜子看是往哪边歪，然后慢慢往反方向推一下。你可以在网上搜“颞下颌关节紊乱”，有一些方法还是管用的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682023562553749505",
+        "conversation_id": "2053622926285656381",
+        "created_at": "2026-05-11T13:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053829535200931954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053829535200931954",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053829208439402939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 呜呜呜我已经痛一个周了 昨天推了推下巴觉得缓和一丢丢了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6905,
+          "following_count": 196,
+          "like_count": 17750,
+          "listed_count": 26,
+          "media_count": 166,
+          "tweet_count": 1957
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T13:44:16.000Z",
+        "description": "置顶推广自辨｜我很萌｜小号防炸@JiaowoXiaotiano｜现生朋友勿认｜提问箱https://t.co/JFprdIey9J",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "JiaowoXiaotiano"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/wizsharonxyuu1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/wizsharonxyuu1",
+                "start": 42,
+                "url": "https://t.co/JFprdIey9J"
+              }
+            ]
+          }
+        },
+        "id": "1682023562553749505",
+        "location": "🚪",
+        "name": "不甜糯几",
+        "pinned_tweet_id": "2048771597092483416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014680574418690048/CClq-Nh-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5389,
+          "following_count": 84,
+          "like_count": 11825,
+          "listed_count": 17,
+          "media_count": 308,
+          "tweet_count": 4666
+        },
+        "username": "wizsharonxyuu",
+        "verified": false
+      }
+    ]
+  }
+}

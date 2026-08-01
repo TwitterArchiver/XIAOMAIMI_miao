@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2077993499841253627",
+    "created_at": "2026-07-17T06:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078008768995221859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613468646323675138",
+          "start": 0,
+          "username": "QiuMoDesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078008768995221859",
+    "in_reply_to_user_id": "1613468646323675138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077993499841253627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuMoDesu 谁不想买把破梳子打残局的时候拿出来梳两下。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2077993473886871552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaEDgibYAA4LZL.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2077993499841253627",
+        "created_at": "2026-07-17T06:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078008768995221859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613468646323675138",
+              "start": 0,
+              "username": "QiuMoDesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078008768995221859",
+        "in_reply_to_user_id": "1613468646323675138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077993499841253627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuMoDesu 谁不想买把破梳子打残局的时候拿出来梳两下。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077993473886871552"
+          ]
+        },
+        "author_id": "1613468646323675138",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077993499841253627",
+        "created_at": "2026-07-17T05:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077993499841253627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEHiGQp2pZ",
+              "end": 35,
+              "expanded_url": "https://x.com/QiuMoDesu/status/2077993499841253627/photo/1",
+              "media_key": "3_2077993473886871552",
+              "start": 12,
+              "url": "https://t.co/IEHiGQp2pZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077993499841253627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无畏契约你对我真的很差 https://t.co/IEHiGQp2pZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9319,
+          "following_count": 250,
+          "like_count": 26358,
+          "listed_count": 31,
+          "media_count": 59,
+          "tweet_count": 2579
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-12T09:31:24.000Z",
+        "description": "赛博算卦小摊+不知名碎碎念bot，偶尔也作为不知名歌手。另一个我@QiuZhiMoZhi\n匿名箱：https://t.co/IdcRbxn7bO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "QiuZhiMoZhi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kanamesamui",
+                "end": 72,
+                "expanded_url": "https://ngl.link/kanamesamui",
+                "start": 49,
+                "url": "https://t.co/IdcRbxn7bO"
+              }
+            ]
+          }
+        },
+        "id": "1613468646323675138",
+        "name": "秋墨",
+        "pinned_tweet_id": "2046664239021212075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053539330933813248/bf7Jsp8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 43,
+          "like_count": 7764,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "QiuMoDesu",
+        "verified": false
+      }
+    ]
+  }
+}

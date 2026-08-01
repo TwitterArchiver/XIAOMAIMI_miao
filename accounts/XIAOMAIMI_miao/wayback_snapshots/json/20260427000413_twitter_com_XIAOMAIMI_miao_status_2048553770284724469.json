@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048543056010613213",
+    "created_at": "2026-04-27T00:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T01:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048553770284724469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1512373779933978626",
+          "start": 0,
+          "username": "sweetiekittylol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048553770284724469",
+    "in_reply_to_user_id": "1512373779933978626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048543056010613213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@sweetiekittylol 他好像不知道自己很可爱，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9066,
+        "height": 1280,
+        "media_key": "7_2048543018047901696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048543018047901696/pu/img/Uk1VH_TesIzittVF.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048543018047901696/pu/vid/avc1/320x568/FHiRLa-szr2WTS1T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048543018047901696/pu/vid/avc1/480x852/bDvF3HwC4e0rn_rN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048543018047901696/pu/vid/avc1/720x1280/rw87xIjEngdrXLqo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048543018047901696/pu/pl/NaC6DXh8LFol57dL.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048543056010613213",
+        "created_at": "2026-04-27T00:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048553770284724469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1512373779933978626",
+              "start": 0,
+              "username": "sweetiekittylol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048553770284724469",
+        "in_reply_to_user_id": "1512373779933978626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048543056010613213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@sweetiekittylol 他好像不知道自己很可爱，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048543018047901696"
+          ]
+        },
+        "author_id": "1512373779933978626",
+        "conversation_id": "2048543056010613213",
+        "created_at": "2026-04-26T23:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048543056010613213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1webEjdf9R",
+              "end": 32,
+              "expanded_url": "https://x.com/sweetiekittylol/status/2048543056010613213/video/1",
+              "media_key": "7_2048543018047901696",
+              "start": 9,
+              "url": "https://t.co/1webEjdf9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048543056010613213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "今天小猫在哪里？ https://t.co/1webEjdf9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5999,
+          "following_count": 180,
+          "like_count": 14297,
+          "listed_count": 23,
+          "media_count": 71,
+          "tweet_count": 1170
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T10:16:35.000Z",
+        "description": "ᐕ)ﾉ@kissmyloin\n  ✉️https://t.co/S2Ixg7QNcz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "kissmyloin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sweetiekittylol",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sweetiekittylol",
+                "start": 19,
+                "url": "https://t.co/S2Ixg7QNcz"
+              }
+            ]
+          }
+        },
+        "id": "1512373779933978626",
+        "location": "小猫会永远陪在你身边",
+        "name": "有时变成你下班路上遇见的小猫",
+        "pinned_tweet_id": "1996192099121963469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774994951652376576/zBfhfO-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25843,
+          "following_count": 681,
+          "like_count": 17268,
+          "listed_count": 59,
+          "media_count": 1150,
+          "tweet_count": 9717
+        },
+        "username": "sweetiekittylol",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2046258262698500345",
+    "created_at": "2026-04-20T16:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046259078742335963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1613468646323675138",
+          "start": 0,
+          "username": "KanameSamui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046259078742335963",
+    "in_reply_to_user_id": "1613468646323675138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046258942721085766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KanameSamui 神的阴经。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2046258262698500345",
+        "created_at": "2026-04-20T16:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046259078742335963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1613468646323675138",
+              "start": 0,
+              "username": "KanameSamui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046259078742335963",
+        "in_reply_to_user_id": "1613468646323675138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046258942721085766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KanameSamui 神的阴经。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613468646323675138",
+        "conversation_id": "2046258262698500345",
+        "created_at": "2026-04-20T16:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046258942721085766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046258942721085766",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046258761854337065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 那你是神经"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ碎碎念+身材照",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2045108263386317293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045899834297872384/W2EN1KwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5924,
+          "following_count": 189,
+          "like_count": 13298,
+          "listed_count": 20,
+          "media_count": 59,
+          "tweet_count": 991
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-12T09:31:24.000Z",
+        "description": "赛博算卦小摊+不知名碎碎念bot，偶尔也作为不知名歌手。匿名箱：https://t.co/IdcRbxn7bO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kanamesamui",
+                "end": 55,
+                "expanded_url": "https://ngl.link/kanamesamui",
+                "start": 32,
+                "url": "https://t.co/IdcRbxn7bO"
+              }
+            ]
+          }
+        },
+        "id": "1613468646323675138",
+        "name": "Kaname",
+        "pinned_tweet_id": "2045391164941992198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943915995493548033/fo6vdA8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 45,
+          "like_count": 4207,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 590
+        },
+        "username": "KanameSamui",
+        "verified": false
+      }
+    ]
+  }
+}

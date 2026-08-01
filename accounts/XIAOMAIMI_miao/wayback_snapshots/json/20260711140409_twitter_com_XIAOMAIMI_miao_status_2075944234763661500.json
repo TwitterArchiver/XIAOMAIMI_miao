@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2075934575734452615",
+    "created_at": "2026-07-11T14:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075944234763661500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587039924913831936",
+          "start": 0,
+          "username": "Chrs_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075944234763661500",
+    "in_reply_to_user_id": "1587039924913831936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075943821037519063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chrs_mua 妈咪亲亲你！这种傻逼就当他不存在就好了！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2075934575734452615",
+        "created_at": "2026-07-11T14:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075944234763661500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587039924913831936",
+              "start": 0,
+              "username": "Chrs_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075944234763661500",
+        "in_reply_to_user_id": "1587039924913831936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075943821037519063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chrs_mua 妈咪亲亲你！这种傻逼就当他不存在就好了！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587039924913831936",
+        "conversation_id": "2075934575734452615",
+        "created_at": "2026-07-11T14:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075943821037519063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075943821037519063",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075937751581732880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 😚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9199,
+          "following_count": 244,
+          "like_count": 25897,
+          "listed_count": 29,
+          "media_count": 61,
+          "tweet_count": 2501
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T11:13:18.000Z",
+        "description": "随便看看 都很喜欢🩷\n没有🚪 不加🛰 止于推🔚不接电诈⚡️\n生活号 分享做饭吃饭日常 @1Raooo\n出👔🧦先到先得 私信未回可联系小号👆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "1Raooo"
+              }
+            ]
+          }
+        },
+        "id": "1587039924913831936",
+        "location": "投喂请发口令 给我的gelato加个球🍨",
+        "name": "Chrs",
+        "pinned_tweet_id": "2074522125420167584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069288971855917056/qDLvE6cZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31778,
+          "following_count": 62,
+          "like_count": 1471,
+          "listed_count": 69,
+          "media_count": 278,
+          "tweet_count": 1410
+        },
+        "url": "",
+        "username": "Chrs_mua",
+        "verified": true
+      }
+    ]
+  }
+}

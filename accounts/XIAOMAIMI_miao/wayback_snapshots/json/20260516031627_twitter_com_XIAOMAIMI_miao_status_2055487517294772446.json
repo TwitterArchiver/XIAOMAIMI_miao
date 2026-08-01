@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2055466117318209648",
+    "created_at": "2026-05-16T03:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055487517294772446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969392379557003269",
+          "start": 0,
+          "username": "wangzz12345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055487517294772446",
+    "in_reply_to_user_id": "1969392379557003269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055480108019012030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangzz12345 我也想知道。而且我们一上午要测完全部项目。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2055466117318209648",
+        "created_at": "2026-05-16T03:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055487517294772446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969392379557003269",
+              "start": 0,
+              "username": "wangzz12345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055487517294772446",
+        "in_reply_to_user_id": "1969392379557003269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055480108019012030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangzz12345 我也想知道。而且我们一上午要测完全部项目。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969392379557003269",
+        "conversation_id": "2055466117318209648",
+        "created_at": "2026-05-16T02:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055480108019012030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055480108019012030",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055466117318209648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 怎么大家都在这个时间体测"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7362,
+          "following_count": 196,
+          "like_count": 18835,
+          "listed_count": 26,
+          "media_count": 209,
+          "tweet_count": 2097
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T13:25:19.000Z",
+        "description": "enfj//上班摸鱼刷帖//刷到请喊我回去敲代码// 欢迎向我提问：https://t.co/kjpS8Mb5DO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wangzz77536",
+                "end": 57,
+                "expanded_url": "https://ngl.link/wangzz77536",
+                "start": 34,
+                "url": "https://t.co/kjpS8Mb5DO"
+              }
+            ]
+          }
+        },
+        "id": "1969392379557003269",
+        "location": "9999km",
+        "name": "重生到万达广场发现还是要当码农怒而转做男模",
+        "pinned_tweet_id": "1979542089236165017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969393833558622211/ooZMsosK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 71,
+          "like_count": 4116,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 320
+        },
+        "username": "wangzz12345",
+        "verified": false
+      }
+    ]
+  }
+}

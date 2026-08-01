@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2050897146262733257",
+    "created_at": "2026-05-03T13:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050934479079006612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934553169985773568",
+          "start": 0,
+          "username": "Rsiii_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050934479079006612",
+    "in_reply_to_user_id": "1934553169985773568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050934180524290199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rsiii_u 有没有什么，，，类似的能唤醒本体感觉的方法，，，！😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2050897146262733257",
+        "created_at": "2026-05-03T13:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050934479079006612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934553169985773568",
+              "start": 0,
+              "username": "Rsiii_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050934479079006612",
+        "in_reply_to_user_id": "1934553169985773568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050934180524290199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rsiii_u 有没有什么，，，类似的能唤醒本体感觉的方法，，，！😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934553169985773568",
+        "conversation_id": "2050897146262733257",
+        "created_at": "2026-05-03T13:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050934180524290199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050934180524290199",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050897146262733257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 留疤会特别丑 会后悔的且容易一去不复返"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6272,
+          "following_count": 190,
+          "like_count": 16113,
+          "listed_count": 27,
+          "media_count": 103,
+          "tweet_count": 1606
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T10:06:43.000Z",
+        "description": "我就这样把碎碎念堆在了这里",
+        "id": "1934553169985773568",
+        "name": "恶魔用户54188",
+        "pinned_tweet_id": "2048606604489326683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045156999474929664/sRhAb8l7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 0,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 76
+        },
+        "username": "Rsiii_u",
+        "verified": false
+      }
+    ]
+  }
+}

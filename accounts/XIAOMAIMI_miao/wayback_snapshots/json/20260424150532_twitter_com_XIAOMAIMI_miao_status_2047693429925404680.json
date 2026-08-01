@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047592406359675212",
+    "created_at": "2026-04-24T15:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047693429925404680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028172399418781696",
+          "start": 0,
+          "username": "Lelelu_772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047693429925404680",
+    "in_reply_to_user_id": "2028172399418781696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047691568254259509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lelelu_772 好可爱呀——白色系——！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_2047691554434002944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrcnp-bMAA1qLt.jpg",
+        "width": 661
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047592406359675212",
+        "created_at": "2026-04-24T15:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047693429925404680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028172399418781696",
+              "start": 0,
+              "username": "Lelelu_772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047693429925404680",
+        "in_reply_to_user_id": "2028172399418781696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047691568254259509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lelelu_772 好可爱呀——白色系——！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047691554434002944"
+          ]
+        },
+        "author_id": "2028172399418781696",
+        "conversation_id": "2047592406359675212",
+        "created_at": "2026-04-24T14:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047691568254259509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vX7whpetz",
+              "end": 46,
+              "expanded_url": "https://x.com/Lelelu_772/status/2047691568254259509/photo/1",
+              "media_key": "3_2047691554434002944",
+              "start": 23,
+              "url": "https://t.co/5vX7whpetz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047691568254259509",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047592406359675212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 只有我正经🫰 https://t.co/5vX7whpetz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5903,
+          "following_count": 178,
+          "like_count": 14030,
+          "listed_count": 20,
+          "media_count": 66,
+          "tweet_count": 1136
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T18:16:54.000Z",
+        "description": "所有蠢人远离我！！！！",
+        "id": "2028172399418781696",
+        "name": "pupuoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037945142301343744/Z9Zfivan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 38,
+          "like_count": 883,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 80
+        },
+        "username": "Lelelu_772",
+        "verified": false
+      }
+    ]
+  }
+}

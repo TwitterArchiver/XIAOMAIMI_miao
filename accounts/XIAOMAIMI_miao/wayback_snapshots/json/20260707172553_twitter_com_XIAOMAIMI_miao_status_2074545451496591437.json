@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074545437571440640"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2074545451496591437",
+    "created_at": "2026-07-07T17:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074545451496591437"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RN2zcX3CqF",
+          "end": 54,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2074545451496591437/photo/1",
+          "media_key": "3_2074545437571440640",
+          "start": 31,
+          "url": "https://t.co/RN2zcX3CqF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074545451496591437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大腿被咬了两个疙瘩。。。挠也不是不挠也不是。。。好痛苦。。。 https://t.co/RN2zcX3CqF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2074545437571440640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpEFYTaYAAPWMo.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074545437571440640"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2074545451496591437",
+        "created_at": "2026-07-07T17:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074545451496591437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RN2zcX3CqF",
+              "end": 54,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2074545451496591437/photo/1",
+              "media_key": "3_2074545437571440640",
+              "start": 31,
+              "url": "https://t.co/RN2zcX3CqF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074545451496591437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大腿被咬了两个疙瘩。。。挠也不是不挠也不是。。。好痛苦。。。 https://t.co/RN2zcX3CqF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8617,
+          "following_count": 242,
+          "like_count": 25876,
+          "listed_count": 28,
+          "media_count": 60,
+          "tweet_count": 2455
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

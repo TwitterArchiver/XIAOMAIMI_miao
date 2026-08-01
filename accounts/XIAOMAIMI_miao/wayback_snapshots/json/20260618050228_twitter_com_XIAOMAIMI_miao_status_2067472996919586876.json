@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2067469441701724399",
+    "created_at": "2026-06-18T05:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067472996919586876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783058785134895104",
+          "start": 0,
+          "username": "youaremylove976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067472996919586876",
+    "in_reply_to_user_id": "1783058785134895104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067469441701724399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youaremylove976 谈吧 别跟你哥哥似的这么大了没个对象！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 773,
+        "media_key": "3_2067469436651819008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEgf6ub0AArfUq.jpg",
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2067469441701724399",
+        "created_at": "2026-06-18T05:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067472996919586876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783058785134895104",
+              "start": 0,
+              "username": "youaremylove976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067472996919586876",
+        "in_reply_to_user_id": "1783058785134895104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067469441701724399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youaremylove976 谈吧 别跟你哥哥似的这么大了没个对象！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067469436651819008"
+          ]
+        },
+        "author_id": "1783058785134895104",
+        "conversation_id": "2067469441701724399",
+        "created_at": "2026-06-18T04:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067469441701724399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dd2iPDYz9p",
+              "end": 106,
+              "expanded_url": "https://x.com/youaremylove976/status/2067469441701724399/photo/1",
+              "media_key": "3_2067469436651819008",
+              "start": 83,
+              "url": "https://t.co/dd2iPDYz9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067469441701724399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹妹初中了，中午回来吃饭给我们八卦班里谁谁谁谈恋爱了处对象了\n老妈说  都是闹着玩滴\n我说   想谈就谈，我不反对\n我妈补刀  谈吧 别跟你哥哥似的这么大了没个对象 https://t.co/dd2iPDYz9p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8352,
+          "following_count": 224,
+          "like_count": 23268,
+          "listed_count": 28,
+          "media_count": 49,
+          "tweet_count": 2583
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T09:02:06.000Z",
+        "description": "直男 随便发发日常，欢迎大家找我聊天\n可以来玩匿名喔https://t.co/zvsivWwNz9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wudixiaomao",
+                "end": 49,
+                "expanded_url": "https://ngl.link/wudixiaomao",
+                "start": 26,
+                "url": "https://t.co/zvsivWwNz9"
+              }
+            ]
+          }
+        },
+        "id": "1783058785134895104",
+        "name": "电子止疼药",
+        "pinned_tweet_id": "2051331948757561424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892950429870264321/VhtiFZNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 502,
+          "like_count": 9315,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 3245
+        },
+        "url": "",
+        "username": "youaremylove976",
+        "verified": false
+      }
+    ]
+  }
+}

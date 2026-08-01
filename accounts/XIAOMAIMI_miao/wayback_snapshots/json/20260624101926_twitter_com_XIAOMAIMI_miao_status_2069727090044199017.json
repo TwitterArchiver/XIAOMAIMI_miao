@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2069722919895216542",
+    "created_at": "2026-06-24T10:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T11:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069727090044199017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1995497695201693696",
+          "start": 0,
+          "username": "MauriZalic22579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069727090044199017",
+    "in_reply_to_user_id": "1995497695201693696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069725707316699292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MauriZalic22579 不想拥有的人可以滚了！想拥有的自己买！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2069722919895216542",
+        "created_at": "2026-06-24T10:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069727090044199017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1995497695201693696",
+              "start": 0,
+              "username": "MauriZalic22579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069727090044199017",
+        "in_reply_to_user_id": "1995497695201693696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069725707316699292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MauriZalic22579 不想拥有的人可以滚了！想拥有的自己买！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995497695201693696",
+        "conversation_id": "2069722919895216542",
+        "created_at": "2026-06-24T10:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069725707316699292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069725707316699292",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069722919895216542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 谁不想有一个粉色大象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8355,
+          "following_count": 233,
+          "like_count": 23984,
+          "listed_count": 28,
+          "media_count": 42,
+          "tweet_count": 2282
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T14:18:35.000Z",
+        "description": "",
+        "id": "1995497695201693696",
+        "name": "Zalic Mauri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007820511964020737/uyTkkAC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 468,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "MauriZalic22579",
+        "verified": false
+      }
+    ]
+  }
+}

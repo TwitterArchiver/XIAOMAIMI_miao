@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2046057776758370358",
+    "created_at": "2026-04-20T05:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T06:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046092366780784942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911486992027639809",
+          "start": 0,
+          "username": "zoeisalemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046092366780784942",
+    "in_reply_to_user_id": "1911486992027639809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046091691795660980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zoeisalemon 其实挺好闻，但是有点难以形容是什么感觉（？）我个人更喜欢中性香木质香皂香柑橘调这种，，，😞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2046057776758370358",
+        "created_at": "2026-04-20T05:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046092366780784942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911486992027639809",
+              "start": 0,
+              "username": "zoeisalemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046092366780784942",
+        "in_reply_to_user_id": "1911486992027639809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046091691795660980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zoeisalemon 其实挺好闻，但是有点难以形容是什么感觉（？）我个人更喜欢中性香木质香皂香柑橘调这种，，，😞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911486992027639809",
+        "conversation_id": "2046057776758370358",
+        "created_at": "2026-04-20T05:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046091691795660980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046091691795660980",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046057776758370358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 种草了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ碎碎念+身材照",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2045108263386317293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045899834297872384/W2EN1KwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5905,
+          "following_count": 189,
+          "like_count": 13230,
+          "listed_count": 20,
+          "media_count": 60,
+          "tweet_count": 974
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T18:30:01.000Z",
+        "description": "这是一个神秘的解压器/@zoeisakiller",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "zoeisakiller"
+              }
+            ]
+          }
+        },
+        "id": "1911486992027639809",
+        "location": "这扇门不对你打开",
+        "name": "fluttershy",
+        "pinned_tweet_id": "2002749110852760003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989718947898560513/SkbwKdfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 85,
+          "like_count": 2323,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 413
+        },
+        "username": "zoeisalemon",
+        "verified": false
+      }
+    ]
+  }
+}

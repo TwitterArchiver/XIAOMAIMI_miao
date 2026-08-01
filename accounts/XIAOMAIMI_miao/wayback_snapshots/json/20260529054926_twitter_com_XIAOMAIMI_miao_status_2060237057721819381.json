@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2060237057721819381",
+    "created_at": "2026-05-29T05:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060237057721819381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2054919713814388736",
+          "start": 3,
+          "username": "XIAOSHUgugu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060237057721819381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060225310050898076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XIAOSHUgugu: 什么叫逃避啊，我本来就不应该承受这么多痛苦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2060237057721819381",
+        "created_at": "2026-05-29T05:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060237057721819381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2054919713814388736",
+              "start": 3,
+              "username": "XIAOSHUgugu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060237057721819381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060225310050898076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XIAOSHUgugu: 什么叫逃避啊，我本来就不应该承受这么多痛苦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054919713814388736",
+        "conversation_id": "2060225310050898076",
+        "created_at": "2026-05-29T05:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060225310050898076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060225310050898076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫逃避啊，我本来就不应该承受这么多痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7883,
+          "following_count": 197,
+          "like_count": 19830,
+          "listed_count": 27,
+          "media_count": 137,
+          "tweet_count": 2143
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:41:13.000Z",
+        "description": "我们做过最亲密的事不是接吻，是在对方面前安静地掉眼泪。",
+        "id": "2054919713814388736",
+        "name": "小鼠小鼠爱吃稻谷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054921153622528000/HQHBUWPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 21
+        },
+        "username": "XIAOSHUgugu",
+        "verified": false
+      }
+    ]
+  }
+}

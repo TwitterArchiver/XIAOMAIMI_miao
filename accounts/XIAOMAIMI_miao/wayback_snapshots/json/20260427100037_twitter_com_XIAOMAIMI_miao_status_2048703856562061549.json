@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048700340095303807",
+    "created_at": "2026-04-27T10:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048703856562061549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783058785134895104",
+          "start": 0,
+          "username": "youaremylove976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048703856562061549",
+    "in_reply_to_user_id": "1783058785134895104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048703740203749688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youaremylove976 肋骨外翻好丑💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048700340095303807",
+        "created_at": "2026-04-27T10:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048703856562061549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783058785134895104",
+              "start": 0,
+              "username": "youaremylove976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048703856562061549",
+        "in_reply_to_user_id": "1783058785134895104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048703740203749688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youaremylove976 肋骨外翻好丑💔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783058785134895104",
+        "conversation_id": "2048700340095303807",
+        "created_at": "2026-04-27T10:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048703740203749688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048703740203749688",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048700340095303807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 感受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5996,
+          "following_count": 182,
+          "like_count": 14386,
+          "listed_count": 23,
+          "media_count": 71,
+          "tweet_count": 1187
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T09:02:06.000Z",
+        "description": "直男 随便发发日常，欢迎大家找我聊天\n可以来玩匿名喔https://t.co/zvsivWwNz9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wudixiaomao",
+                "end": 49,
+                "expanded_url": "https://ngl.link/wudixiaomao",
+                "start": 26,
+                "url": "https://t.co/zvsivWwNz9"
+              }
+            ]
+          }
+        },
+        "id": "1783058785134895104",
+        "name": "电子止疼药",
+        "pinned_tweet_id": "2040646021500535268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892950429870264321/VhtiFZNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 354,
+          "like_count": 7105,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 2523
+        },
+        "username": "youaremylove976",
+        "verified": false
+      }
+    ]
+  }
+}

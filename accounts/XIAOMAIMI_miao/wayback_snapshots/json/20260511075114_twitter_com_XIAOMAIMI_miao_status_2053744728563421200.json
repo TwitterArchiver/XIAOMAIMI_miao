@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2053711780434821153",
+    "created_at": "2026-05-11T07:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T08:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053744728563421200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893233040606011392",
+          "start": 0,
+          "username": "myzm_gachi0813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053744728563421200",
+    "in_reply_to_user_id": "1893233040606011392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053744028873806085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myzm_gachi0813 摸摸你——乖宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2053711780434821153",
+        "created_at": "2026-05-11T07:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053744728563421200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1893233040606011392",
+              "start": 0,
+              "username": "myzm_gachi0813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053744728563421200",
+        "in_reply_to_user_id": "1893233040606011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053744028873806085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myzm_gachi0813 摸摸你——乖宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893233040606011392",
+        "conversation_id": "2053711780434821153",
+        "created_at": "2026-05-11T07:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053744028873806085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053744028873806085",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053711780434821153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 上课捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6809,
+          "following_count": 195,
+          "like_count": 17543,
+          "listed_count": 26,
+          "media_count": 160,
+          "tweet_count": 1913
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T09:35:22.000Z",
+        "description": "05 双 switch",
+        "id": "1893233040606011392",
+        "name": "awa٩( °༥° )و",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050956107859087360/7frvQyQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 214,
+          "like_count": 3686,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 103
+        },
+        "username": "myzm_gachi0813",
+        "verified": false
+      }
+    ]
+  }
+}

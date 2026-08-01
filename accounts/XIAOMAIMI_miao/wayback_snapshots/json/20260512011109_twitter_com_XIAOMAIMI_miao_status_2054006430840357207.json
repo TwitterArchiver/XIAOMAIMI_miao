@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2054005323200139393",
+    "created_at": "2026-05-12T01:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T02:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054006430840357207"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054006430840357207",
+    "in_reply_to_user_id": "1942995969043501056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054005323200139393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一想到高中的生活就想哭。一个月才能回一次家，在学校里想洗澡都没时间，从下课到熄灯只有20分钟时间，最小的宿舍也住了12个人，吃饭和洗头真的只能二选一，宿舍没有吹风机更没有充电插头。考、熬，靠着想死的信念撑过了三年。考上现在这样的本科我已经很知足了，我已经拼尽全力了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2054005323200139393",
+        "created_at": "2026-05-12T01:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054006430840357207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054006430840357207",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054005323200139393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一想到高中的生活就想哭。一个月才能回一次家，在学校里想洗澡都没时间，从下课到熄灯只有20分钟时间，最小的宿舍也住了12个人，吃饭和洗头真的只能二选一，宿舍没有吹风机更没有充电插头。考、熬，靠着想死的信念撑过了三年。考上现在这样的本科我已经很知足了，我已经拼尽全力了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2054005323200139393",
+        "created_at": "2026-05-12T01:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054005323200139393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054005323200139393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底是什么样的人才能说出“考本科很难吗？”这种问题，，，山河四省这种地方，别说考出去，考上就算万幸万岁了。很多学校所谓“升学率”，大部分都是通过非文化课类型考到专/本，真正通过文化课考上本科的少之又少，，，放过我们山河四省行不行，，，网上那些苦难视频并不是空穴来风啊，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6968,
+          "following_count": 196,
+          "like_count": 17917,
+          "listed_count": 26,
+          "media_count": 170,
+          "tweet_count": 1975
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

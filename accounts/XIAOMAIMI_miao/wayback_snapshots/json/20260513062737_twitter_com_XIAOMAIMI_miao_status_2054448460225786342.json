@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2054443683223949704",
+    "created_at": "2026-05-13T06:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054448460225786342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1469643667551842305",
+          "start": 0,
+          "username": "yidai71549972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054448460225786342",
+    "in_reply_to_user_id": "1469643667551842305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054448132579291566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yidai71549972 不爱吃，这个是绝对pass的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2054443683223949704",
+        "created_at": "2026-05-13T06:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054448460225786342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1469643667551842305",
+              "start": 0,
+              "username": "yidai71549972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054448460225786342",
+        "in_reply_to_user_id": "1469643667551842305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054448132579291566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yidai71549972 不爱吃，这个是绝对pass的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469643667551842305",
+        "conversation_id": "2054443683223949704",
+        "created_at": "2026-05-13T06:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054448132579291566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054448132579291566",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054443683223949704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 螺蛳粉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7059,
+          "following_count": 196,
+          "like_count": 18246,
+          "listed_count": 26,
+          "media_count": 185,
+          "tweet_count": 2028
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T12:22:17.000Z",
+        "description": "",
+        "id": "1469643667551842305",
+        "location": "你家楼下",
+        "name": "Whxhnlt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053544571246895104/DhT1prig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 904,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 354
+        },
+        "username": "yidai71549972",
+        "verified": false
+      }
+    ]
+  }
+}

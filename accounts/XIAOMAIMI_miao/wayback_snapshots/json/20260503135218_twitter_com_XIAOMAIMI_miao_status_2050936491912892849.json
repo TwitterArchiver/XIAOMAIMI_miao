@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050936482555453440",
+        "3_2050936483146821632",
+        "3_2050936483444600832",
+        "3_2050936484962992128"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2050936491912892849",
+    "created_at": "2026-05-03T13:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050936491912892849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aWLPiVbd7A",
+          "end": 45,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2050936491912892849/photo/1",
+          "media_key": "3_2050936482555453440",
+          "start": 22,
+          "url": "https://t.co/aWLPiVbd7A"
+        },
+        {
+          "display_url": "pic.x.com/aWLPiVbd7A",
+          "end": 45,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2050936491912892849/photo/1",
+          "media_key": "3_2050936483146821632",
+          "start": 22,
+          "url": "https://t.co/aWLPiVbd7A"
+        },
+        {
+          "display_url": "pic.x.com/aWLPiVbd7A",
+          "end": 45,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2050936491912892849/photo/1",
+          "media_key": "3_2050936483444600832",
+          "start": 22,
+          "url": "https://t.co/aWLPiVbd7A"
+        },
+        {
+          "display_url": "pic.x.com/aWLPiVbd7A",
+          "end": 45,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2050936491912892849/photo/1",
+          "media_key": "3_2050936484962992128",
+          "start": 22,
+          "url": "https://t.co/aWLPiVbd7A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050936491912892849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你们！！！！！你们都是很好的人，，，！ https://t.co/aWLPiVbd7A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_2050936482555453440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZj3VObYAA8saI.jpg",
+        "width": 1272
+      },
+      {
+        "height": 1332,
+        "media_key": "3_2050936483146821632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZj3Xba8AAHpZJ.jpg",
+        "width": 1272
+      },
+      {
+        "height": 1323,
+        "media_key": "3_2050936483444600832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZj3YiasAARCR8.jpg",
+        "width": 1272
+      },
+      {
+        "height": 1319,
+        "media_key": "3_2050936484962992128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZj3eMbgAASV73.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050936482555453440",
+            "3_2050936483146821632",
+            "3_2050936483444600832",
+            "3_2050936484962992128"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2050936491912892849",
+        "created_at": "2026-05-03T13:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050936491912892849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aWLPiVbd7A",
+              "end": 45,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2050936491912892849/photo/1",
+              "media_key": "3_2050936482555453440",
+              "start": 22,
+              "url": "https://t.co/aWLPiVbd7A"
+            },
+            {
+              "display_url": "pic.x.com/aWLPiVbd7A",
+              "end": 45,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2050936491912892849/photo/1",
+              "media_key": "3_2050936483146821632",
+              "start": 22,
+              "url": "https://t.co/aWLPiVbd7A"
+            },
+            {
+              "display_url": "pic.x.com/aWLPiVbd7A",
+              "end": 45,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2050936491912892849/photo/1",
+              "media_key": "3_2050936483444600832",
+              "start": 22,
+              "url": "https://t.co/aWLPiVbd7A"
+            },
+            {
+              "display_url": "pic.x.com/aWLPiVbd7A",
+              "end": 45,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2050936491912892849/photo/1",
+              "media_key": "3_2050936484962992128",
+              "start": 22,
+              "url": "https://t.co/aWLPiVbd7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050936491912892849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们！！！！！你们都是很好的人，，，！ https://t.co/aWLPiVbd7A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6272,
+          "following_count": 190,
+          "like_count": 16114,
+          "listed_count": 27,
+          "media_count": 104,
+          "tweet_count": 1610
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

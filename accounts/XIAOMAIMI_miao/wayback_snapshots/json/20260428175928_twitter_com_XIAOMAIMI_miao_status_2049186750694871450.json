@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049186750694871450",
+    "created_at": "2026-04-28T17:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T18:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049186750694871450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1889290861261053953",
+          "start": 3,
+          "username": "OwO7u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049186750694871450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049155171402629127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OwO7u: 失去是相互的 你不在意我就无所谓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049186750694871450",
+        "created_at": "2026-04-28T17:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049186750694871450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1889290861261053953",
+              "start": 3,
+              "username": "OwO7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049186750694871450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049155171402629127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OwO7u: 失去是相互的 你不在意我就无所谓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889290861261053953",
+        "conversation_id": "2049155171402629127",
+        "created_at": "2026-04-28T15:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049155171402629127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049155171402629127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1530,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "失去是相互的 你不在意我就无所谓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6147,
+          "following_count": 188,
+          "like_count": 14942,
+          "listed_count": 27,
+          "media_count": 83,
+          "tweet_count": 1347
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T12:30:29.000Z",
+        "description": "惡語傷咪心",
+        "id": "1889290861261053953",
+        "location": "纯绿🚪188",
+        "name": "白咪饭",
+        "pinned_tweet_id": "2044073456367743083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004052588275400704/A9RN6l5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15637,
+          "following_count": 28,
+          "like_count": 491,
+          "listed_count": 33,
+          "media_count": 154,
+          "tweet_count": 743
+        },
+        "username": "OwO7u",
+        "verified": false
+      }
+    ]
+  }
+}

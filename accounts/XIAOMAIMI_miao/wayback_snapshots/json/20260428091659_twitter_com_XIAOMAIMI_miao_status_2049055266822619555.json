@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048968419459088742",
+    "created_at": "2026-04-28T09:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049055266822619555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040814732693950464",
+          "start": 0,
+          "username": "Red0ujiangmixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049055266822619555",
+    "in_reply_to_user_id": "2040814732693950464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049054266401477043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Red0ujiangmixi ok我看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048968419459088742",
+        "created_at": "2026-04-28T09:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049055266822619555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040814732693950464",
+              "start": 0,
+              "username": "Red0ujiangmixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049055266822619555",
+        "in_reply_to_user_id": "2040814732693950464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049054266401477043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Red0ujiangmixi ok我看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040814732693950464",
+        "conversation_id": "2048968419459088742",
+        "created_at": "2026-04-28T09:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049054266401477043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049054266401477043",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048968419459088742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 暴走兔家还可以 但是她家有点贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6120,
+          "following_count": 186,
+          "like_count": 14718,
+          "listed_count": 26,
+          "media_count": 80,
+          "tweet_count": 1288
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T15:33:14.000Z",
+        "description": "日常碎碎念 野生sub 此号无🚪不加联系方式 真想打钱也行 私信有兴趣的会回",
+        "id": "2040814732693950464",
+        "location": "距离10.5km",
+        "name": "热豆浆",
+        "pinned_tweet_id": "2047217137480270210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040815602802266112/ZrKgEnCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 21,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 100
+        },
+        "username": "Red0ujiangmixi",
+        "verified": false
+      }
+    ]
+  }
+}

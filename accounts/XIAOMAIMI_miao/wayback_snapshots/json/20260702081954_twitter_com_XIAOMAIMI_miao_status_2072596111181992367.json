@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2072577313561014770",
+    "created_at": "2026-07-02T08:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072596111181992367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818418625558331392",
+          "start": 0,
+          "username": "61sAumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072596111181992367",
+    "in_reply_to_user_id": "1818418625558331392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072577313561014770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@61sAumi 妈妈我是你的狗🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_2072577304346210304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNGE8sXsAAZ_cj.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2072577313561014770",
+        "created_at": "2026-07-02T08:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072596111181992367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818418625558331392",
+              "start": 0,
+              "username": "61sAumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072596111181992367",
+        "in_reply_to_user_id": "1818418625558331392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072577313561014770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@61sAumi 妈妈我是你的狗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072577304346210304"
+          ]
+        },
+        "author_id": "1818418625558331392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072577313561014770",
+        "created_at": "2026-07-02T07:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072577313561014770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/icWl0NhzD8",
+              "end": 23,
+              "expanded_url": "https://x.com/61sAumi/status/2072577313561014770/photo/1",
+              "media_key": "3_2072577304346210304",
+              "start": 0,
+              "url": "https://t.co/icWl0NhzD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072577313561014770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/icWl0NhzD8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8494,
+          "following_count": 238,
+          "like_count": 25047,
+          "listed_count": 28,
+          "media_count": 58,
+          "tweet_count": 2388
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T22:49:30.000Z",
+        "description": "欢迎参观我的尸体、我的脏器 和这一套加诸我身的酷刑",
+        "id": "1818418625558331392",
+        "location": "高p线下查无此人 不约 看眼缘互关 墙内外社媒不互通不加v",
+        "name": "苦薄荷",
+        "pinned_tweet_id": "2056032536736808995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066422882155040768/zWTErsXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 44,
+          "like_count": 3487,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1413
+        },
+        "url": "",
+        "username": "61sAumi",
+        "verified": false
+      }
+    ]
+  }
+}

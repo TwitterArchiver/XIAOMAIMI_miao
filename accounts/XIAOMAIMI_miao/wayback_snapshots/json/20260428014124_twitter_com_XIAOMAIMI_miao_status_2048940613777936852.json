@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048940613777936852",
+    "created_at": "2026-04-28T01:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048940613777936852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1996532327292493824",
+          "start": 3,
+          "username": "Hachiware818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048940613777936852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048781213343899761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hachiware818: 作为高敏人\n特别喜欢对方报备\n嘴上说着自己是回避型人格\n怕进入到一段充满未知数的感情中\n但在对方主动报备时…心里爽的要死\n爽了但不露声色\n大脑和小脑博弈\n对方一不主动了\n就会想是不是自己表现的太冷淡了\n所以对方不主动了\n我可太懂了这感觉了\n因…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048940613777936852",
+        "created_at": "2026-04-28T01:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048940613777936852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1996532327292493824",
+              "start": 3,
+              "username": "Hachiware818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048940613777936852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048781213343899761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hachiware818: 作为高敏人\n特别喜欢对方报备\n嘴上说着自己是回避型人格\n怕进入到一段充满未知数的感情中\n但在对方主动报备时…心里爽的要死\n爽了但不露声色\n大脑和小脑博弈\n对方一不主动了\n就会想是不是自己表现的太冷淡了\n所以对方不主动了\n我可太懂了这感觉了\n因…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996532327292493824",
+        "conversation_id": "2048781213343899761",
+        "created_at": "2026-04-27T15:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048781213343899761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048781213343899761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 719,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作为高敏人\n特别喜欢对方报备\n嘴上说着自己是回避型人格\n怕进入到一段充满未知数的感情中\n但在对方主动报备时…心里爽的要死\n爽了但不露声色\n大脑和小脑博弈\n对方一不主动了\n就会想是不是自己表现的太冷淡了\n所以对方不主动了\n我可太懂了这感觉了\n因为我就是这样\n失去了又想拥有🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6108,
+          "following_count": 184,
+          "like_count": 14546,
+          "listed_count": 26,
+          "media_count": 73,
+          "tweet_count": 1218
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T10:49:44.000Z",
+        "description": "单纯看看肌肉帅哥🫶/不加/不约",
+        "id": "1996532327292493824",
+        "location": "你猜",
+        "name": "无理（已黑化）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043254815581777920/-uoNjxSL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3591,
+          "following_count": 170,
+          "like_count": 1947,
+          "listed_count": 10,
+          "media_count": 11,
+          "tweet_count": 294
+        },
+        "username": "Hachiware818",
+        "verified": false
+      }
+    ]
+  }
+}

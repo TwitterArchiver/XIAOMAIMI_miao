@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2082538654963253519",
+    "created_at": "2026-07-29T18:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082538654963253519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1467395901152915457",
+          "start": 3,
+          "username": "Sleepy_Sheepppp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082538654963253519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 199
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082135922876043617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sleepy_Sheepppp: 约会最暧昧的时刻是一起逛大型超市，两个人慢悠悠推着购物车从生活用品区逛到食品区，讨论哪个碗长得好看饮料偏爱哪种喜欢的薯片口味是什么，再凑在收银台前对着小票感叹哇怎么这个这么贵。好像等会走出超市就真的会和你有一个平淡又幸福的未来，像小时候…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2082538654963253519",
+        "created_at": "2026-07-29T18:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082538654963253519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1467395901152915457",
+              "start": 3,
+              "username": "Sleepy_Sheepppp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082538654963253519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082135922876043617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sleepy_Sheepppp: 约会最暧昧的时刻是一起逛大型超市，两个人慢悠悠推着购物车从生活用品区逛到食品区，讨论哪个碗长得好看饮料偏爱哪种喜欢的薯片口味是什么，再凑在收银台前对着小票感叹哇怎么这个这么贵。好像等会走出超市就真的会和你有一个平淡又幸福的未来，像小时候…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467395901152915457",
+        "conversation_id": "2082135922876043617",
+        "created_at": "2026-07-28T16:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082135922876043617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082135922876043617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 55885,
+          "like_count": 1389,
+          "quote_count": 32,
+          "reply_count": 136,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "约会最暧昧的时刻是一起逛大型超市，两个人慢悠悠推着购物车从生活用品区逛到食品区，讨论哪个碗长得好看饮料偏爱哪种喜欢的薯片口味是什么，再凑在收银台前对着小票感叹哇怎么这个这么贵。好像等会走出超市就真的会和你有一个平淡又幸福的未来，像小时候幻想的那样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047341329148256551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9377,
+          "following_count": 263,
+          "like_count": 26507,
+          "listed_count": 31,
+          "media_count": 28,
+          "tweet_count": 2482
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T07:30:29.000Z",
+        "description": "原来共你是场梦",
+        "id": "1467395901152915457",
+        "location": "纯绿🚪188",
+        "name": "逃跑小羊",
+        "pinned_tweet_id": "1733806142063542685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666339268166553604/PNjquDrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17870,
+          "following_count": 86,
+          "like_count": 3691,
+          "listed_count": 41,
+          "media_count": 416,
+          "tweet_count": 7792
+        },
+        "url": "",
+        "username": "Sleepy_Sheepppp",
+        "verified": false
+      }
+    ]
+  }
+}

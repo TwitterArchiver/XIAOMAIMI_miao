@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049087742458654775",
+    "created_at": "2026-04-28T11:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049087742458654775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1992095465559715840",
+          "start": 3,
+          "username": "lisianthus2088"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049087742458654775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049082057402491053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lisianthus2088: 我其实很讨厌在网络上产生有感情纠纷的人，我分不清我是讨厌看不见摸不着的爱，还是受不了看似互相在意的人从某一天起就再也不联系了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049087742458654775",
+        "created_at": "2026-04-28T11:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049087742458654775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1992095465559715840",
+              "start": 3,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049087742458654775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049082057402491053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lisianthus2088: 我其实很讨厌在网络上产生有感情纠纷的人，我分不清我是讨厌看不见摸不着的爱，还是受不了看似互相在意的人从某一天起就再也不联系了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2049082057402491053",
+        "created_at": "2026-04-28T11:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049082057402491053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049082057402491053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我其实很讨厌在网络上产生有感情纠纷的人，我分不清我是讨厌看不见摸不着的爱，还是受不了看似互相在意的人从某一天起就再也不联系了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6124,
+          "following_count": 187,
+          "like_count": 14753,
+          "listed_count": 26,
+          "media_count": 80,
+          "tweet_count": 1296
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓（欢迎来问）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 99,
+          "like_count": 3366,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1554
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

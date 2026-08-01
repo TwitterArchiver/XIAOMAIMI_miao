@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077069996661108736",
+        "3_2077070008921034754"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077070018765066735",
+    "created_at": "2026-07-14T16:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077070018765066735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0wmEWBxUO8",
+          "end": 54,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2077070018765066735/photo/1",
+          "media_key": "3_2077069996661108736",
+          "start": 31,
+          "url": "https://t.co/0wmEWBxUO8"
+        },
+        {
+          "display_url": "pic.x.com/0wmEWBxUO8",
+          "end": 54,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2077070018765066735/photo/1",
+          "media_key": "3_2077070008921034754",
+          "start": 31,
+          "url": "https://t.co/0wmEWBxUO8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077070018765066735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "瓦羅蘭特你這個傻逼遊戲，，，亞服國服都連跪是什麼意思啦，，， https://t.co/0wmEWBxUO8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077069996661108736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNM8KDybcAAl3tO.jpg",
+        "width": 930
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077070008921034754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNM8KxdbEAIsDXw.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077069996661108736",
+            "3_2077070008921034754"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077070018765066735",
+        "created_at": "2026-07-14T16:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077070018765066735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0wmEWBxUO8",
+              "end": 54,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2077070018765066735/photo/1",
+              "media_key": "3_2077069996661108736",
+              "start": 31,
+              "url": "https://t.co/0wmEWBxUO8"
+            },
+            {
+              "display_url": "pic.x.com/0wmEWBxUO8",
+              "end": 54,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2077070018765066735/photo/1",
+              "media_key": "3_2077070008921034754",
+              "start": 31,
+              "url": "https://t.co/0wmEWBxUO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077070018765066735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瓦羅蘭特你這個傻逼遊戲，，，亞服國服都連跪是什麼意思啦，，， https://t.co/0wmEWBxUO8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9242,
+          "following_count": 244,
+          "like_count": 26183,
+          "listed_count": 30,
+          "media_count": 66,
+          "tweet_count": 2569
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2065150335002558539",
+    "created_at": "2026-06-12T16:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065466684778168352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1879799070254096386",
+          "start": 0,
+          "username": "SherryJxpbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065466684778168352",
+    "in_reply_to_user_id": "1879799070254096386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065150335002558539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SherryJxpbp 好想吃胖哥俩，，，我经常怀疑胖哥俩里面加了什么东西不然怎么这么让人上瘾，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2065150335002558539",
+        "created_at": "2026-06-12T16:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065466684778168352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879799070254096386",
+              "start": 0,
+              "username": "SherryJxpbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065466684778168352",
+        "in_reply_to_user_id": "1879799070254096386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065150335002558539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SherryJxpbp 好想吃胖哥俩，，，我经常怀疑胖哥俩里面加了什么东西不然怎么这么让人上瘾，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879799070254096386",
+        "conversation_id": "2065150335002558539",
+        "created_at": "2026-06-11T19:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065150335002558539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065150335002558539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1360,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咬我的这个蚊子有毒吧，前天晚上咬的前天不痒反而现在痒的不行。。死蚊子咬到我手指关节了我现在手指又红又肿又痒，我现在挠它像猴子。。我现在笑的停不下来。。我一直在啃食我的指关节止痒。。卧槽好想吃胖哥俩的鸡翅鸡爪煲，那个鸡爪好好吃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8263,
+          "following_count": 211,
+          "like_count": 21611,
+          "listed_count": 28,
+          "media_count": 169,
+          "tweet_count": 2417
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T07:53:30.000Z",
+        "description": "变身！小猫惡魔：☆…//★ 06 enfp 金牛 此号发的东西有点乱七八糟请见谅…互关可➕v \n防丢失小号：@Sherrysh2d \n定期回复信箱——匿名信箱📬：https://t.co/09pzHIo5EO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Sherrysh2d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sherryl25621",
+                "end": 104,
+                "expanded_url": "https://ngl.link/sherryl25621",
+                "start": 81,
+                "url": "https://t.co/09pzHIo5EO"
+              }
+            ]
+          }
+        },
+        "id": "1879799070254096386",
+        "location": "🚪纯绿88 🚪半绿188",
+        "name": "Sherry-J",
+        "pinned_tweet_id": "2064687600393466065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879799374022385664/TVkLtRn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5527,
+          "following_count": 290,
+          "like_count": 3535,
+          "listed_count": 16,
+          "media_count": 254,
+          "tweet_count": 2515
+        },
+        "username": "SherryJxpbp",
+        "verified": false
+      }
+    ]
+  }
+}

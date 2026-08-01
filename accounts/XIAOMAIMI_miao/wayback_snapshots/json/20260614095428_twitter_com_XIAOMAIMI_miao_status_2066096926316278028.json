@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066095157188161743",
+    "created_at": "2026-06-14T09:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066096926316278028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1652566384545783808",
+          "start": 0,
+          "username": "welt_h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066096926316278028",
+    "in_reply_to_user_id": "1652566384545783808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066096161702953180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@welt_h 都给我把价格打下来，不然我吃什么！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066095157188161743",
+        "created_at": "2026-06-14T09:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066096926316278028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1652566384545783808",
+              "start": 0,
+              "username": "welt_h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066096926316278028",
+        "in_reply_to_user_id": "1652566384545783808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066096161702953180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@welt_h 都给我把价格打下来，不然我吃什么！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652566384545783808",
+        "conversation_id": "2066095157188161743",
+        "created_at": "2026-06-14T09:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066096161702953180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066096161702953180",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066095157188161743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao ？内地的麦怎么跟香港一样贵了太神经了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8284,
+          "following_count": 211,
+          "like_count": 22013,
+          "listed_count": 28,
+          "media_count": 114,
+          "tweet_count": 2478
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T06:52:02.000Z",
+        "description": "极其杂食",
+        "id": "1652566384545783808",
+        "name": "那里不可以",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044109947462660098/veCxpg_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 290,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 210
+        },
+        "username": "welt_h",
+        "verified": false
+      }
+    ]
+  }
+}

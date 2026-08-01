@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2050133233262879204",
+    "created_at": "2026-05-01T08:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T09:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050133233262879204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024718499206356992",
+          "start": 3,
+          "username": "FFFWEAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050133233262879204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049858140167127550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FFFWEAR: 我做不到谈恋爱只是为了开心，我是那种感受到对方对我有好感我就会迅速幻想出我们恋爱结婚见家长同居分居吵架做爱的人。我想要未来想要永远想要一生一世一双人，我太理想化太守旧，所以我一直一个人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2050133233262879204",
+        "created_at": "2026-05-01T08:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050133233262879204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024718499206356992",
+              "start": 3,
+              "username": "FFFWEAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050133233262879204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049858140167127550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FFFWEAR: 我做不到谈恋爱只是为了开心，我是那种感受到对方对我有好感我就会迅速幻想出我们恋爱结婚见家长同居分居吵架做爱的人。我想要未来想要永远想要一生一世一双人，我太理想化太守旧，所以我一直一个人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024718499206356992",
+        "conversation_id": "2049858140167127550",
+        "created_at": "2026-04-30T14:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049858140167127550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049858140167127550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1108,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我做不到谈恋爱只是为了开心，我是那种感受到对方对我有好感我就会迅速幻想出我们恋爱结婚见家长同居分居吵架做爱的人。我想要未来想要永远想要一生一世一双人，我太理想化太守旧，所以我一直一个人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6258,
+          "following_count": 190,
+          "like_count": 15509,
+          "listed_count": 27,
+          "media_count": 93,
+          "tweet_count": 1507
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T05:31:33.000Z",
+        "description": "大四实习中。去在意一些真的值得在意的东西吧。喜欢我可以给我打钱额说别的我听不懂",
+        "id": "2024718499206356992",
+        "name": "玻璃剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035006605499277313/8gwKuCTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 8,
+          "like_count": 1769,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 294
+        },
+        "username": "FFFWEAR",
+        "verified": true
+      }
+    ]
+  }
+}

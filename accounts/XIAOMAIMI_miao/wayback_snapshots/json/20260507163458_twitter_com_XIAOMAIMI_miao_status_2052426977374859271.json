@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052283732552556668",
+    "created_at": "2026-05-07T16:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052426977374859271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893233040606011392",
+          "start": 0,
+          "username": "myzm_gachi0813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052426977374859271",
+    "in_reply_to_user_id": "1893233040606011392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052426891727172021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myzm_gachi0813 OMG我好爱吃这个，，，！我要喂给你吃🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052283732552556668",
+        "created_at": "2026-05-07T16:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052426977374859271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1893233040606011392",
+              "start": 0,
+              "username": "myzm_gachi0813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052426977374859271",
+        "in_reply_to_user_id": "1893233040606011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052426891727172021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myzm_gachi0813 OMG我好爱吃这个，，，！我要喂给你吃🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893233040606011392",
+        "conversation_id": "2052283732552556668",
+        "created_at": "2026-05-07T16:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052426891727172021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052426891727172021",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052283732552556668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao TT那我会给你硬塞自己抖着手炒出来的菠萝咕咾肉๑乛◡乛๑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6556,
+          "following_count": 192,
+          "like_count": 16895,
+          "listed_count": 28,
+          "media_count": 130,
+          "tweet_count": 1755
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T09:35:22.000Z",
+        "description": "",
+        "id": "1893233040606011392",
+        "name": "awa٩( °༥° )و",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050956107859087360/7frvQyQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 164,
+          "like_count": 3322,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 51
+        },
+        "username": "myzm_gachi0813",
+        "verified": false
+      }
+    ]
+  }
+}

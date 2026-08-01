@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2064869704838296003",
+    "created_at": "2026-06-11T02:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064898663701438821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1706938239440031744",
+          "start": 0,
+          "username": "whl870651886200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064898663701438821",
+    "in_reply_to_user_id": "1706938239440031744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064891043963892209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whl870651886200 分差太大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2064869704838296003",
+        "created_at": "2026-06-11T02:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064898663701438821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1706938239440031744",
+              "start": 0,
+              "username": "whl870651886200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064898663701438821",
+        "in_reply_to_user_id": "1706938239440031744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064891043963892209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whl870651886200 分差太大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706938239440031744",
+        "conversation_id": "2064869704838296003",
+        "created_at": "2026-06-11T02:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064891043963892209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064891043963892209",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064869704838296003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 玩吗，cs 历史金 A+，瓦比较一般 黄金，各种游戏都有涉猎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎讲梦话@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "XIAOSHUgugu"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8232,
+          "following_count": 205,
+          "like_count": 21347,
+          "listed_count": 28,
+          "media_count": 160,
+          "tweet_count": 2356
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T07:46:17.000Z",
+        "description": "",
+        "id": "1706938239440031744",
+        "name": "whl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048242052664786944/9FZDv4N5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "username": "whl870651886200",
+        "verified": false
+      }
+    ]
+  }
+}

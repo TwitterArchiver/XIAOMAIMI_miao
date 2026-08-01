@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066358708251303936"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066358717533343804",
+    "created_at": "2026-06-15T03:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066358717533343804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vd1br9cJKi",
+          "end": 38,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2066358717533343804/photo/1",
+          "media_key": "3_2066358708251303936",
+          "start": 15,
+          "url": "https://t.co/Vd1br9cJKi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066358717533343804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听到这里发出叹息的声音，，， https://t.co/Vd1br9cJKi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066358708251303936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0uTA_aoAA-zMu.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066358708251303936"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066358717533343804",
+        "created_at": "2026-06-15T03:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066358717533343804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vd1br9cJKi",
+              "end": 38,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2066358717533343804/photo/1",
+              "media_key": "3_2066358708251303936",
+              "start": 15,
+              "url": "https://t.co/Vd1br9cJKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066358717533343804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听到这里发出叹息的声音，，， https://t.co/Vd1br9cJKi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8302,
+          "following_count": 211,
+          "like_count": 22245,
+          "listed_count": 28,
+          "media_count": 117,
+          "tweet_count": 2512
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

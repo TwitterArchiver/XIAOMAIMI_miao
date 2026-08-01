@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2060954518473597376",
+    "created_at": "2026-05-31T07:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060984739885138116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1818418625558331392",
+          "start": 0,
+          "username": "xu0657083917039"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060984739885138116",
+    "in_reply_to_user_id": "1818418625558331392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060984170793304562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu0657083917039 原来如此！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2060954518473597376",
+        "created_at": "2026-05-31T07:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060984739885138116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1818418625558331392",
+              "start": 0,
+              "username": "xu0657083917039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060984739885138116",
+        "in_reply_to_user_id": "1818418625558331392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060984170793304562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu0657083917039 原来如此！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818418625558331392",
+        "conversation_id": "2060954518473597376",
+        "created_at": "2026-05-31T07:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060984170793304562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060984170793304562",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060983628793028883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 本甲就是不贴甲片，半贴长出来本甲和甲片的衔接会更自然一点！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7956,
+          "following_count": 197,
+          "like_count": 19938,
+          "listed_count": 28,
+          "media_count": 146,
+          "tweet_count": 2179
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T22:49:30.000Z",
+        "description": "欢迎参观我的尸体、我的脏器 和这一套加诸我身的酷刑",
+        "id": "1818418625558331392",
+        "location": "不约 看眼缘互关 墙内外社媒不互通不加v",
+        "name": "苦薄荷",
+        "pinned_tweet_id": "2056032536736808995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046544994031267840/0jNgrcfK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 32,
+          "like_count": 1671,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 901
+        },
+        "username": "xu0657083917039",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2069958765055738270",
+    "created_at": "2026-06-25T01:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T02:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069961265905291279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587039924913831936",
+          "start": 0,
+          "username": "Chrs_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069961265905291279",
+    "in_reply_to_user_id": "1587039924913831936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069958765055738270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chrs_mua 妈咪无敌，，，我要亲，，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2069958745749389312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLn4gxwbAAA6TE0.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2069958765055738270",
+        "created_at": "2026-06-25T01:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069961265905291279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587039924913831936",
+              "start": 0,
+              "username": "Chrs_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069961265905291279",
+        "in_reply_to_user_id": "1587039924913831936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069958765055738270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chrs_mua 妈咪无敌，，，我要亲，，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069958745749389312"
+          ]
+        },
+        "author_id": "1587039924913831936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2069958765055738270",
+        "created_at": "2026-06-25T01:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069958765055738270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2K6UWHSzie",
+              "end": 28,
+              "expanded_url": "https://x.com/Chrs_mua/status/2069958765055738270/photo/1",
+              "media_key": "3_2069958745749389312",
+              "start": 5,
+              "url": "https://t.co/2K6UWHSzie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069958765055738270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "四格漫画 https://t.co/2K6UWHSzie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8412,
+          "following_count": 233,
+          "like_count": 24080,
+          "listed_count": 28,
+          "media_count": 44,
+          "tweet_count": 2301
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T11:13:18.000Z",
+        "description": "随便看看 都很喜欢🩷\n没有🚪 不加🛰 止于推🔚\n有赛博暴露癖 喜欢半夜发疯\n生活号 @1Raooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 42,
+                "username": "1Raooo"
+              }
+            ]
+          }
+        },
+        "id": "1587039924913831936",
+        "location": "投喂请发口令 给我的gelato加个球🍨",
+        "name": "Chrs",
+        "pinned_tweet_id": "2067276820123394364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069288971855917056/qDLvE6cZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31673,
+          "following_count": 62,
+          "like_count": 1408,
+          "listed_count": 69,
+          "media_count": 250,
+          "tweet_count": 1296
+        },
+        "url": "",
+        "username": "Chrs_mua",
+        "verified": false
+      }
+    ]
+  }
+}

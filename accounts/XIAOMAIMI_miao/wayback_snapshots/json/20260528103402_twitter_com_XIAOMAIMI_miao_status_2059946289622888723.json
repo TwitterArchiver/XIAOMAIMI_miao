@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059946284463935488"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2059946289622888723",
+    "created_at": "2026-05-28T10:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059946289622888723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x9oNIrmxTa",
+          "end": 62,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2059946289622888723/photo/1",
+          "media_key": "3_2059946284463935488",
+          "start": 39,
+          "url": "https://t.co/x9oNIrmxTa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059946289622888723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也不知道是对什么东西过敏了，最近总是莫名其妙就开始过敏，到处长荨麻疹，，， https://t.co/x9oNIrmxTa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2059946284463935488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZmO03b0AAZ3hw.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059946284463935488"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2059946289622888723",
+        "created_at": "2026-05-28T10:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059946289622888723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9oNIrmxTa",
+              "end": 62,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2059946289622888723/photo/1",
+              "media_key": "3_2059946284463935488",
+              "start": 39,
+              "url": "https://t.co/x9oNIrmxTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059946289622888723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也不知道是对什么东西过敏了，最近总是莫名其妙就开始过敏，到处长荨麻疹，，， https://t.co/x9oNIrmxTa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7833,
+          "following_count": 197,
+          "like_count": 19747,
+          "listed_count": 28,
+          "media_count": 137,
+          "tweet_count": 2124
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

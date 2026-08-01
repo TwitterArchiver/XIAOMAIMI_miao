@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2077295247625765143",
+    "created_at": "2026-07-15T07:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077299732129718590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818418625558331392",
+          "start": 0,
+          "username": "61sAumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077299732129718590",
+    "in_reply_to_user_id": "1818418625558331392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077295247625765143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@61sAumi 妈妈。。。。你好萌。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2077295233277042688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQJAjkXIAAob5N.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2077295247625765143",
+        "created_at": "2026-07-15T07:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077299732129718590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818418625558331392",
+              "start": 0,
+              "username": "61sAumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077299732129718590",
+        "in_reply_to_user_id": "1818418625558331392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077295247625765143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@61sAumi 妈妈。。。。你好萌。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077295233277042688"
+          ]
+        },
+        "author_id": "1818418625558331392",
+        "conversation_id": "2077295247625765143",
+        "created_at": "2026-07-15T07:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077295247625765143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LLz0r0fQhE",
+              "end": 68,
+              "expanded_url": "https://x.com/61sAumi/status/2077295247625765143/photo/1",
+              "media_key": "3_2077295233277042688",
+              "start": 45,
+              "url": "https://t.co/LLz0r0fQhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077295247625765143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苦薄荷你在互联网上当公主s的时候，会不会想起小时候你穿着白色公主裙问爸爸漂不漂亮的一幕？ https://t.co/LLz0r0fQhE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9286,
+          "following_count": 244,
+          "like_count": 26231,
+          "listed_count": 31,
+          "media_count": 68,
+          "tweet_count": 2586
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T22:49:30.000Z",
+        "description": "你改了状态好像在说爱",
+        "id": "1818418625558331392",
+        "location": "高p线下查无此人 不约 看眼缘互关 墙内外社媒不互通不加v",
+        "name": "苦薄荷",
+        "pinned_tweet_id": "2073436717822951922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066422882155040768/zWTErsXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 49,
+          "like_count": 4325,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 1738
+        },
+        "url": "",
+        "username": "61sAumi",
+        "verified": false
+      }
+    ]
+  }
+}

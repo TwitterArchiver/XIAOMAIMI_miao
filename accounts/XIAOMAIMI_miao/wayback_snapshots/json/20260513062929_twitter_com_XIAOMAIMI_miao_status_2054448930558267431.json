@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2054448930558267431",
+    "created_at": "2026-05-13T06:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054448930558267431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1556522515383476224",
+          "start": 3,
+          "username": "mobaizhuhai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054448930558267431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1716759185017512418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mobaizhuhai: 怎么说呢，brat应该是这个世界献祭给人类的贡品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2054448930558267431",
+        "created_at": "2026-05-13T06:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054448930558267431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1556522515383476224",
+              "start": 3,
+              "username": "mobaizhuhai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054448930558267431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1716759185017512418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mobaizhuhai: 怎么说呢，brat应该是这个世界献祭给人类的贡品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556522515383476224",
+        "conversation_id": "1716759185017512418",
+        "created_at": "2023-10-24T10:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2023-10-24T11:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1716759185017512418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1716759185017512418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54324,
+          "like_count": 172,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "怎么说呢，brat应该是这个世界献祭给人类的贡品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7059,
+          "following_count": 196,
+          "like_count": 18247,
+          "listed_count": 26,
+          "media_count": 185,
+          "tweet_count": 2029
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T06:08:01.000Z",
+        "description": "我们最终都会活成自己讨厌的样子。\n你所见即我，好与坏都不反驳。\nINFP的老登\n腰椎间盘突出---腰不好",
+        "id": "1556522515383476224",
+        "location": "广东",
+        "name": "默默然",
+        "pinned_tweet_id": "1716759185017512418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557969775396917250/124Y2aJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 7469,
+          "like_count": 58801,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 10767
+        },
+        "username": "mobaizhuhai",
+        "verified": false
+      }
+    ]
+  }
+}

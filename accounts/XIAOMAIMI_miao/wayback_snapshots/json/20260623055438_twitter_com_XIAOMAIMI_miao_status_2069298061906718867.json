@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2069298061906718867",
+    "created_at": "2026-06-23T05:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069298061906718867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1613468646323675138",
+          "start": 3,
+          "username": "QiuMoDesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069298061906718867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069283491250876424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QiuMoDesu: 在你的完美时间线里是否会有我的一席之地"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2069298061906718867",
+        "created_at": "2026-06-23T05:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069298061906718867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1613468646323675138",
+              "start": 3,
+              "username": "QiuMoDesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069298061906718867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069283491250876424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QiuMoDesu: 在你的完美时间线里是否会有我的一席之地"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613468646323675138",
+        "conversation_id": "2069283491250876424",
+        "created_at": "2026-06-23T04:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069283491250876424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069283491250876424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在你的完美时间线里是否会有我的一席之地"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8354,
+          "following_count": 233,
+          "like_count": 23762,
+          "listed_count": 28,
+          "media_count": 40,
+          "tweet_count": 2268
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-12T09:31:24.000Z",
+        "description": "赛博算卦小摊+不知名碎碎念bot，偶尔也作为不知名歌手。另一个我@QiuZhiMoZhi\n匿名箱：https://t.co/IdcRbxn7bO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "QiuZhiMoZhi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kanamesamui",
+                "end": 72,
+                "expanded_url": "https://ngl.link/kanamesamui",
+                "start": 49,
+                "url": "https://t.co/IdcRbxn7bO"
+              }
+            ]
+          }
+        },
+        "id": "1613468646323675138",
+        "name": "秋墨",
+        "pinned_tweet_id": "2046664239021212075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053539330933813248/bf7Jsp8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 44,
+          "like_count": 7743,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "QiuMoDesu",
+        "verified": false
+      }
+    ]
+  }
+}

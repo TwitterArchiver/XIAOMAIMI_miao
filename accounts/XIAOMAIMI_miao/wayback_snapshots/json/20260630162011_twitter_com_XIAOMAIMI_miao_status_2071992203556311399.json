@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2071976421665464457",
+    "created_at": "2026-06-30T16:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071992203556311399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812478607371227136",
+          "start": 0,
+          "username": "kykyomou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071992203556311399",
+    "in_reply_to_user_id": "1812478607371227136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071991752563835303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kykyomou 由俭入奢易，由奢入俭难🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2071976421665464457",
+        "created_at": "2026-06-30T16:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071992203556311399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812478607371227136",
+              "start": 0,
+              "username": "kykyomou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071992203556311399",
+        "in_reply_to_user_id": "1812478607371227136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071991752563835303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kykyomou 由俭入奢易，由奢入俭难🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812478607371227136",
+        "conversation_id": "2071976421665464457",
+        "created_at": "2026-06-30T16:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071991752563835303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071991752563835303",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071990379503923473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我是电脑坏了只能去网吧玩，你的轻薄本只要玩着不卡还是能适应的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8487,
+          "following_count": 236,
+          "like_count": 24853,
+          "listed_count": 28,
+          "media_count": 60,
+          "tweet_count": 2371
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T13:26:05.000Z",
+        "description": "咯咯哒是🐔，哒咯咯是🐺 ，我是哒咯咯（我喜欢女孩子，我不是同）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nosaandky",
+                "end": 23,
+                "expanded_url": "http://t.me/nosaandky",
+                "start": 0,
+                "url": "https://t.co/pCnjLLKnd6"
+              }
+            ]
+          }
+        },
+        "id": "1812478607371227136",
+        "location": "重庆",
+        "name": "黄鼠狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920937992820039680/J7z2N8LN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 19,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/pCnjLLKnd6",
+        "username": "kykyomou",
+        "verified": false
+      }
+    ]
+  }
+}

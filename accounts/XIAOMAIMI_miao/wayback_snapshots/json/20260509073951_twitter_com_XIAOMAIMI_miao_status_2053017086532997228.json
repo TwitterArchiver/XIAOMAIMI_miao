@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053017076894502912"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2053017086532997228",
+    "created_at": "2026-05-09T07:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053017086532997228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cECxnkSxJT",
+          "end": 101,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2053017086532997228/photo/1",
+          "media_key": "3_2053017076894502912",
+          "start": 78,
+          "url": "https://t.co/cECxnkSxJT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053017086532997228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "互联网诡秘小宝宝老大你们觉得我适合这条裙子不，，，我觉得这个好好看而且我没有这种类型的衣服，，，但是它是100%涤的材质，我觉得有点不值这个价，，，T T https://t.co/cECxnkSxJT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053017076894502912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3IJ3IbkAALCAp.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053017076894502912"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2053017086532997228",
+        "created_at": "2026-05-09T07:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053017086532997228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cECxnkSxJT",
+              "end": 101,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2053017086532997228/photo/1",
+              "media_key": "3_2053017076894502912",
+              "start": 78,
+              "url": "https://t.co/cECxnkSxJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053017086532997228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互联网诡秘小宝宝老大你们觉得我适合这条裙子不，，，我觉得这个好好看而且我没有这种类型的衣服，，，但是它是100%涤的材质，我觉得有点不值这个价，，，T T https://t.co/cECxnkSxJT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6738,
+          "following_count": 193,
+          "like_count": 17174,
+          "listed_count": 27,
+          "media_count": 140,
+          "tweet_count": 1838
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

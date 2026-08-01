@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2058579272860856613",
+    "created_at": "2026-05-25T00:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T01:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058713531894435942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810033644469370880",
+          "start": 0,
+          "username": "xiaotao060638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058713531894435942",
+    "in_reply_to_user_id": "1810033644469370880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058616297626452248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaotao060638 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2058579272860856613",
+        "created_at": "2026-05-25T00:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058713531894435942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1810033644469370880",
+              "start": 0,
+              "username": "xiaotao060638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058713531894435942",
+        "in_reply_to_user_id": "1810033644469370880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058616297626452248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotao060638 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810033644469370880",
+        "conversation_id": "2058579272860856613",
+        "created_at": "2026-05-24T18:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058616297626452248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058616297626452248",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058579272860856613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7674,
+          "following_count": 198,
+          "like_count": 19526,
+          "listed_count": 26,
+          "media_count": 132,
+          "tweet_count": 2078
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T19:30:32.000Z",
+        "description": "05男 不是人机  x瘾患者 爆率p 别攻击我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://www.4399.com",
+                "start": 0,
+                "url": "https://t.co/EQOSzwl3pk"
+              }
+            ]
+          }
+        },
+        "id": "1810033644469370880",
+        "location": "中国",
+        "name": "我躯体化了，手一直在裤子里面抖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047024803635433472/1_KxVziW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 56,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/EQOSzwl3pk",
+        "username": "xiaotao060638",
+        "verified": false
+      }
+    ]
+  }
+}

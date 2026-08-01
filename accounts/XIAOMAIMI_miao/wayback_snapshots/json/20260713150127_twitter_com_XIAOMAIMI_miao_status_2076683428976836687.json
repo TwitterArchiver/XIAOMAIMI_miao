@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076683418998603776"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076655308362137702",
+    "created_at": "2026-07-13T15:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076683428976836687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vePxhH4WcD",
+          "end": 27,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2076683428976836687/photo/1",
+          "media_key": "3_2076683418998603776",
+          "start": 4,
+          "url": "https://t.co/vePxhH4WcD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076683428976836687",
+    "in_reply_to_user_id": "1942995969043501056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076655308362137702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "七连跪 https://t.co/vePxhH4WcD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2076683418998603776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHckRxbAAA4kO3.jpg",
+        "width": 1919
+      },
+      {
+        "height": 1103,
+        "media_key": "3_2076655299478552576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHC_gZaAAAyl-P.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076683418998603776"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076655308362137702",
+        "created_at": "2026-07-13T15:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076683428976836687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vePxhH4WcD",
+              "end": 27,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2076683428976836687/photo/1",
+              "media_key": "3_2076683418998603776",
+              "start": 4,
+              "url": "https://t.co/vePxhH4WcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076683428976836687",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076655308362137702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "七连跪 https://t.co/vePxhH4WcD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076655299478552576"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076655308362137702",
+        "created_at": "2026-07-13T13:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076655308362137702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6jkBIlqGTf",
+              "end": 35,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2076655308362137702/photo/1",
+              "media_key": "3_2076655299478552576",
+              "start": 12,
+              "url": "https://t.co/6jkBIlqGTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076655308362137702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 611,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我玩瓦罗兰特时的素质： https://t.co/6jkBIlqGTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9225,
+          "following_count": 244,
+          "like_count": 26091,
+          "listed_count": 29,
+          "media_count": 71,
+          "tweet_count": 2557
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2050206915821793450",
+    "created_at": "2026-05-01T13:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T14:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050207502953046034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595643343161085952",
+          "start": 0,
+          "username": "chiy70324009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050207502953046034",
+    "in_reply_to_user_id": "1595643343161085952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050206915821793450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiy70324009 终于露脚了，好机会。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2050206904421613569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPMUS4agAEjZnO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2050206915821793450",
+        "created_at": "2026-05-01T13:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050207502953046034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595643343161085952",
+              "start": 0,
+              "username": "chiy70324009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050207502953046034",
+        "in_reply_to_user_id": "1595643343161085952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050206915821793450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiy70324009 终于露脚了，好机会。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050206904421613569"
+          ]
+        },
+        "author_id": "1595643343161085952",
+        "conversation_id": "2050206915821793450",
+        "created_at": "2026-05-01T13:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050206915821793450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7rFwSa1Wgo",
+              "end": 35,
+              "expanded_url": "https://x.com/chiy70324009/status/2050206915821793450/photo/1",
+              "media_key": "3_2050206904421613569",
+              "start": 12,
+              "url": "https://t.co/7rFwSa1Wgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050206915821793450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不上班就能想穿啥穿啥了 https://t.co/7rFwSa1Wgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6266,
+          "following_count": 195,
+          "like_count": 15651,
+          "listed_count": 27,
+          "media_count": 95,
+          "tweet_count": 1528
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T05:00:07.000Z",
+        "description": "在这里我可以想说什么就说什么",
+        "id": "1595643343161085952",
+        "location": "Los Angeles, CA",
+        "name": "Fourth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021896794758602752/xyv8_TRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 2,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 95
+        },
+        "username": "chiy70324009",
+        "verified": false
+      }
+    ]
+  }
+}

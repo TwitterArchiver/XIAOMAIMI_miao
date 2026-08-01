@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048772530723487763",
+    "created_at": "2026-04-27T16:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048794746970378345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950269984640552962",
+          "start": 0,
+          "username": "vlademountii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048794746970378345",
+    "in_reply_to_user_id": "1950269984640552962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048794520087920973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vlademountii 这种大概也是出于喜欢/怜爱吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048772530723487763",
+        "created_at": "2026-04-27T16:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048794746970378345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950269984640552962",
+              "start": 0,
+              "username": "vlademountii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048794746970378345",
+        "in_reply_to_user_id": "1950269984640552962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048794520087920973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vlademountii 这种大概也是出于喜欢/怜爱吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950269984640552962",
+        "conversation_id": "2048772530723487763",
+        "created_at": "2026-04-27T16:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048794520087920973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048794520087920973",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048772530723487763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 被叫過姊姊，不懂但頗為震撼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5997,
+          "following_count": 182,
+          "like_count": 14452,
+          "listed_count": 23,
+          "media_count": 72,
+          "tweet_count": 1200
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-29T18:59:40.000Z",
+        "description": "宇宙避難所賞推沙發🌵🌙 奉獻 祈求 懺悔 \n#Sunny",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 22,
+                "tag": "Sunny"
+              }
+            ]
+          }
+        },
+        "id": "1950269984640552962",
+        "location": "海柏利昂",
+        "name": "Ti",
+        "pinned_tweet_id": "2018606927585108388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955328264446283778/Haoi9Ys4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 2421,
+          "like_count": 6150,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 6146
+        },
+        "username": "vlademountii",
+        "verified": false
+      }
+    ]
+  }
+}

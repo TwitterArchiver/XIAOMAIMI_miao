@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2051980840377438634",
+    "created_at": "2026-05-07T11:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052357181404811442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996918310349557762",
+          "start": 0,
+          "username": "Guli1817513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052357181404811442",
+    "in_reply_to_user_id": "1996918310349557762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052356777665261644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guli1817513 小宝宝我也爱你＾＾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2051980840377438634",
+        "created_at": "2026-05-07T11:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052357181404811442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996918310349557762",
+              "start": 0,
+              "username": "Guli1817513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052357181404811442",
+        "in_reply_to_user_id": "1996918310349557762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052356777665261644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guli1817513 小宝宝我也爱你＾＾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996918310349557762",
+        "conversation_id": "2051980840377438634",
+        "created_at": "2026-05-07T11:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052356777665261644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052356777665261644",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051980840377438634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6490,
+          "following_count": 192,
+          "like_count": 16826,
+          "listed_count": 27,
+          "media_count": 125,
+          "tweet_count": 1733
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T12:23:39.000Z",
+        "description": "我爱发啥发啥，我爱说啥说啥，不喜欢屏蔽。\n@MmXixi32400",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "MmXixi32400"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guli33050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guli33050",
+                "start": 0,
+                "url": "https://t.co/vFNHmjljcQ"
+              }
+            ]
+          }
+        },
+        "id": "1996918310349557762",
+        "location": "地球",
+        "name": "Guli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048409926104690688/tMrozmW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 57,
+          "like_count": 1181,
+          "listed_count": 0,
+          "media_count": 459,
+          "tweet_count": 2537
+        },
+        "url": "https://t.co/vFNHmjljcQ",
+        "username": "Guli1817513",
+        "verified": false
+      }
+    ]
+  }
+}

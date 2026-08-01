@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066095157188161743",
+    "created_at": "2026-06-14T10:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066104893484724296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1722804879477833728",
+          "start": 0,
+          "username": "SIGH0927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066104893484724296",
+    "in_reply_to_user_id": "1722804879477833728",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066104367225491479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SIGH0927 TT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 530,
+        "media_key": "3_2066104363404414977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxG-Mma0AESHxd.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066095157188161743",
+        "created_at": "2026-06-14T10:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066104893484724296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1722804879477833728",
+              "start": 0,
+              "username": "SIGH0927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066104893484724296",
+        "in_reply_to_user_id": "1722804879477833728",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066104367225491479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SIGH0927 TT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066104363404414977"
+          ]
+        },
+        "author_id": "1722804879477833728",
+        "conversation_id": "2066095157188161743",
+        "created_at": "2026-06-14T10:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066104367225491479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E1bZPz6pl9",
+              "end": 79,
+              "expanded_url": "https://x.com/SIGH0927/status/2066104367225491479/photo/1",
+              "media_key": "3_2066104363404414977",
+              "start": 56,
+              "url": "https://t.co/E1bZPz6pl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066104367225491479",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066100830986731809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 前几个月有个可以自选麦辣+板烧双堡的套餐 不到二十 这个是真无敌了可惜下架了😭 https://t.co/E1bZPz6pl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8285,
+          "following_count": 211,
+          "like_count": 22031,
+          "listed_count": 28,
+          "media_count": 114,
+          "tweet_count": 2483
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T02:34:37.000Z",
+        "description": "",
+        "id": "1722804879477833728",
+        "location": "在世界中心呼唤爱",
+        "name": "SIGH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818505750639226880/54CEqU-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 118,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 57
+        },
+        "username": "SIGH0927",
+        "verified": false
+      }
+    ]
+  }
+}

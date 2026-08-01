@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047592406359675212",
+    "created_at": "2026-04-24T17:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T18:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047724783350190193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2039061850512347136",
+          "start": 0,
+          "username": "jiaowojeijei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047724783350190193",
+    "in_reply_to_user_id": "2039061850512347136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047724640064160204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaowojeijei 要！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047592406359675212",
+        "created_at": "2026-04-24T17:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047724783350190193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2039061850512347136",
+              "start": 0,
+              "username": "jiaowojeijei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047724783350190193",
+        "in_reply_to_user_id": "2039061850512347136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047724640064160204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaowojeijei 要！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039061850512347136",
+        "conversation_id": "2047592406359675212",
+        "created_at": "2026-04-24T17:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047724640064160204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047724640064160204",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047724337994895591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 要不要裤子链接！！！超级好看！版型特别好！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5913,
+          "following_count": 177,
+          "like_count": 14055,
+          "listed_count": 20,
+          "media_count": 67,
+          "tweet_count": 1144
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T19:26:54.000Z",
+        "description": "4i | s",
+        "id": "2039061850512347136",
+        "name": "鬼鬼",
+        "pinned_tweet_id": "2047721492637479026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045533213565628418/abagpWlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 4,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 63
+        },
+        "username": "jiaowojeijei",
+        "verified": false
+      }
+    ]
+  }
+}

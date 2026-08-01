@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049445329762926939",
+    "created_at": "2026-04-29T11:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049454810295054512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935512148953939969",
+          "start": 0,
+          "username": "dearAlice2021"
+        },
+        {
+          "end": 31,
+          "id": "2031410014297141249",
+          "start": 15,
+          "username": "BDiukMF7WA23710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049454810295054512",
+    "in_reply_to_user_id": "1935512148953939969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049454022764200046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dearAlice2021 @BDiukMF7WA23710 好嘟！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049445329762926939",
+        "created_at": "2026-04-29T11:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049454810295054512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935512148953939969",
+              "start": 0,
+              "username": "dearAlice2021"
+            },
+            {
+              "end": 31,
+              "id": "2031410014297141249",
+              "start": 15,
+              "username": "BDiukMF7WA23710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049454810295054512",
+        "in_reply_to_user_id": "1935512148953939969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049454022764200046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearAlice2021 @BDiukMF7WA23710 好嘟！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935512148953939969",
+        "conversation_id": "2049445329762926939",
+        "created_at": "2026-04-29T11:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049454022764200046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            },
+            {
+              "end": 32,
+              "id": "2031410014297141249",
+              "start": 16,
+              "username": "BDiukMF7WA23710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049454022764200046",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049446685886263726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao @BDiukMF7WA23710 不要喷酒精 发红发热可以用左氧氟沙星眼药水滴滴 很快就消炎屡试不爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6209,
+          "following_count": 191,
+          "like_count": 15156,
+          "listed_count": 27,
+          "media_count": 90,
+          "tweet_count": 1405
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T01:37:25.000Z",
+        "description": "这里什么都没有",
+        "id": "1935512148953939969",
+        "name": "dear Alice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049320717515460608/ICWYDcig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 41,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "dearAlice2021",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T16:41:16.000Z",
+        "description": "",
+        "id": "2031410014297141249",
+        "name": "劳伦斯三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031410067808071682/DKT_KV-l_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 47,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 128
+        },
+        "username": "BDiukMF7WA23710",
+        "verified": false
+      }
+    ]
+  }
+}

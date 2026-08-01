@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2060653834134003963",
+    "created_at": "2026-05-30T09:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060653834134003963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1818418625558331392",
+          "start": 3,
+          "username": "xu0657083917039"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060653834134003963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060649007584584024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xu0657083917039: 有些事情我没办法跟你讲 以后我要在我哥哥怀里一边哭一边说的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2060653834134003963",
+        "created_at": "2026-05-30T09:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060653834134003963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1818418625558331392",
+              "start": 3,
+              "username": "xu0657083917039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060653834134003963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060649007584584024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xu0657083917039: 有些事情我没办法跟你讲 以后我要在我哥哥怀里一边哭一边说的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818418625558331392",
+        "conversation_id": "2060649007584584024",
+        "created_at": "2026-05-30T09:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060649007584584024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060649007584584024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有些事情我没办法跟你讲 以后我要在我哥哥怀里一边哭一边说的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7940,
+          "following_count": 199,
+          "like_count": 19872,
+          "listed_count": 27,
+          "media_count": 142,
+          "tweet_count": 2164
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T22:49:30.000Z",
+        "description": "欢迎参观我的尸体、我的脏器 和这一套加诸我身的酷刑",
+        "id": "1818418625558331392",
+        "location": "不约 看眼缘互关 墙内外社媒不互通不加v",
+        "name": "苦薄荷",
+        "pinned_tweet_id": "2056032536736808995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046544994031267840/0jNgrcfK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 32,
+          "like_count": 1615,
+          "listed_count": 3,
+          "media_count": 141,
+          "tweet_count": 863
+        },
+        "username": "xu0657083917039",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2064575164915085748",
+    "created_at": "2026-06-10T05:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064577203208429753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026680668365991936",
+          "start": 0,
+          "username": "Sakee1106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064577203208429753",
+    "in_reply_to_user_id": "2026680668365991936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064575164915085748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakee1106 这种情况单纯是服务员没反应过来！一般是知道的，然后客客气气给你拿餐具然后说对不起啥的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2064575164915085748",
+        "created_at": "2026-06-10T05:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064577203208429753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026680668365991936",
+              "start": 0,
+              "username": "Sakee1106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064577203208429753",
+        "in_reply_to_user_id": "2026680668365991936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064575164915085748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakee1106 这种情况单纯是服务员没反应过来！一般是知道的，然后客客气气给你拿餐具然后说对不起啥的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026680668365991936",
+        "conversation_id": "2064575164915085748",
+        "created_at": "2026-06-10T05:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064575164915085748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064575164915085748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "南北方思维差异还是蛮大的，尤其是说话沟通上能体现。上次去青岛旅游，服务员没给餐具，我朋友就说我们是拿手吃吗，店员愣在那似乎没听懂，我反应过来说，拿几套餐具，服务员马上哦哦好，我去拿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎讲梦话@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "XIAOSHUgugu"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8188,
+          "following_count": 205,
+          "like_count": 21190,
+          "listed_count": 28,
+          "media_count": 157,
+          "tweet_count": 2324
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T15:28:30.000Z",
+        "description": "this the life I chose",
+        "id": "2026680668365991936",
+        "name": "王宇昊",
+        "pinned_tweet_id": "2059527074264842738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042607302763778056/PeTxbluy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2704,
+          "following_count": 74,
+          "like_count": 6813,
+          "listed_count": 4,
+          "media_count": 111,
+          "tweet_count": 1200
+        },
+        "username": "Sakee1106",
+        "verified": false
+      }
+    ]
+  }
+}

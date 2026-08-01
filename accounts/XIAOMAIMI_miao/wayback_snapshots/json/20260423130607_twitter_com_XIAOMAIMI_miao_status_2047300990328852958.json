@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047281588019601765",
+    "created_at": "2026-04-23T13:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047300990328852958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1866171966937612288",
+          "start": 0,
+          "username": "xvfire1116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047300990328852958",
+    "in_reply_to_user_id": "1866171966937612288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047299031853125899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xvfire1116 他俩是真男同吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047281588019601765",
+        "created_at": "2026-04-23T13:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047300990328852958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1866171966937612288",
+              "start": 0,
+              "username": "xvfire1116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047300990328852958",
+        "in_reply_to_user_id": "1866171966937612288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047299031853125899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvfire1116 他俩是真男同吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866171966937612288",
+        "conversation_id": "2047281588019601765",
+        "created_at": "2026-04-23T12:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047299031853125899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047299031853125899",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047281588019601765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 内娱时代峰峻练习生，因为很多事情，挺多人磕王橹杰真暗恋穆祉丞，宝子你可以🎶音了解一下，对于两个人的事情，每个人都有不同的见解吧🫥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047105151471915009/afyeBBA8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 176,
+          "like_count": 13851,
+          "listed_count": 20,
+          "media_count": 64,
+          "tweet_count": 1091
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T17:24:15.000Z",
+        "description": "随手记录心情，内容很杂❗️  4i   ♡:  橹穆、₍˄·͈༝·͈˄₎ ᐝ   不约一切",
+        "id": "1866171966937612288",
+        "location": "地球",
+        "name": "我草莓招了（一点都不困版）",
+        "pinned_tweet_id": "2034655247961034851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023434085826535424/ja6tut8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 54,
+          "like_count": 2059,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1299
+        },
+        "username": "xvfire1116",
+        "verified": false
+      }
+    ]
+  }
+}

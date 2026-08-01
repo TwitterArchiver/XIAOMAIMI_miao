@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047558653025382663",
+    "created_at": "2026-04-24T07:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T08:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047575578958758256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2024891664431808512",
+          "start": 0,
+          "username": "Las254805921235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047575578958758256",
+    "in_reply_to_user_id": "2024891664431808512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047575172669210989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Las254805921235 家里有股醋味怎么个事， ，，！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047558653025382663",
+        "created_at": "2026-04-24T07:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047575578958758256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2024891664431808512",
+              "start": 0,
+              "username": "Las254805921235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047575578958758256",
+        "in_reply_to_user_id": "2024891664431808512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047575172669210989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Las254805921235 家里有股醋味怎么个事， ，，！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024891664431808512",
+        "conversation_id": "2047558653025382663",
+        "created_at": "2026-04-24T07:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047575172669210989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047575172669210989",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047558653025382663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 注意修罗场🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 178,
+          "like_count": 13937,
+          "listed_count": 20,
+          "media_count": 66,
+          "tweet_count": 1111
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T16:59:41.000Z",
+        "description": "喜欢玩FPS游戏🎮",
+        "id": "2024891664431808512",
+        "location": "湘北高中",
+        "name": "Soda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046095450302726144/pKWO4w-o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 518,
+          "like_count": 1463,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 126
+        },
+        "username": "Las254805921235",
+        "verified": false
+      }
+    ]
+  }
+}

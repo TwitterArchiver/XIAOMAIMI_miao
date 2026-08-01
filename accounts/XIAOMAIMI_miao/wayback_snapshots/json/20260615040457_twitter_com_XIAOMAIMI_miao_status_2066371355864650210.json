@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066371355864650210",
+    "created_at": "2026-06-15T04:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066371355864650210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1788083166856749056",
+          "start": 3,
+          "username": "LanLan93083241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066371355864650210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066360815926788511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanLan93083241: 我们就是普通人啊，普通人表达爱的方式就是和你聊日常，会和喜欢的人说最近又有什么奇怪的想法，发给他我今天拍的照片，告诉他我今天遇到的有趣的事，我就像是一个话唠一样，虽然我没有说我多爱你，但我的爱藏在我和你说过的每一句话里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066371355864650210",
+        "created_at": "2026-06-15T04:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066371355864650210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1788083166856749056",
+              "start": 3,
+              "username": "LanLan93083241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066371355864650210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066360815926788511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanLan93083241: 我们就是普通人啊，普通人表达爱的方式就是和你聊日常，会和喜欢的人说最近又有什么奇怪的想法，发给他我今天拍的照片，告诉他我今天遇到的有趣的事，我就像是一个话唠一样，虽然我没有说我多爱你，但我的爱藏在我和你说过的每一句话里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788083166856749056",
+        "conversation_id": "2066360815926788511",
+        "created_at": "2026-06-15T03:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066360815926788511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066360815926788511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我们就是普通人啊，普通人表达爱的方式就是和你聊日常，会和喜欢的人说最近又有什么奇怪的想法，发给他我今天拍的照片，告诉他我今天遇到的有趣的事，我就像是一个话唠一样，虽然我没有说我多爱你，但我的爱藏在我和你说过的每一句话里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8303,
+          "following_count": 211,
+          "like_count": 22294,
+          "listed_count": 28,
+          "media_count": 117,
+          "tweet_count": 2514
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:47:25.000Z",
+        "description": "一个在互联网上贩卖快乐的普通小女生\n(希望你每一天都能快乐  谢谢关注😉)",
+        "id": "1788083166856749056",
+        "name": "LanLan",
+        "pinned_tweet_id": "2066016983553044947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978758355318611968/KQBoDyuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42137,
+          "following_count": 2908,
+          "like_count": 40835,
+          "listed_count": 130,
+          "media_count": 1674,
+          "tweet_count": 2761
+        },
+        "username": "LanLan93083241",
+        "verified": false
+      }
+    ]
+  }
+}

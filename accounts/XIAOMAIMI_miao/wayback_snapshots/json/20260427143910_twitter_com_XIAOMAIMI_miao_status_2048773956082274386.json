@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048772530723487763",
+    "created_at": "2026-04-27T14:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048773956082274386"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048773956082274386",
+    "in_reply_to_user_id": "1942995969043501056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048772530723487763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我有时很喜欢这样称呼身边的人，越是亲密的人越有叫出对方“妈妈”的欲望，我不知道这是因为什么，多么美好多么亲密多么令人安心的词。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048772530723487763",
+        "created_at": "2026-04-27T14:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048773956082274386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048773956082274386",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048772530723487763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有时很喜欢这样称呼身边的人，越是亲密的人越有叫出对方“妈妈”的欲望，我不知道这是因为什么，多么美好多么亲密多么令人安心的词。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048772530723487763",
+        "created_at": "2026-04-27T14:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048772530723487763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048772530723487763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“妈妈”我第一次这样称呼我的男性暧昧对象/恋人时他们会感到奇怪，可能会笑出声觉得莫名其妙。但是我真真切切地这样叫出来，因为我感到安心，我在他们身上嗅到我所认为的“母性”般的味道，我依赖他们，在他们身后寻求庇护，把他们当做我的母亲，求他们为我哺乳。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5997,
+          "following_count": 182,
+          "like_count": 14422,
+          "listed_count": 23,
+          "media_count": 71,
+          "tweet_count": 1195
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049445329762926939",
+    "created_at": "2026-04-29T16:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049526582331740538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1932813631345078275",
+          "start": 0,
+          "username": "ang1212111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049526582331740538",
+    "in_reply_to_user_id": "1932813631345078275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049525968608649479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ang1212111 薯条大王好厉害！！！养孔高手！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049445329762926939",
+        "created_at": "2026-04-29T16:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049526582331740538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1932813631345078275",
+              "start": 0,
+              "username": "ang1212111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049526582331740538",
+        "in_reply_to_user_id": "1932813631345078275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049525968608649479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ang1212111 薯条大王好厉害！！！养孔高手！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932813631345078275",
+        "conversation_id": "2049445329762926939",
+        "created_at": "2026-04-29T16:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049525968608649479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049525968608649479",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049445329762926939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 新打的耳洞不要推它转它 清洁用生理盐水擦一下就好了 出血喷百多邦喷雾（我穿了八个孔都非常完美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6231,
+          "following_count": 191,
+          "like_count": 15282,
+          "listed_count": 27,
+          "media_count": 91,
+          "tweet_count": 1445
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T14:54:33.000Z",
+        "description": "今天不要再哭了",
+        "id": "1932813631345078275",
+        "name": "薯条大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044737927234859008/Oa9Z9ymC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 19,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 73
+        },
+        "username": "ang1212111",
+        "verified": false
+      }
+    ]
+  }
+}

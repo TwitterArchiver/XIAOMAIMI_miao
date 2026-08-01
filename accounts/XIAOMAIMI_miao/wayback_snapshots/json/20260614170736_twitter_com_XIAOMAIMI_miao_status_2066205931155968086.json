@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066066561186808300",
+    "created_at": "2026-06-14T17:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066205931155968086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "804510439824445441",
+          "start": 0,
+          "username": "hyanly_yx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066205931155968086",
+    "in_reply_to_user_id": "804510439824445441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066204332127903810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyanly_yx 我不适合当老师！我不会去当老师的，，，别逼i人干老师。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T17:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066205931155968086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "804510439824445441",
+              "start": 0,
+              "username": "hyanly_yx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066205931155968086",
+        "in_reply_to_user_id": "804510439824445441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066204332127903810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyanly_yx 我不适合当老师！我不会去当老师的，，，别逼i人干老师。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "804510439824445441",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T17:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066204332127903810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066204332127903810",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066066561186808300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 宝宝别当老师，深渊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8291,
+          "following_count": 211,
+          "like_count": 22178,
+          "listed_count": 28,
+          "media_count": 116,
+          "tweet_count": 2504
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-02T02:20:10.000Z",
+        "description": "struggle to breathe \npretend to be normal",
+        "id": "804510439824445441",
+        "name": "糊yan乱语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059533369667629056/PJhI977l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 48,
+          "like_count": 645,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 172
+        },
+        "username": "hyanly_yx",
+        "verified": false
+      }
+    ]
+  }
+}

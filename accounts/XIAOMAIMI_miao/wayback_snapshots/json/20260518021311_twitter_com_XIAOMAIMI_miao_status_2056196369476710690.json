@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2056196288656613818",
+    "created_at": "2026-05-18T02:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T03:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056196369476710690"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056196369476710690",
+    "in_reply_to_user_id": "1942995969043501056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056196288656613818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（干嘛猫表情）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2056196281564065792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkTn7ca8AAACK0.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2056196288656613818",
+        "created_at": "2026-05-18T02:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056196369476710690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056196369476710690",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056196288656613818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（干嘛猫表情）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056196281564065792"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2056196288656613818",
+        "created_at": "2026-05-18T02:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056196288656613818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6XI6JN40I",
+              "end": 23,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2056196288656613818/photo/1",
+              "media_key": "3_2056196281564065792",
+              "start": 0,
+              "url": "https://t.co/E6XI6JN40I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056196288656613818",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E6XI6JN40I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7577,
+          "following_count": 199,
+          "like_count": 19057,
+          "listed_count": 26,
+          "media_count": 226,
+          "tweet_count": 2132
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

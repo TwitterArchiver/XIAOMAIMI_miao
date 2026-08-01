@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2057822984921051193",
+    "created_at": "2026-05-22T13:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057822984921051193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1953812757910106113",
+          "start": 3,
+          "username": "momentisendless"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057822984921051193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057522331573162297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momentisendless: 我是比较病态的那种 如果对方对我窥探欲很低的话我会觉得特别没意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2057822984921051193",
+        "created_at": "2026-05-22T13:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057822984921051193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1953812757910106113",
+              "start": 3,
+              "username": "momentisendless"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057822984921051193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057522331573162297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momentisendless: 我是比较病态的那种 如果对方对我窥探欲很低的话我会觉得特别没意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953812757910106113",
+        "conversation_id": "2057522331573162297",
+        "created_at": "2026-05-21T18:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057522331573162297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057522331573162297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4343,
+          "like_count": 174,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "我是比较病态的那种 如果对方对我窥探欲很低的话我会觉得特别没意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7634,
+          "following_count": 196,
+          "like_count": 19350,
+          "listed_count": 26,
+          "media_count": 126,
+          "tweet_count": 2020
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T13:37:52.000Z",
+        "description": "一具尸体",
+        "id": "1953812757910106113",
+        "name": "纯白飘香裹尸布",
+        "pinned_tweet_id": "2056371288718061843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057519291621371904/au8uzvrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 109,
+          "like_count": 4566,
+          "listed_count": 21,
+          "media_count": 162,
+          "tweet_count": 4393
+        },
+        "username": "momentisendless",
+        "verified": false
+      }
+    ]
+  }
+}

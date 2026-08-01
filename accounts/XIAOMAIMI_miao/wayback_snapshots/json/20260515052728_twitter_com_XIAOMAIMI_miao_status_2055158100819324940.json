@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2055158100819324940",
+    "created_at": "2026-05-15T05:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055158100819324940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1488505211706437634",
+          "start": 3,
+          "username": "Tansimo3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055158100819324940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055072032912740428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tansimo3: 豆包帮我生成一个愿意帮我洗澡 扎头发 做饭 哄我睡觉 抱我尿尿 情绪稳定 莲花古城抢得下a点 航天不静步 星露谷每天浇水 不怕被我家暴的男人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2055158100819324940",
+        "created_at": "2026-05-15T05:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055158100819324940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1488505211706437634",
+              "start": 3,
+              "username": "Tansimo3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055158100819324940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055072032912740428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tansimo3: 豆包帮我生成一个愿意帮我洗澡 扎头发 做饭 哄我睡觉 抱我尿尿 情绪稳定 莲花古城抢得下a点 航天不静步 星露谷每天浇水 不怕被我家暴的男人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488505211706437634",
+        "conversation_id": "2055072032912740428",
+        "created_at": "2026-05-14T23:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T00:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055072032912740428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055072032912740428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2918,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包帮我生成一个愿意帮我洗澡 扎头发 做饭 哄我睡觉 抱我尿尿 情绪稳定 莲花古城抢得下a点 航天不静步 星露谷每天浇水 不怕被我家暴的男人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7226,
+          "following_count": 196,
+          "like_count": 18688,
+          "listed_count": 26,
+          "media_count": 205,
+          "tweet_count": 2089
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T13:31:20.000Z",
+        "description": "没回就是在游戏",
+        "id": "1488505211706437634",
+        "location": "被窝",
+        "name": "被子外面很危险",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015455267081850880/-YPjKyLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 12,
+          "like_count": 1960,
+          "listed_count": 5,
+          "media_count": 89,
+          "tweet_count": 435
+        },
+        "username": "Tansimo3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066529137700077972",
+    "created_at": "2026-06-16T00:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T01:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066672964796551295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1997508515607543808",
+          "start": 0,
+          "username": "Ringmua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066672964796551295",
+    "in_reply_to_user_id": "1997508515607543808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066657587043668180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ringmua 最近还好，但是其实我从小到大都很爱哭。家里总是说哭有什么用，我前任也总这么说。但是眼泪就是止不住，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066529137700077972",
+        "created_at": "2026-06-16T00:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066672964796551295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997508515607543808",
+              "start": 0,
+              "username": "Ringmua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066672964796551295",
+        "in_reply_to_user_id": "1997508515607543808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066657587043668180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ringmua 最近还好，但是其实我从小到大都很爱哭。家里总是说哭有什么用，我前任也总这么说。但是眼泪就是止不住，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997508515607543808",
+        "conversation_id": "2066529137700077972",
+        "created_at": "2026-06-15T23:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066657587043668180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066657587043668180",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066529137700077972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 可是我只关心你的83。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8304,
+          "following_count": 215,
+          "like_count": 22572,
+          "listed_count": 28,
+          "media_count": 122,
+          "tweet_count": 2566
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T03:29:44.000Z",
+        "description": "向流星許願一個沒有悲傷的明天",
+        "id": "1997508515607543808",
+        "location": "Hong Kong",
+        "name": "铃mua",
+        "pinned_tweet_id": "2041367505235755298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033317889458216960/CXMQqSZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 66,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 57
+        },
+        "username": "Ringmua",
+        "verified": false
+      }
+    ]
+  }
+}

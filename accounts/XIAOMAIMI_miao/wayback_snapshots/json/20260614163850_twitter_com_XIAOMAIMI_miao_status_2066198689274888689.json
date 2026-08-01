@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066066561186808300",
+    "created_at": "2026-06-14T16:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066198689274888689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1477961055955468290",
+          "start": 0,
+          "username": "Bub33625811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066198689274888689",
+    "in_reply_to_user_id": "1477961055955468290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066197090741662197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bub33625811 小宝宝，人生的选择从来没有对误之分，甚至连捷径都没有。坚持下来本身就已经很值得敬佩，能够成为研究生已经超越了很多人。或许你某天会突然发现自己身上其实有很多值得骄傲的闪光点呀，然后感叹自己怎么从来没注意过它们。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T16:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066198689274888689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1477961055955468290",
+              "start": 0,
+              "username": "Bub33625811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066198689274888689",
+        "in_reply_to_user_id": "1477961055955468290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066197090741662197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bub33625811 小宝宝，人生的选择从来没有对误之分，甚至连捷径都没有。坚持下来本身就已经很值得敬佩，能够成为研究生已经超越了很多人。或许你某天会突然发现自己身上其实有很多值得骄傲的闪光点呀，然后感叹自己怎么从来没注意过它们。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477961055955468290",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T16:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066197090741662197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066197090741662197",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066066561186808300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 谢谢你。我感觉自己的人生一直在做错误的选择，一路坚持过来却是如此操蛋的现实。我还有一年研究生毕业，但是小论文专利什么的都没有，只有这种推文才能让我这个毫无结果的人在唯结果论的社会里回头看一眼自己，好像也还算是一个有点值得骄傲的普通人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8291,
+          "following_count": 211,
+          "like_count": 22172,
+          "listed_count": 28,
+          "media_count": 116,
+          "tweet_count": 2501
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T11:13:06.000Z",
+        "description": "Ham",
+        "id": "1477961055955468290",
+        "location": "一般路过",
+        "name": "Mangata",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557303160128950273/CGIq2USP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 858,
+          "like_count": 7283,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 479
+        },
+        "username": "Bub33625811",
+        "verified": false
+      }
+    ]
+  }
+}

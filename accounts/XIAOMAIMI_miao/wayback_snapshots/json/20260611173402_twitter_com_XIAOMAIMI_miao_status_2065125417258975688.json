@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2065122609868759128",
+    "created_at": "2026-06-11T17:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065125417258975688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783058785134895104",
+          "start": 0,
+          "username": "youaremylove976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065125417258975688",
+    "in_reply_to_user_id": "1783058785134895104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065122609868759128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youaremylove976 咕噜咕噜咕噜*"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_2065122452544573440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjJ7dmaUAAFPxo.jpg",
+        "width": 1440
+      },
+      {
+        "duration_ms": 49130,
+        "height": 1280,
+        "media_key": "13_2065122511596220416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065122511596220416/img/1gqbBydXfApyw96v.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065122511596220416/vid/avc1/320x568/WqsEP7Qrv2NtOH6T.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065122511596220416/vid/avc1/480x852/g3tYUF0saNUHnxBk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065122511596220416/vid/avc1/720x1280/ESldddBrk_h0uZNM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065122511596220416/pl/vwK6qJStDKmXhCpj.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2065122609868759128",
+        "created_at": "2026-06-11T17:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065125417258975688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783058785134895104",
+              "start": 0,
+              "username": "youaremylove976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065125417258975688",
+        "in_reply_to_user_id": "1783058785134895104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065122609868759128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youaremylove976 咕噜咕噜咕噜*"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065122452544573440",
+            "13_2065122511596220416"
+          ]
+        },
+        "author_id": "1783058785134895104",
+        "conversation_id": "2065122609868759128",
+        "created_at": "2026-06-11T17:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065122609868759128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbBNQWbQUB",
+              "end": 160,
+              "expanded_url": "https://x.com/youaremylove976/status/2065122609868759128/video/1",
+              "media_key": "3_2065122452544573440",
+              "start": 137,
+              "url": "https://t.co/SbBNQWbQUB"
+            },
+            {
+              "display_url": "pic.x.com/SbBNQWbQUB",
+              "end": 160,
+              "expanded_url": "https://x.com/youaremylove976/status/2065122609868759128/video/1",
+              "media_key": "13_2065122511596220416",
+              "start": 137,
+              "url": "https://t.co/SbBNQWbQUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065122609868759128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "游泳是个特别好的运动，我之前游过一次，但是我感觉游泳真的好难呀，我学不会，老沉底😭我第一次去游泳就在水里一直泡着，在水里蛄蛹\n虽然我不会游泳，我还是觉得游泳好玩，😋失败了也是新体验，往前走，拥抱新体验。\n（另外我翻出来游泳视频了，有没有高手给我看看错误，我这蛙泳老潜水捏） https://t.co/SbBNQWbQUB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8258,
+          "following_count": 207,
+          "like_count": 21428,
+          "listed_count": 28,
+          "media_count": 163,
+          "tweet_count": 2380
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T09:02:06.000Z",
+        "description": "直男 随便发发日常，欢迎大家找我聊天\n可以来玩匿名喔https://t.co/zvsivWwNz9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wudixiaomao",
+                "end": 49,
+                "expanded_url": "https://ngl.link/wudixiaomao",
+                "start": 26,
+                "url": "https://t.co/zvsivWwNz9"
+              }
+            ]
+          }
+        },
+        "id": "1783058785134895104",
+        "name": "电子止疼药",
+        "pinned_tweet_id": "2051331948757561424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892950429870264321/VhtiFZNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 455,
+          "like_count": 8520,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 3115
+        },
+        "username": "youaremylove976",
+        "verified": false
+      }
+    ]
+  }
+}

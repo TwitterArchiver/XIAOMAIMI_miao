@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049038229618429952"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049038244206305741",
+    "created_at": "2026-04-28T08:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T09:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049038244206305741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x1FM41LuYl",
+          "end": 42,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2049038244206305741/photo/1",
+          "media_key": "3_2049038229618429952",
+          "start": 19,
+          "url": "https://t.co/x1FM41LuYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049038244206305741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妹子打了耳洞不敢碰到钉子就这样引线吧 https://t.co/x1FM41LuYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049038229618429952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-lad-aEAATrLW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049038229618429952"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049038244206305741",
+        "created_at": "2026-04-28T08:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049038244206305741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x1FM41LuYl",
+              "end": 42,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2049038244206305741/photo/1",
+              "media_key": "3_2049038229618429952",
+              "start": 19,
+              "url": "https://t.co/x1FM41LuYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049038244206305741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹子打了耳洞不敢碰到钉子就这样引线吧 https://t.co/x1FM41LuYl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6119,
+          "following_count": 186,
+          "like_count": 14687,
+          "listed_count": 26,
+          "media_count": 79,
+          "tweet_count": 1279
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

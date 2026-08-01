@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047154855282725356",
+    "created_at": "2026-04-23T03:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T04:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047154855282725356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919363955929362432",
+          "start": 3,
+          "username": "xiaomingmumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047154855282725356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047149161397817402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaomingmumu: 再说一遍，喜欢我就给我打钱，我没有义务回你莫名其妙的东西。我自己的号我想和谁说话就和谁说话。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047154855282725356",
+        "created_at": "2026-04-23T03:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047154855282725356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919363955929362432",
+              "start": 3,
+              "username": "xiaomingmumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047154855282725356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047149161397817402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaomingmumu: 再说一遍，喜欢我就给我打钱，我没有义务回你莫名其妙的东西。我自己的号我想和谁说话就和谁说话。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919363955929362432",
+        "conversation_id": "2047149161397817402",
+        "created_at": "2026-04-23T03:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047149161397817402"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047149161397817402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再说一遍，喜欢我就给我打钱，我没有义务回你莫名其妙的东西。我自己的号我想和谁说话就和谁说话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2045108263386317293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047105151471915009/afyeBBA8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 175,
+          "like_count": 13834,
+          "listed_count": 20,
+          "media_count": 64,
+          "tweet_count": 1083
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T12:10:10.000Z",
+        "description": "操死全世界\n｜匿名https://t.co/NXKVyy5G1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inridscent",
+                "end": 32,
+                "expanded_url": "https://ngl.link/inridscent",
+                "start": 9,
+                "url": "https://t.co/NXKVyy5G1i"
+              }
+            ]
+          }
+        },
+        "id": "1919363955929362432",
+        "name": "一根烂棉签",
+        "pinned_tweet_id": "2007795599199142093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490886444429315/VErpiYVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2804,
+          "following_count": 432,
+          "like_count": 17961,
+          "listed_count": 4,
+          "media_count": 438,
+          "tweet_count": 9818
+        },
+        "username": "xiaomingmumu",
+        "verified": false
+      }
+    ]
+  }
+}

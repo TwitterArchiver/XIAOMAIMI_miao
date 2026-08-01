@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047592406359675212",
+    "created_at": "2026-04-27T16:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048809351545307139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1949268075960041472",
+          "start": 0,
+          "username": "yeezuskkkkkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048809351545307139",
+    "in_reply_to_user_id": "1949268075960041472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048808647686328464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeezuskkkkkk 很好，穿的很帅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048808639423811584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7Umj2bkAAwWeh.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047592406359675212",
+        "created_at": "2026-04-27T16:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048809351545307139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1949268075960041472",
+              "start": 0,
+              "username": "yeezuskkkkkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048809351545307139",
+        "in_reply_to_user_id": "1949268075960041472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048808647686328464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeezuskkkkkk 很好，穿的很帅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048808639423811584"
+          ]
+        },
+        "author_id": "1949268075960041472",
+        "conversation_id": "2047592406359675212",
+        "created_at": "2026-04-27T16:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048808647686328464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQQKblgMPh",
+              "end": 39,
+              "expanded_url": "https://x.com/yeezuskkkkkk/status/2048808647686328464/photo/1",
+              "media_key": "3_2048808639423811584",
+              "start": 16,
+              "url": "https://t.co/hQQKblgMPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048808647686328464",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047592406359675212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao https://t.co/hQQKblgMPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5998,
+          "following_count": 184,
+          "like_count": 14481,
+          "listed_count": 23,
+          "media_count": 72,
+          "tweet_count": 1211
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T00:38:31.000Z",
+        "description": "hi，这里是鲨鱼，也可以叫我小黑。英文名是Omari07/enfp/switch（偏s多一点）/1i/4i/欧美嘻哈/这个号是用来发一些朋友圈发不了的但也只是一些想法和思考，并没有什么，相当于我的黑暗面日记本。很高兴认识新朋友",
+        "id": "1949268075960041472",
+        "name": "直到鲨鱼变黑",
+        "pinned_tweet_id": "2048672694367826069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993442330452324352/dhP6z8ws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 685,
+          "like_count": 1616,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 371
+        },
+        "username": "yeezuskkkkkk",
+        "verified": false
+      }
+    ]
+  }
+}

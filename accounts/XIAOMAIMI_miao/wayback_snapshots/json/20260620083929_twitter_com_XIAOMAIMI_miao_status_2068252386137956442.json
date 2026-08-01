@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2068252386137956442",
+    "created_at": "2026-06-20T08:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T09:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068252386137956442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1311048095334101003",
+          "start": 3,
+          "username": "cE6dWDa36zrqR4U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068252386137956442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068188854499295663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cE6dWDa36zrqR4U: 哎，我们来玩sm，就你在躺这里，然后我掐你就很爽啊，对，对对，你在躺这里，然后我现在掐你了啊，来。哎，我操你妈下的辈子吧见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2068252386137956442",
+        "created_at": "2026-06-20T08:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068252386137956442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1311048095334101003",
+              "start": 3,
+              "username": "cE6dWDa36zrqR4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068252386137956442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068188854499295663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cE6dWDa36zrqR4U: 哎，我们来玩sm，就你在躺这里，然后我掐你就很爽啊，对，对对，你在躺这里，然后我现在掐你了啊，来。哎，我操你妈下的辈子吧见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311048095334101003",
+        "conversation_id": "2068188854499295663",
+        "created_at": "2026-06-20T04:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068188854499295663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068188854499295663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 803,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哎，我们来玩sm，就你在躺这里，然后我掐你就很爽啊，对，对对，你在躺这里，然后我现在掐你了啊，来。哎，我操你妈下的辈子吧见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8356,
+          "following_count": 230,
+          "like_count": 23545,
+          "listed_count": 28,
+          "media_count": 37,
+          "tweet_count": 2260
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-29T21:00:13.000Z",
+        "description": "奈何身为雀 于此借寒山",
+        "id": "1311048095334101003",
+        "location": "成都",
+        "name": "臣",
+        "pinned_tweet_id": "1785726513855238599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050276035540008960/Mgaq7eNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 124,
+          "like_count": 5567,
+          "listed_count": 7,
+          "media_count": 167,
+          "tweet_count": 1465
+        },
+        "url": "",
+        "username": "cE6dWDa36zrqR4U",
+        "verified": true
+      }
+    ]
+  }
+}

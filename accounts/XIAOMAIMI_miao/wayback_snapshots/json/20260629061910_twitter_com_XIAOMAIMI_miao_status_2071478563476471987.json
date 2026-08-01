@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071333283267264512"
+      ],
+      "media_source_tweet_id": [
+        "2071333303668351316"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2071478563476471987",
+    "created_at": "2026-06-29T06:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071478563476471987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2389732050",
+          "start": 3,
+          "username": "archer_uwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U6iH0321Hi",
+          "end": 61,
+          "expanded_url": "https://x.com/archer_uwu/status/2071333303668351316/photo/1",
+          "media_key": "3_2071333283267264512",
+          "start": 38,
+          "url": "https://t.co/U6iH0321Hi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071478563476471987",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3978
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071333303668351316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @archer_uwu: *coughs in your face* https://t.co/U6iH0321Hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 536,
+        "media_key": "3_2071333283267264512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7apZCWwAAXah_.png",
+        "width": 603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071333283267264512"
+          ],
+          "media_source_tweet_id": [
+            "2071333303668351316"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2071478563476471987",
+        "created_at": "2026-06-29T06:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071478563476471987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2389732050",
+              "start": 3,
+              "username": "archer_uwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U6iH0321Hi",
+              "end": 61,
+              "expanded_url": "https://x.com/archer_uwu/status/2071333303668351316/photo/1",
+              "media_key": "3_2071333283267264512",
+              "start": 38,
+              "url": "https://t.co/U6iH0321Hi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071478563476471987",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3978
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071333303668351316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @archer_uwu: *coughs in your face* https://t.co/U6iH0321Hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071333283267264512"
+          ]
+        },
+        "author_id": "2389732050",
+        "conversation_id": "2071333303668351316",
+        "created_at": "2026-06-28T20:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071333303668351316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U6iH0321Hi",
+              "end": 45,
+              "expanded_url": "https://x.com/archer_uwu/status/2071333303668351316/photo/1",
+              "media_key": "3_2071333283267264512",
+              "start": 22,
+              "url": "https://t.co/U6iH0321Hi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071333303668351316",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2440,
+          "impression_count": 349597,
+          "like_count": 38394,
+          "quote_count": 135,
+          "reply_count": 52,
+          "retweet_count": 3977
+        },
+        "reply_settings": "everyone",
+        "text": "*coughs in your face* https://t.co/U6iH0321Hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8468,
+          "following_count": 235,
+          "like_count": 24613,
+          "listed_count": 28,
+          "media_count": 56,
+          "tweet_count": 2348
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-14T19:41:49.000Z",
+        "description": "26 🐺ΘΔ | @4rch3r_ | actual lore master | archer#9341 | Post are my own. | fortnite stuff ▶ @archer_fortnite | banner by @clozaphim | 🪡 @TrashInABowl | 🌹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "4rch3r_"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "archer_fortnite"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "clozaphim"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "TrashInABowl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycan.rocks",
+                "end": 23,
+                "expanded_url": "https://lycan.rocks",
+                "start": 0,
+                "url": "https://t.co/bvyQFBuDtO"
+              }
+            ]
+          }
+        },
+        "id": "2389732050",
+        "location": "Florida, USA",
+        "name": "[archer]",
+        "pinned_tweet_id": "1405997380089135104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851938840916664320/ocWeeHC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6671,
+          "following_count": 1994,
+          "like_count": 145487,
+          "listed_count": 19,
+          "media_count": 16686,
+          "tweet_count": 51404
+        },
+        "url": "https://t.co/bvyQFBuDtO",
+        "username": "archer_uwu",
+        "verified": false
+      }
+    ]
+  }
+}

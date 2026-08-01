@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073641812053696513"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2073641660206964802",
+    "created_at": "2026-07-05T05:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073641823797747860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M9b6RwO7uY",
+          "end": 36,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2073641823797747860/photo/1",
+          "media_key": "3_2073641812053696513",
+          "start": 13,
+          "url": "https://t.co/M9b6RwO7uY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073641823797747860",
+    "in_reply_to_user_id": "1942995969043501056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073641660206964802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有tangle的可以试试 https://t.co/M9b6RwO7uY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2073641812053696513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcOPc7boAEavTc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1918,
+        "media_key": "3_2073641650564595712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcOGDVbgAAp_3d.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073641812053696513"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2073641660206964802",
+        "created_at": "2026-07-05T05:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073641823797747860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M9b6RwO7uY",
+              "end": 36,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2073641823797747860/photo/1",
+              "media_key": "3_2073641812053696513",
+              "start": 13,
+              "url": "https://t.co/M9b6RwO7uY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073641823797747860",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073641660206964802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有tangle的可以试试 https://t.co/M9b6RwO7uY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073641650564595712"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2073641660206964802",
+        "created_at": "2026-07-05T05:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073641660206964802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/94b4yHkpAW",
+              "end": 31,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2073641660206964802/photo/1",
+              "media_key": "3_2073641650564595712",
+              "start": 8,
+              "url": "https://t.co/94b4yHkpAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073641660206964802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长出来了2.0 https://t.co/94b4yHkpAW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8568,
+          "following_count": 244,
+          "like_count": 25605,
+          "listed_count": 28,
+          "media_count": 55,
+          "tweet_count": 2405
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

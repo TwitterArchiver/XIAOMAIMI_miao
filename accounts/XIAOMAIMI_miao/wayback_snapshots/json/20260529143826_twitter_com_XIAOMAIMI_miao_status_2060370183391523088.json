@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060370172146585600"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060367904114360600",
+    "created_at": "2026-05-29T14:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060370183391523088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TTQqUB7AZc",
+          "end": 31,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2060370183391523088/photo/1",
+          "media_key": "3_2060370172146585600",
+          "start": 8,
+          "url": "https://t.co/TTQqUB7AZc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060370183391523088",
+    "in_reply_to_user_id": "1942995969043501056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060367904114360600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赛博钓鱼佬来袭 https://t.co/TTQqUB7AZc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_2060370172146585600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfnwVibkAALrRN.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060370172146585600"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060367904114360600",
+        "created_at": "2026-05-29T14:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060370183391523088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTQqUB7AZc",
+              "end": 31,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2060370183391523088/photo/1",
+              "media_key": "3_2060370172146585600",
+              "start": 8,
+              "url": "https://t.co/TTQqUB7AZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060370183391523088",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060367904114360600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赛博钓鱼佬来袭 https://t.co/TTQqUB7AZc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2060367904114360600",
+        "created_at": "2026-05-29T14:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060367904114360600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057787943507365889",
+              "start": 1,
+              "username": "QuinnKKXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060367904114360600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@QuinnKKXL 一起狠狠露了一下午一晚上。。。露地发狠了忘情了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7893,
+          "following_count": 197,
+          "like_count": 19835,
+          "listed_count": 27,
+          "media_count": 138,
+          "tweet_count": 2148
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

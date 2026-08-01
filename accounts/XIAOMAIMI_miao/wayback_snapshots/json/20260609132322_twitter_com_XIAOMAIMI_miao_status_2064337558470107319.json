@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2064329610255581397",
+    "created_at": "2026-06-09T13:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064337558470107319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001899307528785922",
+          "start": 0,
+          "username": "p1nfan34366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064337558470107319",
+    "in_reply_to_user_id": "2001899307528785922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064330482616242199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@p1nfan34366 说的和平时有一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2064329610255581397",
+        "created_at": "2026-06-09T13:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064337558470107319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001899307528785922",
+              "start": 0,
+              "username": "p1nfan34366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064337558470107319",
+        "in_reply_to_user_id": "2001899307528785922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064330482616242199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1nfan34366 说的和平时有一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001899307528785922",
+        "conversation_id": "2064329610255581397",
+        "created_at": "2026-06-09T12:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064330482616242199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064330482616242199",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064329610255581397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我操了今晚完美没有人类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8198,
+          "following_count": 204,
+          "like_count": 21025,
+          "listed_count": 28,
+          "media_count": 156,
+          "tweet_count": 2308
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T06:16:10.000Z",
+        "description": "暂时是个活人",
+        "id": "2001899307528785922",
+        "location": "南京",
+        "name": "p1nfan",
+        "pinned_tweet_id": "2012819564925702180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025777688716439552/z8xYbJx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 38,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 377
+        },
+        "username": "p1nfan34366",
+        "verified": false
+      }
+    ]
+  }
+}

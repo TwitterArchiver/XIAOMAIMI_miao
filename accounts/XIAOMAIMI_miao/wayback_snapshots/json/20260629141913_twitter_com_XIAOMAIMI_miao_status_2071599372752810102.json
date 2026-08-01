@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071599364943044608"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071599372752810102",
+    "created_at": "2026-06-29T14:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071599372752810102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XvBmFhLIlD",
+          "end": 45,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2071599372752810102/photo/1",
+          "media_key": "3_2071599364943044608",
+          "start": 22,
+          "url": "https://t.co/XvBmFhLIlD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071599372752810102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打了一晚上一分没加吗，，，有意思，，，＾＾ https://t.co/XvBmFhLIlD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2071599364943044608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_MpYha4AAT3M5.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071599364943044608"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071599372752810102",
+        "created_at": "2026-06-29T14:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071599372752810102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvBmFhLIlD",
+              "end": 45,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2071599372752810102/photo/1",
+              "media_key": "3_2071599364943044608",
+              "start": 22,
+              "url": "https://t.co/XvBmFhLIlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071599372752810102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打了一晚上一分没加吗，，，有意思，，，＾＾ https://t.co/XvBmFhLIlD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8474,
+          "following_count": 236,
+          "like_count": 24622,
+          "listed_count": 28,
+          "media_count": 56,
+          "tweet_count": 2352
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066147192415682560"
+      ],
+      "media_source_tweet_id": [
+        "2066147200909115607"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066350096938418624",
+    "created_at": "2026-06-15T02:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T03:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066350096938418624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991976361356124160",
+          "start": 3,
+          "username": "YUANccorz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KtGuBCGPFF",
+          "end": 43,
+          "expanded_url": "https://x.com/YUANccorz/status/2066147200909115607/photo/1",
+          "media_key": "3_2066147192415682560",
+          "start": 20,
+          "url": "https://t.co/KtGuBCGPFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066350096938418624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066147200909115607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YUANccorz: 我就这样 https://t.co/KtGuBCGPFF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1243,
+        "media_key": "3_2066147192415682560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxt7LGbgAAqhqi.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066147192415682560"
+          ],
+          "media_source_tweet_id": [
+            "2066147200909115607"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066350096938418624",
+        "created_at": "2026-06-15T02:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066350096938418624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991976361356124160",
+              "start": 3,
+              "username": "YUANccorz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KtGuBCGPFF",
+              "end": 43,
+              "expanded_url": "https://x.com/YUANccorz/status/2066147200909115607/photo/1",
+              "media_key": "3_2066147192415682560",
+              "start": 20,
+              "url": "https://t.co/KtGuBCGPFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066350096938418624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066147200909115607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YUANccorz: 我就这样 https://t.co/KtGuBCGPFF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066147192415682560"
+          ]
+        },
+        "author_id": "1991976361356124160",
+        "conversation_id": "2066147200909115607",
+        "created_at": "2026-06-14T13:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066147200909115607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KtGuBCGPFF",
+              "end": 28,
+              "expanded_url": "https://x.com/YUANccorz/status/2066147200909115607/photo/1",
+              "media_key": "3_2066147192415682560",
+              "start": 5,
+              "url": "https://t.co/KtGuBCGPFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066147200909115607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/KtGuBCGPFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8300,
+          "following_count": 211,
+          "like_count": 22227,
+          "listed_count": 28,
+          "media_count": 116,
+          "tweet_count": 2511
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T21:05:55.000Z",
+        "description": "一位淡淡的用戶⋯",
+        "id": "1991976361356124160",
+        "name": "小缘",
+        "pinned_tweet_id": "2060546421284303112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064330490992283648/ilmqYWaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 86,
+          "like_count": 9832,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 2374
+        },
+        "username": "YUANccorz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2054022075623612870",
+    "created_at": "2026-05-12T02:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T03:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054024463549907431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1989967028808290306",
+          "start": 0,
+          "username": "RevoluteJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054024463549907431",
+    "in_reply_to_user_id": "1989967028808290306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054022075623612870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RevoluteJ 小狗视角"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2054022067029463040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFaL_Ia0AAzywt.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2054022075623612870",
+        "created_at": "2026-05-12T02:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054024463549907431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1989967028808290306",
+              "start": 0,
+              "username": "RevoluteJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054024463549907431",
+        "in_reply_to_user_id": "1989967028808290306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054022075623612870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RevoluteJ 小狗视角"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054022067029463040"
+          ]
+        },
+        "author_id": "1989967028808290306",
+        "conversation_id": "2054022075623612870",
+        "created_at": "2026-05-12T02:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054022075623612870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Joqk5LWlX",
+              "end": 28,
+              "expanded_url": "https://x.com/RevoluteJ/status/2054022075623612870/photo/1",
+              "media_key": "3_2054022067029463040",
+              "start": 5,
+              "url": "https://t.co/2Joqk5LWlX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054022075623612870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃饭视角 https://t.co/2Joqk5LWlX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6971,
+          "following_count": 196,
+          "like_count": 17942,
+          "listed_count": 26,
+          "media_count": 171,
+          "tweet_count": 1980
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T08:01:39.000Z",
+        "description": "06 enfp sw偏s 数学师范 直男 坐标徐州/南京 挚爱：方大同 其余详情在自介条｜欢迎互fo 黄暴人格丢失中",
+        "id": "1989967028808290306",
+        "location": "南京 ",
+        "name": "井上正大",
+        "pinned_tweet_id": "2020357925173375432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037587078209478656/l6wuWqNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 147,
+          "like_count": 5438,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 984
+        },
+        "username": "RevoluteJ",
+        "verified": false
+      }
+    ]
+  }
+}

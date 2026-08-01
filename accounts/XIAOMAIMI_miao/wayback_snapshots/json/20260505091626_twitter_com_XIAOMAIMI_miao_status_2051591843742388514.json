@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2051309136072315140",
+    "created_at": "2026-05-05T09:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051591843742388514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989610258713677824",
+          "start": 0,
+          "username": "RubyChen16533"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051591843742388514",
+    "in_reply_to_user_id": "1989610258713677824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051591521724661897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RubyChen16533 T T抱抱你，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2051309136072315140",
+        "created_at": "2026-05-05T09:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051591843742388514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989610258713677824",
+              "start": 0,
+              "username": "RubyChen16533"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051591843742388514",
+        "in_reply_to_user_id": "1989610258713677824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051591521724661897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RubyChen16533 T T抱抱你，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989610258713677824",
+        "conversation_id": "2051309136072315140",
+        "created_at": "2026-05-05T09:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051591521724661897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051591521724661897",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051309136072315140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 长得好看的也没有。还有你不许说自己丑我心疼你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6466,
+          "following_count": 191,
+          "like_count": 16454,
+          "listed_count": 27,
+          "media_count": 114,
+          "tweet_count": 1668
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T08:23:59.000Z",
+        "description": "一个200斤恶俗宅男萝莉控呃其实我瞎说的我纯绿屌丝的外表下是一个本性呆萌的女孩儿",
+        "id": "1989610258713677824",
+        "name": "Naoko_11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022944447047319552/f1q4Pkz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 57,
+          "like_count": 2517,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 487
+        },
+        "username": "RubyChen16533",
+        "verified": false
+      }
+    ]
+  }
+}

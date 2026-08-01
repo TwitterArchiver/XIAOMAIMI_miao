@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2065762964049952776",
+    "created_at": "2026-06-13T11:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065764590508716522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2040418548909268992",
+          "start": 0,
+          "username": "catdogwlrd123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065764590508716522",
+    "in_reply_to_user_id": "2040418548909268992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065762964049952776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catdogwlrd123 粗大腿，，，我吃，，，"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065762964049952776].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065762964049952776",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065762964049952776"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2065762964049952776",
+        "created_at": "2026-06-13T11:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065764590508716522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2040418548909268992",
+              "start": 0,
+              "username": "catdogwlrd123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065764590508716522",
+        "in_reply_to_user_id": "2040418548909268992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065762964049952776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catdogwlrd123 粗大腿，，，我吃，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8262,
+          "following_count": 211,
+          "like_count": 21726,
+          "listed_count": 28,
+          "media_count": 170,
+          "tweet_count": 2451
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T13:20:02.000Z",
+        "description": "喵喵咪咪",
+        "id": "2040418548909268992",
+        "name": "kio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043913867563282432/6Y7CFN1Y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 0,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 627
+        },
+        "username": "catdogwlrd123",
+        "verified": false
+      }
+    ]
+  }
+}

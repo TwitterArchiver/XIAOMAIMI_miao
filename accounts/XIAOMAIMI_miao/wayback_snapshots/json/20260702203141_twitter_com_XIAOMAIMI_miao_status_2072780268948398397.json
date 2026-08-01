@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2072780268948398397",
+    "created_at": "2026-07-02T20:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T21:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072780268948398397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1738574376457646080",
+          "start": 3,
+          "username": "pofCat2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072780268948398397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072750341573992730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pofCat2: 我渴望的亲密关系是那种双方完全属于双方的 没有个人空间的共生型依恋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2072780268948398397",
+        "created_at": "2026-07-02T20:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072780268948398397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1738574376457646080",
+              "start": 3,
+              "username": "pofCat2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072780268948398397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072750341573992730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pofCat2: 我渴望的亲密关系是那种双方完全属于双方的 没有个人空间的共生型依恋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738574376457646080",
+        "conversation_id": "2072750341573992730",
+        "created_at": "2026-07-02T18:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072750341573992730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072750341573992730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1975,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我渴望的亲密关系是那种双方完全属于双方的 没有个人空间的共生型依恋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8495,
+          "following_count": 242,
+          "like_count": 25298,
+          "listed_count": 28,
+          "media_count": 58,
+          "tweet_count": 2404
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T14:57:00.000Z",
+        "description": "平静一些幸福一些ovo",
+        "id": "1738574376457646080",
+        "name": "泡芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056425564060434432/gFxd3q7E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 26,
+          "like_count": 3518,
+          "listed_count": 7,
+          "media_count": 36,
+          "tweet_count": 821
+        },
+        "url": "",
+        "username": "pofCat2",
+        "verified": false
+      }
+    ]
+  }
+}

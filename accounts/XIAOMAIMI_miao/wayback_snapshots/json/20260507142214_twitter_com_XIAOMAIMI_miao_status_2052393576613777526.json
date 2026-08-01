@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052248183817072903",
+    "created_at": "2026-05-07T14:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052393576613777526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2027082680278683648",
+          "start": 0,
+          "username": "xingxing2009071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052393576613777526",
+    "in_reply_to_user_id": "2027082680278683648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052390504336392219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingxing2009071 亲亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052248183817072903",
+        "created_at": "2026-05-07T14:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052393576613777526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027082680278683648",
+              "start": 0,
+              "username": "xingxing2009071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052393576613777526",
+        "in_reply_to_user_id": "2027082680278683648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052390504336392219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingxing2009071 亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027082680278683648",
+        "conversation_id": "2052248183817072903",
+        "created_at": "2026-05-07T14:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052390504336392219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052390504336392219",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052248183817072903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 亲亲宝宝鸭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6506,
+          "following_count": 192,
+          "like_count": 16858,
+          "listed_count": 27,
+          "media_count": 127,
+          "tweet_count": 1742
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T18:07:04.000Z",
+        "description": "颜控 女高 09  双 不约炮 不卡炮 不加v 不给看逼",
+        "id": "2027082680278683648",
+        "name": "林晚星",
+        "pinned_tweet_id": "2051393942437130348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039405893935329280/eK5hIKWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 75,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 902
+        },
+        "username": "xingxing2009071",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051674621070733313"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051674623436366159",
+    "created_at": "2026-05-05T14:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051674623436366159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tyKfSwtzu9",
+          "end": 75,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2051674623436366159/photo/1",
+          "media_key": "3_2051674621070733313",
+          "start": 52,
+          "url": "https://t.co/tyKfSwtzu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051674623436366159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两年前第一次打瓦，第一次接触电脑端fps游戏，我以为我是天才。。。结果现在一直都只是青铜而已。好想死。 https://t.co/tyKfSwtzu9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2051674621070733313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkDMpea8AEuCen.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051674621070733313"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051674623436366159",
+        "created_at": "2026-05-05T14:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051674623436366159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tyKfSwtzu9",
+              "end": 75,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2051674623436366159/photo/1",
+              "media_key": "3_2051674621070733313",
+              "start": 52,
+              "url": "https://t.co/tyKfSwtzu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051674623436366159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两年前第一次打瓦，第一次接触电脑端fps游戏，我以为我是天才。。。结果现在一直都只是青铜而已。好想死。 https://t.co/tyKfSwtzu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6465,
+          "following_count": 191,
+          "like_count": 16493,
+          "listed_count": 27,
+          "media_count": 116,
+          "tweet_count": 1680
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

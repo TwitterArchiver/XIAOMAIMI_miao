@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2056242331733602307",
+    "created_at": "2026-05-18T08:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056294866116911105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755379941535895553",
+          "start": 0,
+          "username": "SueBlevins4406"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056294866116911105",
+    "in_reply_to_user_id": "1755379941535895553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056279220092031429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SueBlevins4406 我们学校卖酒，还有专门的酒品牌➕酿酒专业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2056242331733602307",
+        "created_at": "2026-05-18T08:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056294866116911105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755379941535895553",
+              "start": 0,
+              "username": "SueBlevins4406"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056294866116911105",
+        "in_reply_to_user_id": "1755379941535895553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056279220092031429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SueBlevins4406 我们学校卖酒，还有专门的酒品牌➕酿酒专业"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755379941535895553",
+        "conversation_id": "2056242331733602307",
+        "created_at": "2026-05-18T07:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056279220092031429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056279220092031429",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056242331733602307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 学校明面上连低度啤酒都不让卖，金酒这种烈酒更别想了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7600,
+          "following_count": 199,
+          "like_count": 19063,
+          "listed_count": 26,
+          "media_count": 224,
+          "tweet_count": 2133
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T23:56:28.000Z",
+        "description": "",
+        "id": "1755379941535895553",
+        "name": "Neville",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034579475820892160/LaFUh6fv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 140,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 845
+        },
+        "username": "SueBlevins4406",
+        "verified": false
+      }
+    ]
+  }
+}

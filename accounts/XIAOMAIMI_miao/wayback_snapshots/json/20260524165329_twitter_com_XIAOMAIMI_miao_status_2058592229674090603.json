@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2058591443649024000"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2058592229674090603",
+    "created_at": "2026-05-24T16:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058592229674090603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EJFs7e0dOJ",
+          "end": 32,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2058592229674090603/video/1",
+          "media_key": "7_2058591443649024000",
+          "start": 9,
+          "url": "https://t.co/EJFs7e0dOJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058592229674090603",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "生日加更一条＾＾ https://t.co/EJFs7e0dOJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27863,
+        "height": 720,
+        "media_key": "7_2058591443649024000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058591443649024000/pu/img/sLkUXhfeTYvEMBCc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058591443649024000/pu/vid/avc1/480x270/_aPyGXW9FdMIQZf1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058591443649024000/pu/vid/avc1/640x360/KjXxvQ3hDze2CgVM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058591443649024000/pu/vid/avc1/1280x720/pRxYAG3WZqeh7O5n.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058591443649024000/pu/pl/iDImNBJEywY_eYGP.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058591443649024000"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2058592229674090603",
+        "created_at": "2026-05-24T16:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058592229674090603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EJFs7e0dOJ",
+              "end": 32,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2058592229674090603/video/1",
+              "media_key": "7_2058591443649024000",
+              "start": 9,
+              "url": "https://t.co/EJFs7e0dOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058592229674090603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日加更一条＾＾ https://t.co/EJFs7e0dOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7671,
+          "following_count": 198,
+          "like_count": 19525,
+          "listed_count": 28,
+          "media_count": 134,
+          "tweet_count": 2058
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

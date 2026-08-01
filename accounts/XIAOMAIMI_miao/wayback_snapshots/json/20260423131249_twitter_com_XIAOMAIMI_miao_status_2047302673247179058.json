@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047281588019601765",
+    "created_at": "2026-04-23T13:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047302673247179058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1854788275187466240",
+          "start": 0,
+          "username": "oioi256794"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047302673247179058",
+    "in_reply_to_user_id": "1854788275187466240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047300943709118973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oioi256794 不是，我发了很多那种文字类的东西，然后很多人就转然后说什么我爹xxx我妈xxx，我老母，什么什么xx害惨我了这种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047281588019601765",
+        "created_at": "2026-04-23T13:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047302673247179058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1854788275187466240",
+              "start": 0,
+              "username": "oioi256794"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047302673247179058",
+        "in_reply_to_user_id": "1854788275187466240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047300943709118973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oioi256794 不是，我发了很多那种文字类的东西，然后很多人就转然后说什么我爹xxx我妈xxx，我老母，什么什么xx害惨我了这种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854788275187466240",
+        "conversation_id": "2047281588019601765",
+        "created_at": "2026-04-23T13:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047300943709118973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047300943709118973",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047281588019601765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 可是你不是女的吗你发啥被代了？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047105151471915009/afyeBBA8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 176,
+          "like_count": 13852,
+          "listed_count": 20,
+          "media_count": 64,
+          "tweet_count": 1094
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T07:29:29.000Z",
+        "description": "滚出去",
+        "id": "1854788275187466240",
+        "name": "橹穆你俩有心吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044682689618542592/fGvKmDk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 137,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1406
+        },
+        "username": "oioi256794",
+        "verified": false
+      }
+    ]
+  }
+}

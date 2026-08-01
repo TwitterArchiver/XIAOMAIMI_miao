@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2079208379659194443",
+    "created_at": "2026-07-20T14:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079211887536095736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1879799070254096386",
+          "start": 0,
+          "username": "SherryJxpbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079211887536095736",
+    "in_reply_to_user_id": "1879799070254096386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079211551115096224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SherryJxpbp 为什么我进了季后赛？\n为什么我进了季后赛？🤔🤔🤔因为BLG4-1😡😡😡BLG先输DRG😨😨😨再赢狼队😋😋😋再赢AG😭😭😭再赢 TEC  🤓🤓🤓再赢XLG🤕🤕🤕，OK？😏😏😏为什么进了季后赛😥😥😥，因为 BLG晋级了  😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2079208379659194443",
+        "created_at": "2026-07-20T14:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079211887536095736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879799070254096386",
+              "start": 0,
+              "username": "SherryJxpbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079211887536095736",
+        "in_reply_to_user_id": "1879799070254096386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079211551115096224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SherryJxpbp 为什么我进了季后赛？\n为什么我进了季后赛？🤔🤔🤔因为BLG4-1😡😡😡BLG先输DRG😨😨😨再赢狼队😋😋😋再赢AG😭😭😭再赢 TEC  🤓🤓🤓再赢XLG🤕🤕🤕，OK？😏😏😏为什么进了季后赛😥😥😥，因为 BLG晋级了  😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879799070254096386",
+        "conversation_id": "2079208379659194443",
+        "created_at": "2026-07-20T14:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079211551115096224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079211551115096224",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079208379659194443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 奶芙姐姐玩奥丁玩爽了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047341329148256551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9341,
+          "following_count": 258,
+          "like_count": 26536,
+          "listed_count": 31,
+          "media_count": 23,
+          "tweet_count": 2440
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T07:53:30.000Z",
+        "description": "变身！小猫惡魔：☆…//★ 06 enfp 金牛 此号发的东西有点乱七八糟请见谅…互关可➕v \n防丢失小号：@Sherrysh2d \n记录一些🔞：@Sherryysig\n定期回复信箱——匿名信箱📬：https://t.co/09pzHIo5EO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Sherrysh2d"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Sherryysig"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sherryl25621",
+                "end": 122,
+                "expanded_url": "https://ngl.link/sherryl25621",
+                "start": 99,
+                "url": "https://t.co/09pzHIo5EO"
+              }
+            ]
+          }
+        },
+        "id": "1879799070254096386",
+        "location": "🚪纯绿88 🚪半绿188",
+        "name": "Sherry-J",
+        "pinned_tweet_id": "2064687600393466065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074071258590011392/mgyQIZMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7855,
+          "following_count": 357,
+          "like_count": 5956,
+          "listed_count": 22,
+          "media_count": 355,
+          "tweet_count": 3870
+        },
+        "url": "",
+        "username": "SherryJxpbp",
+        "verified": false
+      }
+    ]
+  }
+}

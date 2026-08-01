@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2056369128588587523",
+    "created_at": "2026-05-18T13:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056369128588587523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2034586230881722368",
+          "start": 3,
+          "username": "hgds03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056369128588587523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056356833540088204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds03: 我就很喜欢明天见这三个字，我不用担心睡一觉之后两个人就结束了，明天见的意思就是，明天还想和你聊，明天好想见到你，我就很开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2056369128588587523",
+        "created_at": "2026-05-18T13:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056369128588587523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2034586230881722368",
+              "start": 3,
+              "username": "hgds03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056369128588587523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056356833540088204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds03: 我就很喜欢明天见这三个字，我不用担心睡一觉之后两个人就结束了，明天见的意思就是，明天还想和你聊，明天好想见到你，我就很开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034586230881722368",
+        "conversation_id": "2056356833540088204",
+        "created_at": "2026-05-18T12:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056356833540088204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056356833540088204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 669,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我就很喜欢明天见这三个字，我不用担心睡一觉之后两个人就结束了，明天见的意思就是，明天还想和你聊，明天好想见到你，我就很开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7605,
+          "following_count": 199,
+          "like_count": 19103,
+          "listed_count": 26,
+          "media_count": 226,
+          "tweet_count": 2139
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2054894839452594509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3346,
+          "following_count": 349,
+          "like_count": 3541,
+          "listed_count": 6,
+          "media_count": 29,
+          "tweet_count": 404
+        },
+        "username": "hgds03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063541861076336640"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2063541867405615522",
+    "created_at": "2026-06-07T08:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063541867405615522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/myBkYLA8MC",
+          "end": 46,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2063541867405615522/photo/1",
+          "media_key": "3_2063541861076336640",
+          "start": 23,
+          "url": "https://t.co/myBkYLA8MC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063541867405615522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买旧书卖了13块钱，然后花14.5去买啤酒了 https://t.co/myBkYLA8MC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063541861076336640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMsY7iagAAbPIw.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063541861076336640"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2063541867405615522",
+        "created_at": "2026-06-07T08:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063541867405615522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/myBkYLA8MC",
+              "end": 46,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2063541867405615522/photo/1",
+              "media_key": "3_2063541861076336640",
+              "start": 23,
+              "url": "https://t.co/myBkYLA8MC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063541867405615522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买旧书卖了13块钱，然后花14.5去买啤酒了 https://t.co/myBkYLA8MC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ\n酸酸又瑟瑟文稿发在这边@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8177,
+          "following_count": 200,
+          "like_count": 20692,
+          "listed_count": 30,
+          "media_count": 165,
+          "tweet_count": 2291
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

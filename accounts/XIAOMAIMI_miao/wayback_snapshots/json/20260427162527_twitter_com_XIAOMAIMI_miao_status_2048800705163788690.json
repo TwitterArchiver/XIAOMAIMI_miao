@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048798942469783794",
+    "created_at": "2026-04-27T16:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048800705163788690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1929606195511545862",
+          "start": 0,
+          "username": "ygwmngdern91879"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048800705163788690",
+    "in_reply_to_user_id": "1929606195511545862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048800435415515517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygwmngdern91879 我觉得一不小心就开始依赖一个人是很痛苦的，，，特别是在身份不合时宜的情况下。而且很难摆脱这种依赖产生的后续影响。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048798942469783794",
+        "created_at": "2026-04-27T16:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048800705163788690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1929606195511545862",
+              "start": 0,
+              "username": "ygwmngdern91879"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048800705163788690",
+        "in_reply_to_user_id": "1929606195511545862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048800435415515517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygwmngdern91879 我觉得一不小心就开始依赖一个人是很痛苦的，，，特别是在身份不合时宜的情况下。而且很难摆脱这种依赖产生的后续影响。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929606195511545862",
+        "conversation_id": "2048798942469783794",
+        "created_at": "2026-04-27T16:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048800435415515517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048800435415515517",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048798942469783794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 没关系啦，依赖这种东西聊得多了就是会产生呀，找点自己的事情做，依赖是正常的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5998,
+          "following_count": 183,
+          "like_count": 14467,
+          "listed_count": 23,
+          "media_count": 72,
+          "tweet_count": 1204
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T18:29:21.000Z",
+        "description": "04｜sub｜油画｜碎碎念 \n当朋友圈发，我需要一点情绪的宣泄\n脾气很好的小狗 ｜暂时没有发展关系的打算 \n提问箱 https://t.co/Yv9TRFyUQR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wren98640",
+                "end": 81,
+                "expanded_url": "https://ngl.link/wren98640",
+                "start": 58,
+                "url": "https://t.co/Yv9TRFyUQR"
+              }
+            ]
+          }
+        },
+        "id": "1929606195511545862",
+        "location": "In your heart❤️",
+        "name": "Wren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025492178315902976/Y__sIAwh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 4,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 137
+        },
+        "username": "ygwmngdern91879",
+        "verified": false
+      }
+    ]
+  }
+}

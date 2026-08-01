@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2050084691395612980",
+    "created_at": "2026-05-01T07:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T08:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050118688830021760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900172240345587715",
+          "start": 0,
+          "username": "JoJo72669948897"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050118688830021760",
+    "in_reply_to_user_id": "1900172240345587715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050105415195832330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoJo72669948897 摸摸你摸摸你小宝宝不要跳？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2050084691395612980",
+        "created_at": "2026-05-01T07:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050118688830021760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900172240345587715",
+              "start": 0,
+              "username": "JoJo72669948897"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050118688830021760",
+        "in_reply_to_user_id": "1900172240345587715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050105415195832330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoJo72669948897 摸摸你摸摸你小宝宝不要跳？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900172240345587715",
+        "conversation_id": "2050084691395612980",
+        "created_at": "2026-05-01T06:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050105415195832330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050105415195832330",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050084691395612980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 哇去、40楼将迎来女宾一位ʕ •ᴥ•ʔ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 190,
+          "like_count": 15493,
+          "listed_count": 27,
+          "media_count": 94,
+          "tweet_count": 1504
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T13:09:29.000Z",
+        "description": "总是在哭哭",
+        "id": "1900172240345587715",
+        "name": "小豬盖被",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049842060996612096/NWiCxAnk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 21,
+          "like_count": 2,
+          "listed_count": 4,
+          "media_count": 368,
+          "tweet_count": 661
+        },
+        "username": "JoJo72669948897",
+        "verified": false
+      }
+    ]
+  }
+}

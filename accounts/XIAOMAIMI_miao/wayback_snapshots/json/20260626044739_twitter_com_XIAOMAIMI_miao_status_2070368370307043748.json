@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2070360417558520013",
+    "created_at": "2026-06-26T04:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070368370307043748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893233040606011392",
+          "start": 0,
+          "username": "myzm_gachi0813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070368370307043748",
+    "in_reply_to_user_id": "1893233040606011392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070367048040165490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myzm_gachi0813 OKOK！谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2070360417558520013",
+        "created_at": "2026-06-26T04:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070368370307043748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1893233040606011392",
+              "start": 0,
+              "username": "myzm_gachi0813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070368370307043748",
+        "in_reply_to_user_id": "1893233040606011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070367048040165490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myzm_gachi0813 OKOK！谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893233040606011392",
+        "conversation_id": "2070360417558520013",
+        "created_at": "2026-06-26T04:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070367048040165490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070367048040165490",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070360417558520013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 用开口大一点的指甲剪把长的部分剪掉就可以了！如果觉得锐利的话也可以用磨砂纸打磨一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8453,
+          "following_count": 233,
+          "like_count": 24270,
+          "listed_count": 28,
+          "media_count": 46,
+          "tweet_count": 2314
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T09:35:22.000Z",
+        "description": "而我只是一个颜文字爱好者，一个双性恋，一个05后，一个把沙砾磨成珍珠直到死才开壳的蚌。",
+        "id": "1893233040606011392",
+        "location": "距离你3.1415926km",
+        "name": "awa٩( °༥° )و",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050956107859087360/7frvQyQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 367,
+          "like_count": 5902,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "myzm_gachi0813",
+        "verified": false
+      }
+    ]
+  }
+}

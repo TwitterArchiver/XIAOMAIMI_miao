@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2046825702960595218",
+    "created_at": "2026-04-22T05:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T06:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046825702960595218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2003084923884969984",
+          "start": 3,
+          "username": "Yizhixiaotu07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046825702960595218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046526364355112993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yizhixiaotu07: 如果你感受到了我的恶意  不要误会\n我就是故意的ʢ˶ᵒ ᵕ ˂˶ʡᶻ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2046825702960595218",
+        "created_at": "2026-04-22T05:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046825702960595218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2003084923884969984",
+              "start": 3,
+              "username": "Yizhixiaotu07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046825702960595218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046526364355112993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yizhixiaotu07: 如果你感受到了我的恶意  不要误会\n我就是故意的ʢ˶ᵒ ᵕ ˂˶ʡᶻ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003084923884969984",
+        "conversation_id": "2046526364355112993",
+        "created_at": "2026-04-21T09:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046526364355112993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046526364355112993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 631,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果你感受到了我的恶意  不要误会\n我就是故意的ʢ˶ᵒ ᵕ ˂˶ʡᶻ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ碎碎念+身材照",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2045108263386317293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045899834297872384/W2EN1KwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 172,
+          "like_count": 13594,
+          "listed_count": 20,
+          "media_count": 62,
+          "tweet_count": 1050
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T12:47:57.000Z",
+        "description": "很爱碎碎念  没事就爱写点xp  1米90美强惨少年感爹系年上爱好者  什么xp都能吃一口  女孩子也不是不行  可以叫我兔兔老师  或者小兔小兔  不定时上推  偶尔负能量且极度暴躁  不是1米9大帅比➕大粉无毛勾八别给我发你的丑勾八",
+        "id": "2003084923884969984",
+        "name": "兔兔",
+        "pinned_tweet_id": "2046619201629303140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046597101610786816/wbO4u8lP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 55,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 504
+        },
+        "username": "Yizhixiaotu07",
+        "verified": false
+      }
+    ]
+  }
+}

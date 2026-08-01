@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053804463346036736"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2053804469012562304",
+    "created_at": "2026-05-11T11:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053804469012562304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y4aaEFLU4N",
+          "end": 88,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2053804469012562304/photo/1",
+          "media_key": "3_2053804463346036736",
+          "start": 65,
+          "url": "https://t.co/y4aaEFLU4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053804469012562304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "答：不要，我不会发我的自慰视频，也不会露b＾＾有些照片不打码是因为有毛毛挡着看不清所以不打，我做这个账号有我自己的规则和底线＾＾ https://t.co/y4aaEFLU4N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_2053804463346036736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICURyPaMAAM_2k.jpg",
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053804463346036736"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2053804469012562304",
+        "created_at": "2026-05-11T11:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053804469012562304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4aaEFLU4N",
+              "end": 88,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2053804469012562304/photo/1",
+              "media_key": "3_2053804463346036736",
+              "start": 65,
+              "url": "https://t.co/y4aaEFLU4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053804469012562304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "答：不要，我不会发我的自慰视频，也不会露b＾＾有些照片不打码是因为有毛毛挡着看不清所以不打，我做这个账号有我自己的规则和底线＾＾ https://t.co/y4aaEFLU4N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6830,
+          "following_count": 196,
+          "like_count": 17663,
+          "listed_count": 26,
+          "media_count": 165,
+          "tweet_count": 1939
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

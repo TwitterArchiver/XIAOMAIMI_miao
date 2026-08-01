@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055316709263945728"
+      ],
+      "media_source_tweet_id": [
+        "2055316722417283562"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2055515034307186964",
+    "created_at": "2026-05-16T05:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T06:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055515034307186964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2054919713814388736",
+          "start": 3,
+          "username": "XIAOSHUgugu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pQUevyqIou",
+          "end": 40,
+          "expanded_url": "https://x.com/XIAOSHUgugu/status/2055316722417283562/photo/1",
+          "media_key": "3_2055316709263945728",
+          "start": 17,
+          "url": "https://t.co/pQUevyqIou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055515034307186964",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055316722417283562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XIAOSHUgugu: https://t.co/pQUevyqIou"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1303,
+        "media_key": "3_2055316709263945728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXzqFSaMAA7mK-.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055316709263945728"
+          ],
+          "media_source_tweet_id": [
+            "2055316722417283562"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2055515034307186964",
+        "created_at": "2026-05-16T05:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055515034307186964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2054919713814388736",
+              "start": 3,
+              "username": "XIAOSHUgugu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pQUevyqIou",
+              "end": 40,
+              "expanded_url": "https://x.com/XIAOSHUgugu/status/2055316722417283562/photo/1",
+              "media_key": "3_2055316709263945728",
+              "start": 17,
+              "url": "https://t.co/pQUevyqIou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055515034307186964",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055316722417283562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XIAOSHUgugu: https://t.co/pQUevyqIou"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055316709263945728"
+          ]
+        },
+        "author_id": "2054919713814388736",
+        "conversation_id": "2055316722417283562",
+        "created_at": "2026-05-15T15:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055316722417283562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pQUevyqIou",
+              "end": 23,
+              "expanded_url": "https://x.com/XIAOSHUgugu/status/2055316722417283562/photo/1",
+              "media_key": "3_2055316709263945728",
+              "start": 0,
+              "url": "https://t.co/pQUevyqIou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055316722417283562",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pQUevyqIou"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7402,
+          "following_count": 196,
+          "like_count": 18862,
+          "listed_count": 26,
+          "media_count": 211,
+          "tweet_count": 2102
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:41:13.000Z",
+        "description": "我们做过最亲密的事不是接吻，是在对方面前安静地掉眼泪。",
+        "id": "2054919713814388736",
+        "name": "小鼠小鼠爱吃稻谷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054921153622528000/HQHBUWPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "XIAOSHUgugu",
+        "verified": false
+      }
+    ]
+  }
+}

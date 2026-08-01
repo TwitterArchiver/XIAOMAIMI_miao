@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2067988577410326981",
+    "created_at": "2026-06-19T16:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068015481706164411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791359327501955072",
+          "start": 0,
+          "username": "diandian00001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068015481706164411",
+    "in_reply_to_user_id": "1791359327501955072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067988577410326981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diandian00001 高壮男看多了会突然哭出来，脸埋胸肌到底啥感觉，捏大臂啥感觉，环抱着腰啥感觉，到底啥感觉啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2067988577410326981",
+        "created_at": "2026-06-19T16:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068015481706164411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791359327501955072",
+              "start": 0,
+              "username": "diandian00001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068015481706164411",
+        "in_reply_to_user_id": "1791359327501955072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067988577410326981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diandian00001 高壮男看多了会突然哭出来，脸埋胸肌到底啥感觉，捏大臂啥感觉，环抱着腰啥感觉，到底啥感觉啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2067988577410326981",
+        "created_at": "2026-06-19T15:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067988577410326981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067988577410326981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高壮男看多了会突然哭出来，脸埋胸肌到底啥感觉，捏大臂啥感觉，环抱着腰啥感觉，到底啥感觉啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8350,
+          "following_count": 227,
+          "like_count": 23455,
+          "listed_count": 28,
+          "media_count": 36,
+          "tweet_count": 2256
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "description": "家里小孩拿手机发着玩的，骂我就是你对，不吃压力之人\n身高不够180臂围不够38腹肌不明显的禁止私信我\n不约炮不交友，只是分享自己的弱智生活",
+        "id": "1791359327501955072",
+        "location": "by your side",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 125,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 945
+        },
+        "url": "",
+        "username": "diandian00001",
+        "verified": false
+      }
+    ]
+  }
+}

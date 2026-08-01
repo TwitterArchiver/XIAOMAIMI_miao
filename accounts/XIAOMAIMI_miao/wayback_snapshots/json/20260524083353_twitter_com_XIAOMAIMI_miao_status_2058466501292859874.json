@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2058466501292859874",
+    "created_at": "2026-05-24T08:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058466501292859874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1596692652925517824",
+          "start": 3,
+          "username": "mylifewill_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058466501292859874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057986587053740372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mylifewill_: 长大的标志就是你没有讨厌的人了。以前会全心全意讨厌一个人，现在只有冷漠。冷漠很残暴但是也很有效，我没有讨厌的人，只有不想看见和不想在乎的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2058466501292859874",
+        "created_at": "2026-05-24T08:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058466501292859874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596692652925517824",
+              "start": 3,
+              "username": "mylifewill_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058466501292859874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057986587053740372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mylifewill_: 长大的标志就是你没有讨厌的人了。以前会全心全意讨厌一个人，现在只有冷漠。冷漠很残暴但是也很有效，我没有讨厌的人，只有不想看见和不想在乎的人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596692652925517824",
+        "conversation_id": "2057986587053740372",
+        "created_at": "2026-05-23T00:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T01:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057986587053740372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057986587053740372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 39667,
+          "like_count": 1340,
+          "quote_count": 21,
+          "reply_count": 82,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "长大的标志就是你没有讨厌的人了。以前会全心全意讨厌一个人，现在只有冷漠。冷漠很残暴但是也很有效，我没有讨厌的人，只有不想看见和不想在乎的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7663,
+          "following_count": 196,
+          "like_count": 19429,
+          "listed_count": 26,
+          "media_count": 132,
+          "tweet_count": 2033
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T02:29:29.000Z",
+        "description": "情愿刻画你太善良 纯情懂事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koukou63494",
+                "end": 23,
+                "expanded_url": "https://ngl.link/koukou63494",
+                "start": 0,
+                "url": "https://t.co/jpq4DOsQ9A"
+              }
+            ]
+          }
+        },
+        "id": "1596692652925517824",
+        "name": "扣扣",
+        "pinned_tweet_id": "2013461288438133089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050596964010803201/8DlN_dz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 273,
+          "like_count": 20390,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 5654
+        },
+        "url": "https://t.co/jpq4DOsQ9A",
+        "username": "mylifewill_",
+        "verified": false
+      }
+    ]
+  }
+}

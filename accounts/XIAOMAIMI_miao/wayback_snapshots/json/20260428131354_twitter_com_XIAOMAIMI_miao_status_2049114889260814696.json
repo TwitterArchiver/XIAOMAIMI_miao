@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049076251164619162",
+    "created_at": "2026-04-28T13:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049114889260814696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1775384727039758336",
+          "start": 0,
+          "username": "TcnicF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049114889260814696",
+    "in_reply_to_user_id": "1775384727039758336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049112762392125934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TcnicF 诶呀没关系，，，摸摸你，，，我也没有服用过精神类药物，我不太敢去确诊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049076251164619162",
+        "created_at": "2026-04-28T13:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049114889260814696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1775384727039758336",
+              "start": 0,
+              "username": "TcnicF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049114889260814696",
+        "in_reply_to_user_id": "1775384727039758336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049112762392125934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TcnicF 诶呀没关系，，，摸摸你，，，我也没有服用过精神类药物，我不太敢去确诊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775384727039758336",
+        "conversation_id": "2049076251164619162",
+        "created_at": "2026-04-28T13:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049112762392125934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049112762392125934",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049107526952833172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 对不起啊帮不了你什么，我自己的焦虑惊恐障碍也还没好，但后来不会在用餐时焦虑，之前会 但不知道是怎么好的😣我没服用过精神药物，不知道能不能改善这种情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6121,
+          "following_count": 187,
+          "like_count": 14804,
+          "listed_count": 27,
+          "media_count": 80,
+          "tweet_count": 1301
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T04:48:08.000Z",
+        "description": "",
+        "id": "1775384727039758336",
+        "name": "Tync",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976042680435269632/pQEsVF3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 502,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 60
+        },
+        "username": "TcnicF",
+        "verified": false
+      }
+    ]
+  }
+}

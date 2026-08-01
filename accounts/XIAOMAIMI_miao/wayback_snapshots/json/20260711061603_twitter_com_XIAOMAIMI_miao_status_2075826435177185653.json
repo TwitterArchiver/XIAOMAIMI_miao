@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2075826435177185653",
+    "created_at": "2026-07-11T06:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075826435177185653"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chrs_mua/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Chrs_mua/status/2075824300146544943",
+          "start": 5,
+          "url": "https://t.co/tYRVOAYMhX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075826435177185653",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075824300146544943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吸入中* https://t.co/tYRVOAYMhX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1426,
+        "media_key": "3_2075824283079913472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7PL_EbsAA6z2_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1431,
+        "media_key": "3_2075824282861809664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7PL-QbsAAhNvg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2075824282849234944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7PL-Nb0AANEep.jpg",
+        "width": 805
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2075824282870161408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7PL-SbIAA-2bZ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2075826435177185653",
+        "created_at": "2026-07-11T06:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075826435177185653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chrs_mua/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Chrs_mua/status/2075824300146544943",
+              "start": 5,
+              "url": "https://t.co/tYRVOAYMhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075826435177185653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075824300146544943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吸入中* https://t.co/tYRVOAYMhX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075824283079913472",
+            "3_2075824282861809664",
+            "3_2075824282849234944",
+            "3_2075824282870161408"
+          ]
+        },
+        "author_id": "1587039924913831936",
+        "conversation_id": "2075824300146544943",
+        "created_at": "2026-07-11T06:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075824300146544943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2X7QuHMXrC",
+              "end": 50,
+              "expanded_url": "https://x.com/Chrs_mua/status/2075824300146544943/photo/1",
+              "media_key": "3_2075824283079913472",
+              "start": 27,
+              "url": "https://t.co/2X7QuHMXrC"
+            },
+            {
+              "display_url": "pic.x.com/2X7QuHMXrC",
+              "end": 50,
+              "expanded_url": "https://x.com/Chrs_mua/status/2075824300146544943/photo/1",
+              "media_key": "3_2075824282861809664",
+              "start": 27,
+              "url": "https://t.co/2X7QuHMXrC"
+            },
+            {
+              "display_url": "pic.x.com/2X7QuHMXrC",
+              "end": 50,
+              "expanded_url": "https://x.com/Chrs_mua/status/2075824300146544943/photo/1",
+              "media_key": "3_2075824282849234944",
+              "start": 27,
+              "url": "https://t.co/2X7QuHMXrC"
+            },
+            {
+              "display_url": "pic.x.com/2X7QuHMXrC",
+              "end": 50,
+              "expanded_url": "https://x.com/Chrs_mua/status/2075824300146544943/photo/1",
+              "media_key": "3_2075824282870161408",
+              "start": 27,
+              "url": "https://t.co/2X7QuHMXrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075824300146544943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或许你也喜欢 c 老师\n🈶️你想🈶️的所有\n先到先得 https://t.co/2X7QuHMXrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9198,
+          "following_count": 243,
+          "like_count": 26032,
+          "listed_count": 29,
+          "media_count": 61,
+          "tweet_count": 2494
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T11:13:18.000Z",
+        "description": "随便看看 都很喜欢🩷\n没有🚪 不加🛰 止于推🔚不接电诈⚡️\n生活号 分享做饭吃饭日常 @1Raooo\n出👔🧦先到先得 私信未回可联系小号👆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "1Raooo"
+              }
+            ]
+          }
+        },
+        "id": "1587039924913831936",
+        "location": "投喂请发口令 给我的gelato加个球🍨",
+        "name": "Chrs",
+        "pinned_tweet_id": "2074522125420167584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069288971855917056/qDLvE6cZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31758,
+          "following_count": 62,
+          "like_count": 1461,
+          "listed_count": 69,
+          "media_count": 277,
+          "tweet_count": 1405
+        },
+        "url": "",
+        "username": "Chrs_mua",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053791552066199552"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2053791559683027392",
+    "created_at": "2026-05-11T10:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053791559683027392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ly3sfC5Lwv",
+          "end": 37,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2053791559683027392/photo/1",
+          "media_key": "3_2053791552066199552",
+          "start": 14,
+          "url": "https://t.co/ly3sfC5Lwv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053791559683027392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你？！果然好多毛毛控！ https://t.co/ly3sfC5Lwv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2053791552066199552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICIiP-aoAAh4o-.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053791552066199552"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2053791559683027392",
+        "created_at": "2026-05-11T10:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053791559683027392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ly3sfC5Lwv",
+              "end": 37,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2053791559683027392/photo/1",
+              "media_key": "3_2053791552066199552",
+              "start": 14,
+              "url": "https://t.co/ly3sfC5Lwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053791559683027392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你？！果然好多毛毛控！ https://t.co/ly3sfC5Lwv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6825,
+          "following_count": 196,
+          "like_count": 17629,
+          "listed_count": 26,
+          "media_count": 163,
+          "tweet_count": 1931
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2064598573153656961",
+    "created_at": "2026-06-10T07:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064604781428257020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944994854637068288",
+          "start": 0,
+          "username": "hellomilkkyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064604781428257020",
+    "in_reply_to_user_id": "1944994854637068288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064604176043381030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hellomilkkyy 而且感觉她好真诚TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2064598573153656961",
+        "created_at": "2026-06-10T07:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064604781428257020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944994854637068288",
+              "start": 0,
+              "username": "hellomilkkyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064604781428257020",
+        "in_reply_to_user_id": "1944994854637068288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064604176043381030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellomilkkyy 而且感觉她好真诚TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944994854637068288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          }
+        ],
+        "conversation_id": "2064598573153656961",
+        "created_at": "2026-06-10T07:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064604176043381030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064604176043381030",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064598573153656961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我去！我特别喜欢她啊哈哈哈哈，她真的太有趣了！太有综艺感，而且她的small girl很好听！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎讲梦话@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "XIAOSHUgugu"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8190,
+          "following_count": 205,
+          "like_count": 21218,
+          "listed_count": 28,
+          "media_count": 158,
+          "tweet_count": 2336
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:38:27.000Z",
+        "description": "保持安全距离\n提问箱➡️whttps://ngl.link/miukkkeii",
+        "id": "1944994854637068288",
+        "location": "无🚪不加v",
+        "name": "hellomilk🍢",
+        "pinned_tweet_id": "2034620342417907825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060546075401007104/ddLh0Yh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 71,
+          "like_count": 2497,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1189
+        },
+        "username": "hellomilkkyy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2046122786142441767",
+    "created_at": "2026-04-20T08:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T09:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046151173233955290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1712639858995294208",
+          "start": 0,
+          "username": "x1721416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046151173233955290",
+    "in_reply_to_user_id": "1712639858995294208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046122786142441767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x1721416 小狗露肚皮滚滚中，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6333,
+        "height": 1080,
+        "media_key": "13_2046122376589647873",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046122376589647873/img/aFokD_sB2DpZOb8P.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046122376589647873/vid/avc1/480x270/rSMMfw6rg6ZQjZAS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046122376589647873/vid/avc1/640x360/qjE2NuyiccKUeRku.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046122376589647873/vid/avc1/1280x720/uV_N2z1OG90XCpAA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046122376589647873/pl/bgcGrkNOqFiebVjU.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2046122786142441767",
+        "created_at": "2026-04-20T08:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046151173233955290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1712639858995294208",
+              "start": 0,
+              "username": "x1721416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046151173233955290",
+        "in_reply_to_user_id": "1712639858995294208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046122786142441767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x1721416 小狗露肚皮滚滚中，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046122376589647873"
+          ]
+        },
+        "author_id": "1712639858995294208",
+        "conversation_id": "2046122786142441767",
+        "created_at": "2026-04-20T07:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046122786142441767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJT07aQJP2",
+              "end": 41,
+              "expanded_url": "https://x.com/x1721416/status/2046122786142441767/video/1",
+              "media_key": "13_2046122376589647873",
+              "start": 18,
+              "url": "https://t.co/CJT07aQJP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046122786142441767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1176,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么视角？🥺   其实是在拉伸 https://t.co/CJT07aQJP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ碎碎念+身材照",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2045108263386317293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045899834297872384/W2EN1KwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5913,
+          "following_count": 189,
+          "like_count": 13241,
+          "listed_count": 21,
+          "media_count": 60,
+          "tweet_count": 978
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T01:22:28.000Z",
+        "description": "跟着杰杰走，快乐天天有！\n这里是杰杰的分享小屋\n04  Switch  1i  esfj  直男 服务型  巨蟹  艺术生\n一天不🦌积阳德    两天不🦌积积阳阳德\n@X17214169   暴露癖小号  只过互关\nhttps://t.co/xP13fLtZC0  请找我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "X17214169"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/1721416xsj",
+                "end": 131,
+                "expanded_url": "https://ngl.link/1721416xsj",
+                "start": 108,
+                "url": "https://t.co/xP13fLtZC0"
+              }
+            ]
+          }
+        },
+        "id": "1712639858995294208",
+        "location": "布吉岛",
+        "name": "杰杰",
+        "pinned_tweet_id": "2045368009553052137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485929021616128/uwnw1QCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3343,
+          "following_count": 647,
+          "like_count": 39109,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 8580
+        },
+        "username": "x1721416",
+        "verified": false
+      }
+    ]
+  }
+}

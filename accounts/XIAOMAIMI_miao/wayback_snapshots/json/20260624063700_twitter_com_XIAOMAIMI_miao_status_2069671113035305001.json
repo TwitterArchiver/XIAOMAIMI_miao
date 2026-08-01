@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2069671113035305001",
+    "created_at": "2026-06-24T06:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T07:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069671113035305001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622114910133002241",
+          "start": 3,
+          "username": "xsh19068663"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069671113035305001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050876761475621145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xsh19068663: 我现在只能和有女性特质的男生做朋友。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2069671113035305001",
+        "created_at": "2026-06-24T06:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069671113035305001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622114910133002241",
+              "start": 3,
+              "username": "xsh19068663"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069671113035305001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050876761475621145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xsh19068663: 我现在只能和有女性特质的男生做朋友。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622114910133002241",
+        "conversation_id": "2050876761475621145",
+        "created_at": "2026-05-03T09:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050876761475621145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050876761475621145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 52553,
+          "like_count": 489,
+          "quote_count": 6,
+          "reply_count": 65,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我现在只能和有女性特质的男生做朋友。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8356,
+          "following_count": 233,
+          "like_count": 23907,
+          "listed_count": 28,
+          "media_count": 40,
+          "tweet_count": 2274
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T06:08:55.000Z",
+        "description": "朋友，我们只是网友，你把手机往地上一摔我就死了，不要再辱骂我了，放下手里的屠刀，佛在救你。\n匿名提问链接https://t.co/od9N959uey",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%80%81%E5%8…",
+                "end": 75,
+                "expanded_url": "https://ngl.link/%E8%80%81%E5%85%AC%E7%A1%AC%E7%A1%AC%E7%9A%84%E5%8E%9F%E6%9D%A5%E6%98%AF%E6%AD%BB%E4%BA%86",
+                "start": 52,
+                "url": "https://t.co/od9N959uey"
+              }
+            ]
+          }
+        },
+        "id": "1622114910133002241",
+        "location": "2.4km  ",
+        "name": "老公硬硬的原来是死了",
+        "pinned_tweet_id": "2025389471706050656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047853531894624256/uIrZEsBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 380,
+          "like_count": 2204,
+          "listed_count": 6,
+          "media_count": 257,
+          "tweet_count": 3217
+        },
+        "url": "",
+        "username": "xsh19068663",
+        "verified": false
+      }
+    ]
+  }
+}

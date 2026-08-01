@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054810643736473600"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2054810646383112564",
+    "created_at": "2026-05-14T06:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T07:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054810646383112564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Rex0MgZfE",
+          "end": 39,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2054810646383112564/photo/1",
+          "media_key": "3_2054810643736473600",
+          "start": 16,
+          "url": "https://t.co/7Rex0MgZfE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054810646383112564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道回啥，统一礼貌回复谢谢。 https://t.co/7Rex0MgZfE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2054810643736473600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQnZMSasAAEB_j.jpg",
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054810643736473600"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2054810646383112564",
+        "created_at": "2026-05-14T06:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054810646383112564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Rex0MgZfE",
+              "end": 39,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2054810646383112564/photo/1",
+              "media_key": "3_2054810643736473600",
+              "start": 16,
+              "url": "https://t.co/7Rex0MgZfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054810646383112564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道回啥，统一礼貌回复谢谢。 https://t.co/7Rex0MgZfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7104,
+          "following_count": 198,
+          "like_count": 18509,
+          "listed_count": 26,
+          "media_count": 202,
+          "tweet_count": 2072
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2060394207446266144",
+    "created_at": "2026-05-30T04:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060574775844675798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "88433453",
+          "start": 0,
+          "username": "Xx1aoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060574775844675798",
+    "in_reply_to_user_id": "88433453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060394207446266144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xx1aoR 生日快乐！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2060394207446266144",
+        "created_at": "2026-05-30T04:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060574775844675798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "88433453",
+              "start": 0,
+              "username": "Xx1aoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060574775844675798",
+        "in_reply_to_user_id": "88433453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060394207446266144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xx1aoR 生日快乐！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "88433453",
+        "conversation_id": "2060394207446266144",
+        "created_at": "2026-05-29T16:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060394207446266144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060394207446266144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1723,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐！\n欢迎各位来我主页看气球( ̀⌄ ́)\n这个大蒜仍在苦苦赶项目TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7924,
+          "following_count": 198,
+          "like_count": 19859,
+          "listed_count": 27,
+          "media_count": 140,
+          "tweet_count": 2159
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-08T14:51:30.000Z",
+        "description": "人｜04｜Dom｜INTJ ｜理想派双子 非著名X幻想短文创作者 ｜欢迎私信分享幻想/XP/play｜树洞：Xx1aoR@outlook.com｜我坦然接受任何人在我生命中的去留，祝你和我都拥有幸福^ ^",
+        "id": "88433453",
+        "location": "苏州/沈阳",
+        "name": "XxiaoR. 𝕏",
+        "pinned_tweet_id": "2049124032361136201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705272740301897729/wq3nA10b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4814,
+          "following_count": 58,
+          "like_count": 57853,
+          "listed_count": 9,
+          "media_count": 156,
+          "tweet_count": 977
+        },
+        "username": "Xx1aoR",
+        "verified": false
+      }
+    ]
+  }
+}

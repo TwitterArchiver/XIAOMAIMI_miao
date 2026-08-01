@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048798942469783794",
+    "created_at": "2026-04-27T16:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048804476375761193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042527769293107200",
+          "start": 0,
+          "username": "vesperiver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048804476375761193",
+    "in_reply_to_user_id": "2042527769293107200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048800261616140394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vesperiver 我感觉我真的是主体性特别差一个人呀，，，我特别想知道该怎么增强自己的主体性！不管是友情还是爱情我都很难保持自己的主体性😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048798942469783794",
+        "created_at": "2026-04-27T16:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048804476375761193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042527769293107200",
+              "start": 0,
+              "username": "vesperiver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048804476375761193",
+        "in_reply_to_user_id": "2042527769293107200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048800261616140394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vesperiver 我感觉我真的是主体性特别差一个人呀，，，我特别想知道该怎么增强自己的主体性！不管是友情还是爱情我都很难保持自己的主体性😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042527769293107200",
+        "conversation_id": "2048798942469783794",
+        "created_at": "2026-04-27T16:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048800261616140394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048800261616140394",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048798942469783794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 宝宝无论什么时候 爱人先爱己 不要对他人的依赖超过对自己的依赖 永远保持自己的主体性ʢ˶ᵒ ᵕ ˂˶ʡᶻ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5998,
+          "following_count": 183,
+          "like_count": 14472,
+          "listed_count": 23,
+          "media_count": 72,
+          "tweet_count": 1206
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T08:59:14.000Z",
+        "description": "任何话语无法概括人的多样性",
+        "id": "2042527769293107200",
+        "name": "ves",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046475390873690112/9mmhyIcJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 113,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 269
+        },
+        "username": "vesperiver",
+        "verified": false
+      }
+    ]
+  }
+}

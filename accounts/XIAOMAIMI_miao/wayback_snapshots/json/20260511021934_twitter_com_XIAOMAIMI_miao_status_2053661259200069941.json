@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2053661259200069941",
+    "created_at": "2026-05-11T02:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T03:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053661259200069941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004245938534338566",
+          "start": 3,
+          "username": "A_Toygun_Piu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053661259200069941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053524683732181248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @A_Toygun_Piu: 男的为了操你什么话都说得出来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2053661259200069941",
+        "created_at": "2026-05-11T02:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053661259200069941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004245938534338566",
+              "start": 3,
+              "username": "A_Toygun_Piu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053661259200069941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053524683732181248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @A_Toygun_Piu: 男的为了操你什么话都说得出来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004245938534338566",
+        "conversation_id": "2053524683732181248",
+        "created_at": "2026-05-10T17:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053524683732181248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053524683732181248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 808,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "男的为了操你什么话都说得出来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6796,
+          "following_count": 193,
+          "like_count": 17480,
+          "listed_count": 26,
+          "media_count": 154,
+          "tweet_count": 1898
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T17:40:58.000Z",
+        "description": "明天太阳照常升起。",
+        "id": "2004245938534338566",
+        "name": "Dejavu",
+        "pinned_tweet_id": "2050264006401941899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022719133998256128/RPk7xPb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 63,
+          "like_count": 4443,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1895
+        },
+        "username": "A_Toygun_Piu",
+        "verified": false
+      }
+    ]
+  }
+}

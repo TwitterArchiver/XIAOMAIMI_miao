@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2051902008232407347",
+    "created_at": "2026-05-06T07:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T08:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051920209150378228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "970315734487244801",
+          "start": 0,
+          "username": "xk09w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051920209150378228",
+    "in_reply_to_user_id": "970315734487244801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051909365452705934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xk09w 我不行了，，，！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2051902008232407347",
+        "created_at": "2026-05-06T07:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051920209150378228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "970315734487244801",
+              "start": 0,
+              "username": "xk09w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051920209150378228",
+        "in_reply_to_user_id": "970315734487244801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051909365452705934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xk09w 我不行了，，，！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "970315734487244801",
+        "conversation_id": "2051902008232407347",
+        "created_at": "2026-05-06T06:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051909365452705934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051909365452705934",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051902008232407347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 蹲，我一直在去油的有头屑，去头屑的油的快中反复横跳🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6484,
+          "following_count": 193,
+          "like_count": 16582,
+          "listed_count": 27,
+          "media_count": 118,
+          "tweet_count": 1692
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-04T15:11:13.000Z",
+        "description": "4ever 🇨🇳🇭🇰🇯🇵🇺🇸Ok\n🦋INFP喜欢碎碎念（也喜欢关注碎碎念账户）\n\n快来向我提问吧！https://t.co/NeLFL1UPbb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/awtx1109",
+                "end": 72,
+                "expanded_url": "https://ngl.link/awtx1109",
+                "start": 49,
+                "url": "https://t.co/NeLFL1UPbb"
+              }
+            ]
+          }
+        },
+        "id": "970315734487244801",
+        "location": "For u Heart",
+        "name": "Xk09w",
+        "pinned_tweet_id": "2042265724203458651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908339329576923136/m0pxbifU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 84,
+          "like_count": 2479,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1233
+        },
+        "username": "xk09w",
+        "verified": false
+      }
+    ]
+  }
+}

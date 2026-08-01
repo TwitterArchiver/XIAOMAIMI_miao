@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066808725592293481",
+    "created_at": "2026-06-16T09:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066808725592293481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018742198356131840",
+          "start": 3,
+          "username": "lilidihv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066808725592293481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066479502759526797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilidihv: 私信的你们别问我能不能认识一下了 你们要是有我互关长得美或者长得帅我肯定跟你们认识一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066808725592293481",
+        "created_at": "2026-06-16T09:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066808725592293481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018742198356131840",
+              "start": 3,
+              "username": "lilidihv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066808725592293481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066479502759526797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilidihv: 私信的你们别问我能不能认识一下了 你们要是有我互关长得美或者长得帅我肯定跟你们认识一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018742198356131840",
+        "conversation_id": "2066479502759526797",
+        "created_at": "2026-06-15T11:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066479502759526797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066479502759526797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3400,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "私信的你们别问我能不能认识一下了 你们要是有我互关长得美或者长得帅我肯定跟你们认识一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8339,
+          "following_count": 216,
+          "like_count": 22705,
+          "listed_count": 28,
+          "media_count": 83,
+          "tweet_count": 2561
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T17:45:43.000Z",
+        "description": "tearsvow｜09 宁性恋 \n\n我妹妹像红豆",
+        "id": "2018742198356131840",
+        "name": "大阪羡澄女",
+        "pinned_tweet_id": "2045187335147622701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062424314507649025/UO3td5Yc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 62,
+          "like_count": 3133,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 5529
+        },
+        "username": "lilidihv",
+        "verified": false
+      }
+    ]
+  }
+}

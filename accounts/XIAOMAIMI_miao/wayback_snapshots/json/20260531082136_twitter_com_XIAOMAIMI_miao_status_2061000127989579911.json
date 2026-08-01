@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2060954518473597376",
+    "created_at": "2026-05-31T08:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061000127989579911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2032275838792863745",
+          "start": 0,
+          "username": "jhon629847"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061000127989579911",
+    "in_reply_to_user_id": "2032275838792863745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060997191272198412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jhon629847 想办法安慰自己中*"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2060954518473597376",
+        "created_at": "2026-05-31T08:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061000127989579911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032275838792863745",
+              "start": 0,
+              "username": "jhon629847"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061000127989579911",
+        "in_reply_to_user_id": "2032275838792863745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060997191272198412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jhon629847 想办法安慰自己中*"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032275838792863745",
+        "conversation_id": "2060954518473597376",
+        "created_at": "2026-05-31T08:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060997191272198412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060997191272198412",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060996973323518345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 哎(ᐡ т  ̫ т ᐡ)居然这样，我也不是很懂唉，可能轻奢会有点贵吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7957,
+          "following_count": 197,
+          "like_count": 19977,
+          "listed_count": 27,
+          "media_count": 146,
+          "tweet_count": 2182
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T02:02:01.000Z",
+        "description": "⸝⸝ʚ̴̶̷̆ ̯ʚ̴̶̷̆⸝⸝制取草莓奶昔需要严谨的清洁工作/问就是头像还是本人/赛博暴露癖/肥宅努力减肥中/不加联系/被ban的大号@Ab55419Mcdowell/最好的朋友@Asher97531",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 68,
+                "username": "Ab55419Mcdowell"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "Asher97531"
+              }
+            ]
+          }
+        },
+        "id": "2032275838792863745",
+        "location": "骚扰我的全都滚啊！！",
+        "name": "草莓奶昔",
+        "pinned_tweet_id": "2040434205306564991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057368729844154368/nt7jnl9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 67,
+          "like_count": 3221,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1540
+        },
+        "username": "jhon629847",
+        "verified": false
+      }
+    ]
+  }
+}

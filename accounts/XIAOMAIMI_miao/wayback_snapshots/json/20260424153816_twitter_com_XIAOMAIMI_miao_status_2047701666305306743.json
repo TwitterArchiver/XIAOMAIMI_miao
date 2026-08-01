@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047695237766889771",
+    "created_at": "2026-04-24T15:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047701666305306743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1958580027517542404",
+          "start": 0,
+          "username": "tsuki678x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047701666305306743",
+    "in_reply_to_user_id": "1958580027517542404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047701007711482098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsuki678x 可以可以！我个人推荐心动系列的星河和大理石系列的长春花，这两个是我觉得手感最好的两个，星河的阻力比长春花大一点。🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047695237766889771",
+        "created_at": "2026-04-24T15:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047701666305306743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1958580027517542404",
+              "start": 0,
+              "username": "tsuki678x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047701666305306743",
+        "in_reply_to_user_id": "1958580027517542404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047701007711482098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsuki678x 可以可以！我个人推荐心动系列的星河和大理石系列的长春花，这两个是我觉得手感最好的两个，星河的阻力比长春花大一点。🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958580027517542404",
+        "conversation_id": "2047695237766889771",
+        "created_at": "2026-04-24T15:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047701007711482098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047701007711482098",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047698026387710015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 少玩点应该没事吧🥺回来我买一个玩一下试试😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5903,
+          "following_count": 178,
+          "like_count": 14038,
+          "listed_count": 20,
+          "media_count": 66,
+          "tweet_count": 1138
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T17:20:59.000Z",
+        "description": "",
+        "id": "1958580027517542404",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "tsuki9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988930872993853440/I5zoiFC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 739,
+          "like_count": 27207,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1417
+        },
+        "username": "tsuki678x",
+        "verified": false
+      }
+    ]
+  }
+}

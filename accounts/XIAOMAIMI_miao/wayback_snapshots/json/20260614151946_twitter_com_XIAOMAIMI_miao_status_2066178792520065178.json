@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066066561186808300",
+    "created_at": "2026-06-14T15:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066178792520065178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1694522252988153856",
+          "start": 0,
+          "username": "aprilalwaysbest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066178792520065178",
+    "in_reply_to_user_id": "1694522252988153856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066178332207788373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aprilalwaysbest 是这样的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T15:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066178792520065178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1694522252988153856",
+              "start": 0,
+              "username": "aprilalwaysbest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066178792520065178",
+        "in_reply_to_user_id": "1694522252988153856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066178332207788373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aprilalwaysbest 是这样的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694522252988153856",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T15:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066178332207788373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066178332207788373",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066068605138334068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我也是…而且我本身学的专业也和老师不太对口 最多可以去中职教 但是完全想不到自己去教书的情况真的感觉再苦再累也不想当老师…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8288,
+          "following_count": 211,
+          "like_count": 22097,
+          "listed_count": 28,
+          "media_count": 116,
+          "tweet_count": 2496
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T01:29:52.000Z",
+        "description": "",
+        "id": "1694522252988153856",
+        "location": "Munich, Germany",
+        "name": "我戏影郁了",
+        "pinned_tweet_id": "2037547851254055325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044081363515781121/PN740-4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 67,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 658
+        },
+        "username": "aprilalwaysbest",
+        "verified": false
+      }
+    ]
+  }
+}

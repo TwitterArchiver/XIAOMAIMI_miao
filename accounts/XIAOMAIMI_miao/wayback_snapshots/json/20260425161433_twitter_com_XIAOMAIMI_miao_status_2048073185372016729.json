@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048073172147482624"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048073185372016729",
+    "created_at": "2026-04-25T16:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048073185372016729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/05NATdjfVG",
+          "end": 84,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2048073185372016729/photo/1",
+          "media_key": "3_2048073172147482624",
+          "start": 61,
+          "url": "https://t.co/05NATdjfVG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048073185372016729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的一天：起床 咒骂 想哥哥 想哥哥 想哥哥 假装努力 摄入食物 想哥哥 想哥哥 毫无原因的犒劳自己 岁月静好 恨所有人 https://t.co/05NATdjfVG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048073172147482624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGw3suvbsAACWin.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048073172147482624"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048073185372016729",
+        "created_at": "2026-04-25T16:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048073185372016729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/05NATdjfVG",
+              "end": 84,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2048073185372016729/photo/1",
+              "media_key": "3_2048073172147482624",
+              "start": 61,
+              "url": "https://t.co/05NATdjfVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048073185372016729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的一天：起床 咒骂 想哥哥 想哥哥 想哥哥 假装努力 摄入食物 想哥哥 想哥哥 毫无原因的犒劳自己 岁月静好 恨所有人 https://t.co/05NATdjfVG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5941,
+          "following_count": 177,
+          "like_count": 14152,
+          "listed_count": 21,
+          "media_count": 69,
+          "tweet_count": 1147
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

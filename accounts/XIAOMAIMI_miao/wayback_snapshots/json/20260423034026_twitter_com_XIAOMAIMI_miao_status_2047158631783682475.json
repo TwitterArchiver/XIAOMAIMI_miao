@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047101780639789555",
+    "created_at": "2026-04-23T03:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T04:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047158631783682475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1611121838645735426",
+          "start": 0,
+          "username": "sx08940315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047158631783682475",
+    "in_reply_to_user_id": "1611121838645735426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047157765064524036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sx08940315 萌物，，，！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047101780639789555",
+        "created_at": "2026-04-23T03:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047158631783682475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1611121838645735426",
+              "start": 0,
+              "username": "sx08940315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047158631783682475",
+        "in_reply_to_user_id": "1611121838645735426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047157765064524036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sx08940315 萌物，，，！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611121838645735426",
+        "conversation_id": "2047101780639789555",
+        "created_at": "2026-04-23T03:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047157765064524036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047157765064524036",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047136338378731865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 这样嘛老师，我每次看到这张总有一种被壁咚强吻的感觉（sry虽然我是♂）🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047105151471915009/afyeBBA8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5869,
+          "following_count": 175,
+          "like_count": 13828,
+          "listed_count": 20,
+          "media_count": 64,
+          "tweet_count": 1083
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T22:06:07.000Z",
+        "description": "",
+        "id": "1611121838645735426",
+        "name": "S9（美乳崇拜）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045486001091641344/K3h2Uit9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 2314,
+          "like_count": 6249,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 430
+        },
+        "username": "sx08940315",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072372965858291712"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2072372979980492876",
+    "created_at": "2026-07-01T17:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072372979980492876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f67sWjMCmv",
+          "end": 84,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2072372979980492876/photo/1",
+          "media_key": "3_2072372965858291712",
+          "start": 61,
+          "url": "https://t.co/f67sWjMCmv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072372979980492876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果欺负一个很艰辛、很无力、很用心、很艰难且崩溃地活着的小女孩会让你觉得特别有成就感，那你就当我什么也没说吧，你这坏蛋。 https://t.co/f67sWjMCmv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2072372965858291712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKMO4gbMAAUuIY.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072372965858291712"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2072372979980492876",
+        "created_at": "2026-07-01T17:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072372979980492876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f67sWjMCmv",
+              "end": 84,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2072372979980492876/photo/1",
+              "media_key": "3_2072372965858291712",
+              "start": 61,
+              "url": "https://t.co/f67sWjMCmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072372979980492876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果欺负一个很艰辛、很无力、很用心、很艰难且崩溃地活着的小女孩会让你觉得特别有成就感，那你就当我什么也没说吧，你这坏蛋。 https://t.co/f67sWjMCmv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8487,
+          "following_count": 238,
+          "like_count": 25048,
+          "listed_count": 28,
+          "media_count": 59,
+          "tweet_count": 2390
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

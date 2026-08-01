@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2071459547441709442",
+    "created_at": "2026-06-29T07:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T08:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071489455756828804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810370123137691650",
+          "start": 0,
+          "username": "banyahahahaha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071489455756828804",
+    "in_reply_to_user_id": "1810370123137691650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071469487254331699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banyahahahaha 我就是青铜本地人啊，，，！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2071459547441709442",
+        "created_at": "2026-06-29T07:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071489455756828804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1810370123137691650",
+              "start": 0,
+              "username": "banyahahahaha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071489455756828804",
+        "in_reply_to_user_id": "1810370123137691650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071469487254331699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banyahahahaha 我就是青铜本地人啊，，，！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810370123137691650",
+        "conversation_id": "2071459547441709442",
+        "created_at": "2026-06-29T05:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071469487254331699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071469487254331699",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071459547441709442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 1.93kd 这么高，别炸我青铜兄弟了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8471,
+          "following_count": 236,
+          "like_count": 24615,
+          "listed_count": 28,
+          "media_count": 55,
+          "tweet_count": 2350
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T17:47:40.000Z",
+        "description": "可恶为什么总是睡不醒/睡不着？",
+        "id": "1810370123137691650",
+        "name": "TAT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853507393122304/OWWd0J98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 13,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "banyahahahaha",
+        "verified": false
+      }
+    ]
+  }
+}

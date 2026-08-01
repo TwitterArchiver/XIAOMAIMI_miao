@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2073288415257231724",
+    "created_at": "2026-07-05T14:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073779180861538651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2017508458015428611",
+          "start": 0,
+          "username": "gu_yue1133"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073779180861538651",
+    "in_reply_to_user_id": "2017508458015428611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073775657004482682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu_yue1133 张钊叔叔抽烟好帅我是小学生我也要学🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2073288415257231724",
+        "created_at": "2026-07-05T14:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073779180861538651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017508458015428611",
+              "start": 0,
+              "username": "gu_yue1133"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073779180861538651",
+        "in_reply_to_user_id": "2017508458015428611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073775657004482682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu_yue1133 张钊叔叔抽烟好帅我是小学生我也要学🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017508458015428611",
+        "conversation_id": "2073288415257231724",
+        "created_at": "2026-07-05T14:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073775657004482682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073775657004482682",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073288415257231724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 张钊叔叔抽烟好帅我是小学生我也要学🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8580,
+          "following_count": 245,
+          "like_count": 25668,
+          "listed_count": 28,
+          "media_count": 55,
+          "tweet_count": 2416
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-31T08:01:27.000Z",
+        "description": "🈚",
+        "id": "2017508458015428611",
+        "name": "凉拌玛卡巴卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039812905299005440/mYyGE8zs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 51,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "gu_yue1133",
+        "verified": false
+      }
+    ]
+  }
+}

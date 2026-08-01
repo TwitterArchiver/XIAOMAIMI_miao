@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066173607802503596",
+    "created_at": "2026-06-14T15:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066175189487075448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2041748267567083525",
+          "start": 0,
+          "username": "Uuyyoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066175189487075448",
+    "in_reply_to_user_id": "2041748267567083525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066174778315309194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uuyyoe 真可惜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066173607802503596",
+        "created_at": "2026-06-14T15:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066175189487075448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041748267567083525",
+              "start": 0,
+              "username": "Uuyyoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066175189487075448",
+        "in_reply_to_user_id": "2041748267567083525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066174778315309194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uuyyoe 真可惜。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041748267567083525",
+        "conversation_id": "2066173607802503596",
+        "created_at": "2026-06-14T15:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066174778315309194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066174778315309194",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066173607802503596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 怀念在本科操场吹晚风喝酒玩游戏的日子 研究生这里特别偏操场学校都没啥人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8288,
+          "following_count": 211,
+          "like_count": 22088,
+          "listed_count": 28,
+          "media_count": 116,
+          "tweet_count": 2493
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T05:22:47.000Z",
+        "description": "",
+        "id": "2041748267567083525",
+        "name": "oahjdks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041751447432523779/ttrvILpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 29,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 135
+        },
+        "username": "Uuyyoe",
+        "verified": false
+      }
+    ]
+  }
+}

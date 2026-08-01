@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051690075470352385",
+        "3_2051690076275605504",
+        "3_2051690075512340480"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2051690083724726611",
+    "created_at": "2026-05-05T15:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051690083724726611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ooMN9l8PJ",
+          "end": 28,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2051690083724726611/photo/1",
+          "media_key": "3_2051690075470352385",
+          "start": 5,
+          "url": "https://t.co/0ooMN9l8PJ"
+        },
+        {
+          "display_url": "pic.x.com/0ooMN9l8PJ",
+          "end": 28,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2051690083724726611/photo/1",
+          "media_key": "3_2051690076275605504",
+          "start": 5,
+          "url": "https://t.co/0ooMN9l8PJ"
+        },
+        {
+          "display_url": "pic.x.com/0ooMN9l8PJ",
+          "end": 28,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2051690083724726611/photo/1",
+          "media_key": "3_2051690075512340480",
+          "start": 5,
+          "url": "https://t.co/0ooMN9l8PJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051690083724726611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "＾＾回答 https://t.co/0ooMN9l8PJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_2051690075470352385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkRQNma0AEo-Ij.jpg",
+        "width": 1272
+      },
+      {
+        "height": 1344,
+        "media_key": "3_2051690076275605504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkRQQmaAAA8Mfd.jpg",
+        "width": 1272
+      },
+      {
+        "height": 1331,
+        "media_key": "3_2051690075512340480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkRQNwbgAAKO-b.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051690075470352385",
+            "3_2051690076275605504",
+            "3_2051690075512340480"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2051690083724726611",
+        "created_at": "2026-05-05T15:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051690083724726611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ooMN9l8PJ",
+              "end": 28,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2051690083724726611/photo/1",
+              "media_key": "3_2051690075470352385",
+              "start": 5,
+              "url": "https://t.co/0ooMN9l8PJ"
+            },
+            {
+              "display_url": "pic.x.com/0ooMN9l8PJ",
+              "end": 28,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2051690083724726611/photo/1",
+              "media_key": "3_2051690076275605504",
+              "start": 5,
+              "url": "https://t.co/0ooMN9l8PJ"
+            },
+            {
+              "display_url": "pic.x.com/0ooMN9l8PJ",
+              "end": 28,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2051690083724726611/photo/1",
+              "media_key": "3_2051690075512340480",
+              "start": 5,
+              "url": "https://t.co/0ooMN9l8PJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051690083724726611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＾＾回答 https://t.co/0ooMN9l8PJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6466,
+          "following_count": 192,
+          "like_count": 16537,
+          "listed_count": 27,
+          "media_count": 118,
+          "tweet_count": 1686
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

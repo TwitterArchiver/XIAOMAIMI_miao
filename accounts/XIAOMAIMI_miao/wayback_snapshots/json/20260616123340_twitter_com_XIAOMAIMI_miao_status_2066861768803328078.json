@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066828250438054379",
+    "created_at": "2026-06-16T12:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066861768803328078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882843355744518144",
+          "start": 0,
+          "username": "Desperad21966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066861768803328078",
+    "in_reply_to_user_id": "1882843355744518144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066861255135269186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Desperad21966 朝日之前有一个粉罐罐的上面画了小花的，那个不苦而且香香的，，，🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066828250438054379",
+        "created_at": "2026-06-16T12:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066861768803328078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882843355744518144",
+              "start": 0,
+              "username": "Desperad21966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066861768803328078",
+        "in_reply_to_user_id": "1882843355744518144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066861255135269186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Desperad21966 朝日之前有一个粉罐罐的上面画了小花的，那个不苦而且香香的，，，🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882843355744518144",
+        "conversation_id": "2066828250438054379",
+        "created_at": "2026-06-16T12:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066861255135269186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066861255135269186",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066859430290018588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 好像说日本啤酒都是偏苦的？自从喝了麒麟以后再也没喝过日本啤酒🥲真的太苦了，同价位喝科罗娜多点。推荐粉象和罗斯福 10 号  真的很猛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8349,
+          "following_count": 219,
+          "like_count": 22822,
+          "listed_count": 29,
+          "media_count": 85,
+          "tweet_count": 2581
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T17:30:25.000Z",
+        "description": "因世上的摯愛 是不計較條件",
+        "id": "1882843355744518144",
+        "location": "San Francisco, CA",
+        "name": "尘大师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062946032544264192/NhI4dfQC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 38,
+          "like_count": 3153,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 307
+        },
+        "username": "Desperad21966",
+        "verified": false
+      }
+    ]
+  }
+}

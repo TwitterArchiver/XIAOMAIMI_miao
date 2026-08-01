@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2051771035788464285",
+    "created_at": "2026-05-06T04:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051879706862186506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613468646323675138",
+          "start": 0,
+          "username": "QiuMoDesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051879706862186506",
+    "in_reply_to_user_id": "1613468646323675138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051771035788464285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuMoDesu 万一对面打呼噜磨牙那你咋治"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2051771035788464285",
+        "created_at": "2026-05-06T04:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051879706862186506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613468646323675138",
+              "start": 0,
+              "username": "QiuMoDesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051879706862186506",
+        "in_reply_to_user_id": "1613468646323675138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051771035788464285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuMoDesu 万一对面打呼噜磨牙那你咋治"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613468646323675138",
+        "conversation_id": "2051771035788464285",
+        "created_at": "2026-05-05T21:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T22:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051771035788464285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051771035788464285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是连麦睡觉就是很幸福啊。感觉就是爱人在身边的样子，虽然无法拥抱但是就像两个人面对面一样，仔细听着对方的呼吸，仿佛陪在对方身旁，好幸福、好美好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6484,
+          "following_count": 193,
+          "like_count": 16560,
+          "listed_count": 27,
+          "media_count": 119,
+          "tweet_count": 1689
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-12T09:31:24.000Z",
+        "description": "赛博算卦小摊+不知名碎碎念bot，偶尔也作为不知名歌手。匿名箱：https://t.co/IdcRbxn7bO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kanamesamui",
+                "end": 55,
+                "expanded_url": "https://ngl.link/kanamesamui",
+                "start": 32,
+                "url": "https://t.co/IdcRbxn7bO"
+              }
+            ]
+          }
+        },
+        "id": "1613468646323675138",
+        "name": "秋墨",
+        "pinned_tweet_id": "2046664239021212075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046659728823267328/2SJDRDyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 43,
+          "like_count": 6383,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 603
+        },
+        "username": "QiuMoDesu",
+        "verified": false
+      }
+    ]
+  }
+}

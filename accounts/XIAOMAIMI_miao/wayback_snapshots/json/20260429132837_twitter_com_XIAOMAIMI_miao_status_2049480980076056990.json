@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049343732668080166",
+    "created_at": "2026-04-29T13:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049480980076056990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671166664732442625",
+          "start": 0,
+          "username": "mlttu19655363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049480980076056990",
+    "in_reply_to_user_id": "1671166664732442625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049479405869859231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mlttu19655363 高敏来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049343732668080166",
+        "created_at": "2026-04-29T13:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049480980076056990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671166664732442625",
+              "start": 0,
+              "username": "mlttu19655363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049480980076056990",
+        "in_reply_to_user_id": "1671166664732442625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049479405869859231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mlttu19655363 高敏来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671166664732442625",
+        "conversation_id": "2049343732668080166",
+        "created_at": "2026-04-29T13:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049479405869859231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049479405869859231",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049343732668080166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 小麦反应好快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6210,
+          "following_count": 191,
+          "like_count": 15221,
+          "listed_count": 27,
+          "media_count": 91,
+          "tweet_count": 1427
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T14:42:44.000Z",
+        "description": "",
+        "id": "1671166664732442625",
+        "name": "我好无语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042347775925555200/lfSv9ct3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 128,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 80
+        },
+        "username": "mlttu19655363",
+        "verified": false
+      }
+    ]
+  }
+}

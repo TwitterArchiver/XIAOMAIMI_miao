@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054656535553605632"
+      ],
+      "media_source_tweet_id": [
+        "2054656580885586244"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2054886239413899478",
+    "created_at": "2026-05-14T11:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054886239413899478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tEeFafPqIv",
+          "end": 42,
+          "expanded_url": "https://x.com/hsn8086/status/2054656580885586244/photo/1",
+          "media_key": "3_2054656535553605632",
+          "start": 19,
+          "url": "https://t.co/tEeFafPqIv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054886239413899478",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054656580885586244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: 27655 https://t.co/tEeFafPqIv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2054656535553605632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIObO6kbgAAkDZA.jpg",
+        "width": 975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054656535553605632"
+          ],
+          "media_source_tweet_id": [
+            "2054656580885586244"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2054886239413899478",
+        "created_at": "2026-05-14T11:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054886239413899478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433678976564662273",
+              "start": 3,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEeFafPqIv",
+              "end": 42,
+              "expanded_url": "https://x.com/hsn8086/status/2054656580885586244/photo/1",
+              "media_key": "3_2054656535553605632",
+              "start": 19,
+              "url": "https://t.co/tEeFafPqIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054886239413899478",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054656580885586244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086: 27655 https://t.co/tEeFafPqIv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054656535553605632"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2054656580885586244",
+        "created_at": "2026-05-13T20:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T21:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054656580885586244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEeFafPqIv",
+              "end": 29,
+              "expanded_url": "https://x.com/hsn8086/status/2054656580885586244/photo/1",
+              "media_key": "3_2054656535553605632",
+              "start": 6,
+              "url": "https://t.co/tEeFafPqIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054656580885586244",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4996,
+          "like_count": 326,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "27655 https://t.co/tEeFafPqIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7151,
+          "following_count": 198,
+          "like_count": 18554,
+          "listed_count": 26,
+          "media_count": 206,
+          "tweet_count": 2080
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120049,
+          "following_count": 1120,
+          "like_count": 52322,
+          "listed_count": 290,
+          "media_count": 21494,
+          "tweet_count": 31946
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

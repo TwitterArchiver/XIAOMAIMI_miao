@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047592406359675212",
+    "created_at": "2026-04-24T08:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047599527931376077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1611121838645735426",
+          "start": 0,
+          "username": "sx08940315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047599527931376077",
+    "in_reply_to_user_id": "1611121838645735426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047595809634652475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sx08940315 我草，有品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047592406359675212",
+        "created_at": "2026-04-24T08:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047599527931376077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1611121838645735426",
+              "start": 0,
+              "username": "sx08940315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047599527931376077",
+        "in_reply_to_user_id": "1611121838645735426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047595809634652475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sx08940315 我草，有品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611121838645735426",
+        "conversation_id": "2047592406359675212",
+        "created_at": "2026-04-24T08:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047595809634652475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047595809634652475",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047592406359675212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 呃呃呃，你只用知道我穿了dsp就够了☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5885,
+          "following_count": 178,
+          "like_count": 13951,
+          "listed_count": 20,
+          "media_count": 66,
+          "tweet_count": 1115
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T22:06:07.000Z",
+        "description": "欣赏美，享受美，赞扬美。",
+        "id": "1611121838645735426",
+        "name": "S9（美乳崇拜）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045486001091641344/K3h2Uit9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 2328,
+          "like_count": 6501,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 466
+        },
+        "username": "sx08940315",
+        "verified": false
+      }
+    ]
+  }
+}

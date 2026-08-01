@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049016822226452687",
+    "created_at": "2026-04-28T13:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049123376736977290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1596863151814766594",
+          "start": 0,
+          "username": "Cc123456789ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049123376736977290",
+    "in_reply_to_user_id": "1596863151814766594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049103055640273242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cc123456789ovo 爱恨纠缠生生世世，，，！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049016822226452687",
+        "created_at": "2026-04-28T13:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049123376736977290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596863151814766594",
+              "start": 0,
+              "username": "Cc123456789ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049123376736977290",
+        "in_reply_to_user_id": "1596863151814766594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049103055640273242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cc123456789ovo 爱恨纠缠生生世世，，，！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596863151814766594",
+        "conversation_id": "2049016822226452687",
+        "created_at": "2026-04-28T12:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049103055640273242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049103055640273242",
+        "in_reply_to_user_id": "1596863151814766594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049102931757248636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 爱恨纠缠生生世世！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6123,
+          "following_count": 188,
+          "like_count": 14811,
+          "listed_count": 27,
+          "media_count": 80,
+          "tweet_count": 1306
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T13:47:56.000Z",
+        "description": "喜欢瞎说点小几把话",
+        "id": "1596863151814766594",
+        "name": "心心欧尼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993136806070452225/p1PrRvkB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 48,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 455
+        },
+        "username": "Cc123456789ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2054219478121287680"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2054219495762518073",
+    "created_at": "2026-05-12T15:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054219495762518073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sX0Bm4erJ6",
+          "end": 33,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2054219495762518073/video/1",
+          "media_key": "7_2054219478121287680",
+          "start": 10,
+          "url": "https://t.co/sX0Bm4erJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054219495762518073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坏孩子会被惩罚＾＾ https://t.co/sX0Bm4erJ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2693,
+        "height": 720,
+        "media_key": "7_2054219478121287680",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2054219478121287680/pu/img/EjEsM92eJc3TOJD4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054219478121287680/pu/vid/avc1/360x270/CPSc-xqhcAPY1Hvg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054219478121287680/pu/vid/avc1/480x360/I212JnlKglTsnZ71.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054219478121287680/pu/vid/avc1/960x720/mE21BSkxmMCAXIUA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2054219478121287680/pu/pl/icKaUVD-XzmF0SgH.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2054219478121287680"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2054219495762518073",
+        "created_at": "2026-05-12T15:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054219495762518073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sX0Bm4erJ6",
+              "end": 33,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2054219495762518073/video/1",
+              "media_key": "7_2054219478121287680",
+              "start": 10,
+              "url": "https://t.co/sX0Bm4erJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054219495762518073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏孩子会被惩罚＾＾ https://t.co/sX0Bm4erJ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7025,
+          "following_count": 196,
+          "like_count": 18134,
+          "listed_count": 26,
+          "media_count": 180,
+          "tweet_count": 2000
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066066561186808300",
+    "created_at": "2026-06-15T10:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066475601154978066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1633019336528125952",
+          "start": 0,
+          "username": "www86625615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066475601154978066",
+    "in_reply_to_user_id": "1633019336528125952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066474763950886965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@www86625615 能做到很厉害！夸一夸！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-15T10:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066475601154978066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1633019336528125952",
+              "start": 0,
+              "username": "www86625615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066475601154978066",
+        "in_reply_to_user_id": "1633019336528125952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066474763950886965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@www86625615 能做到很厉害！夸一夸！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633019336528125952",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-15T10:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066474763950886965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066474763950886965",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066066561186808300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 辞职考研那段时间真的没法回忆，还好我做到了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8306,
+          "following_count": 213,
+          "like_count": 22397,
+          "listed_count": 28,
+          "media_count": 118,
+          "tweet_count": 2523
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T08:18:51.000Z",
+        "description": "190，93kg   训练生活日记\n\n只有日常和训练照片。水平有限还在提高，希望能做一个高手。",
+        "id": "1633019336528125952",
+        "name": "上原",
+        "pinned_tweet_id": "1918950502861095373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773394439223779328/zx-FMSlM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5799,
+          "following_count": 267,
+          "like_count": 1867,
+          "listed_count": 16,
+          "media_count": 182,
+          "tweet_count": 2503
+        },
+        "username": "www86625615",
+        "verified": false
+      }
+    ]
+  }
+}

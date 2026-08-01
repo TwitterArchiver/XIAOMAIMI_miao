@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055857471374385152"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2055857477401628978",
+    "created_at": "2026-05-17T03:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055857477401628978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/80QtBq2hqm",
+          "end": 23,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2055857477401628978/photo/1",
+          "media_key": "3_2055857471374385152",
+          "start": 0,
+          "url": "https://t.co/80QtBq2hqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055857477401628978",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/80QtBq2hqm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1298,
+        "media_key": "3_2055857471374385152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIffelIaYAAoA6h.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055857471374385152"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2055857477401628978",
+        "created_at": "2026-05-17T03:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055857477401628978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/80QtBq2hqm",
+              "end": 23,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2055857477401628978/photo/1",
+              "media_key": "3_2055857471374385152",
+              "start": 0,
+              "url": "https://t.co/80QtBq2hqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055857477401628978",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/80QtBq2hqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7506,
+          "following_count": 196,
+          "like_count": 18964,
+          "listed_count": 26,
+          "media_count": 217,
+          "tweet_count": 2113
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

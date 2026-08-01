@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2054171645028519964",
+    "created_at": "2026-05-12T12:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054171645028519964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858042250158358528",
+          "start": 3,
+          "username": "zxy1473129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054171645028519964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054133214793646559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zxy1473129: 有人能懂男生do的时候那种粗喘声吗？不是那种特意发出来的淫叫而是隐忍克制的闷声喘息……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2054171645028519964",
+        "created_at": "2026-05-12T12:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054171645028519964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858042250158358528",
+              "start": 3,
+              "username": "zxy1473129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054171645028519964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054133214793646559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zxy1473129: 有人能懂男生do的时候那种粗喘声吗？不是那种特意发出来的淫叫而是隐忍克制的闷声喘息……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858042250158358528",
+        "conversation_id": "2054133214793646559",
+        "created_at": "2026-05-12T09:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054133214793646559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054133214793646559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4830,
+          "like_count": 100,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人能懂男生do的时候那种粗喘声吗？不是那种特意发出来的淫叫而是隐忍克制的闷声喘息……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7017,
+          "following_count": 196,
+          "like_count": 18071,
+          "listed_count": 26,
+          "media_count": 179,
+          "tweet_count": 1998
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T06:59:36.000Z",
+        "description": "|07|无门槛|纯吐槽|怨气很大|绿色玩家|\n觉得我有趣可以给我money而不是选择骚扰我 ꒦ິ^꒦ິ\n（骚扰我骂你全家你就受着吧）",
+        "id": "1858042250158358528",
+        "location": "神仙国",
+        "name": "Ruruuuuu",
+        "pinned_tweet_id": "2052685427602321444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051259844838207488/auq7BQZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 15,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 161
+        },
+        "username": "zxy1473129",
+        "verified": false
+      }
+    ]
+  }
+}

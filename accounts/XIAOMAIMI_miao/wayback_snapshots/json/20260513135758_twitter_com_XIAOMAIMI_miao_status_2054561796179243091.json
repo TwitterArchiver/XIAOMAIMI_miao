@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2054430605883130285",
+    "created_at": "2026-05-13T13:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054561796179243091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003090953859686401",
+          "start": 0,
+          "username": "k1llIng3talK1ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054561796179243091",
+    "in_reply_to_user_id": "2003090953859686401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054561636589895911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k1llIng3talK1ng 答：不一定有什么危险，但是最好不要！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2054430605883130285",
+        "created_at": "2026-05-13T13:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054561796179243091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003090953859686401",
+              "start": 0,
+              "username": "k1llIng3talK1ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054561796179243091",
+        "in_reply_to_user_id": "2003090953859686401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054561636589895911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k1llIng3talK1ng 答：不一定有什么危险，但是最好不要！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003090953859686401",
+        "conversation_id": "2054430605883130285",
+        "created_at": "2026-05-13T13:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054561636589895911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054561636589895911",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054430605883130285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我是山西人哦（这样自爆会有什么危险吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7085,
+          "following_count": 197,
+          "like_count": 18371,
+          "listed_count": 26,
+          "media_count": 193,
+          "tweet_count": 2047
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T13:11:26.000Z",
+        "description": "就别再关注我 别再用观念关住我",
+        "id": "2003090953859686401",
+        "name": "K0dokush1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003091079353036800/jM-wOO22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 280,
+          "like_count": 3962,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 242
+        },
+        "username": "k1llIng3talK1ng",
+        "verified": false
+      }
+    ]
+  }
+}

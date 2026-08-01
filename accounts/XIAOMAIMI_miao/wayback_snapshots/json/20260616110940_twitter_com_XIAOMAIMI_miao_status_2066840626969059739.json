@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066840626969059739",
+    "created_at": "2026-06-16T11:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T12:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066840626969059739"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066840626969059739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是小宝 是哥哥 是想成为钊哥这样的人 是和你做过的所有事情我都记得 是为爱冲锋真爱无敌 是你可以叫我一声老公吗 是钊钊哥哥的话怎么样都可以的哦 是永相随飞吧 是没事你想要什么我都给你 是我不喜欢女的我只喜欢你啊郑永康 是我以为我说的哥哥都会听 是老子恨不得变成女的老子嫁给你 是我陪你一起退役"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066840626969059739",
+        "created_at": "2026-06-16T11:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066840626969059739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066840626969059739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是小宝 是哥哥 是想成为钊哥这样的人 是和你做过的所有事情我都记得 是为爱冲锋真爱无敌 是你可以叫我一声老公吗 是钊钊哥哥的话怎么样都可以的哦 是永相随飞吧 是没事你想要什么我都给你 是我不喜欢女的我只喜欢你啊郑永康 是我以为我说的哥哥都会听 是老子恨不得变成女的老子嫁给你 是我陪你一起退役"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8346,
+          "following_count": 217,
+          "like_count": 22786,
+          "listed_count": 28,
+          "media_count": 85,
+          "tweet_count": 2577
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

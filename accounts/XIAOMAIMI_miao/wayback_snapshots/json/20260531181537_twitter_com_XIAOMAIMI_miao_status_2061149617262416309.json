@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2060954518473597376",
+    "created_at": "2026-05-31T18:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T19:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061149617262416309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887920216094687233",
+          "start": 0,
+          "username": "Lu123Yitong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061149617262416309",
+    "in_reply_to_user_id": "1887920216094687233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061144475502526481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lu123Yitong 我准备一只手蓝色一只手紫色/粉色！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2060954518473597376",
+        "created_at": "2026-05-31T18:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061149617262416309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887920216094687233",
+              "start": 0,
+              "username": "Lu123Yitong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061149617262416309",
+        "in_reply_to_user_id": "1887920216094687233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061144475502526481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lu123Yitong 我准备一只手蓝色一只手紫色/粉色！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887920216094687233",
+        "conversation_id": "2060954518473597376",
+        "created_at": "2026-05-31T17:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061144475502526481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061144475502526481",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060969796746039469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao @xu0657083917039 这个好看！宝宝你打算另外一只手做什么颜色，我都想做了🤤我学过美甲，这个不难，只有中指是手绘，其他都是美甲店常规材料。160有点小贵，周三如果她做得不好咱就换一家！期待做好的效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ\n酸酸又瑟瑟文稿发在这边@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7965,
+          "following_count": 198,
+          "like_count": 20043,
+          "listed_count": 27,
+          "media_count": 143,
+          "tweet_count": 2187
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T17:44:04.000Z",
+        "description": "06. 165/110 82/66/93",
+        "id": "1887920216094687233",
+        "name": "颊舌面搞反之人",
+        "pinned_tweet_id": "2048611191300469244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048457276416200704/CRv-AHEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 290,
+          "like_count": 173,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 112
+        },
+        "username": "Lu123Yitong",
+        "verified": false
+      }
+    ]
+  }
+}

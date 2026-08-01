@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072990278961811456"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2072990368409567613",
+    "created_at": "2026-07-03T10:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072990368409567613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bnDzhvOU6V",
+          "end": 45,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2072990368409567613/video/1",
+          "media_key": "13_2072990278961811456",
+          "start": 22,
+          "url": "https://t.co/bnDzhvOU6V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072990368409567613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一觉醒来又没有哥哥的消息 救命 白睡T^T https://t.co/bnDzhvOU6V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35433,
+        "height": 720,
+        "media_key": "13_2072990278961811456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072990278961811456/img/Ngkf_Vm98PQRs5uB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072990278961811456/vid/avc1/480x270/tXVcTDXRXaqvFVgS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072990278961811456/vid/avc1/640x360/lzc3ypoHxvTBITTS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072990278961811456/vid/avc1/1280x720/Z_NDlgKMPtF-cIqZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072990278961811456/pl/z-Z0l_FY-dngYplH.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072990278961811456"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2072990368409567613",
+        "created_at": "2026-07-03T10:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072990368409567613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bnDzhvOU6V",
+              "end": 45,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2072990368409567613/video/1",
+              "media_key": "13_2072990278961811456",
+              "start": 22,
+              "url": "https://t.co/bnDzhvOU6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072990368409567613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一觉醒来又没有哥哥的消息 救命 白睡T^T https://t.co/bnDzhvOU6V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8505,
+          "following_count": 242,
+          "like_count": 25419,
+          "listed_count": 28,
+          "media_count": 53,
+          "tweet_count": 2383
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

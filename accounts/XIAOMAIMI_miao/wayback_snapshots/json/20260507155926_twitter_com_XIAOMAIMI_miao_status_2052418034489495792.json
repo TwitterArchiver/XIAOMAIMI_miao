@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2052418015988510720"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052418034489495792",
+    "created_at": "2026-05-07T15:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052418034489495792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XdYQLMgqR9",
+          "end": 42,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2052418034489495792/video/1",
+          "media_key": "7_2052418015988510720",
+          "start": 19,
+          "url": "https://t.co/XdYQLMgqR9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052418034489495792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "hello妹子们看看麦咪的爪爪不＾＾ https://t.co/XdYQLMgqR9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2886,
+        "height": 1280,
+        "media_key": "7_2052418015988510720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2052418015988510720/pu/img/pQnWzZ77Ck5cQ0sn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052418015988510720/pu/vid/avc1/320x568/POKW_cZtOfIewUo7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052418015988510720/pu/vid/avc1/480x852/4AuZa8myiTpvcGtk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052418015988510720/pu/vid/avc1/720x1280/W78nfjlkG5NoCTBO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2052418015988510720/pu/pl/MK29YVeFOUXvH0rp.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2052418015988510720"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052418034489495792",
+        "created_at": "2026-05-07T15:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052418034489495792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XdYQLMgqR9",
+              "end": 42,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2052418034489495792/video/1",
+              "media_key": "7_2052418015988510720",
+              "start": 19,
+              "url": "https://t.co/XdYQLMgqR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052418034489495792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hello妹子们看看麦咪的爪爪不＾＾ https://t.co/XdYQLMgqR9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6539,
+          "following_count": 192,
+          "like_count": 16875,
+          "listed_count": 27,
+          "media_count": 130,
+          "tweet_count": 1752
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

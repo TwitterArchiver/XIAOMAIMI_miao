@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2063541867405615522",
+    "created_at": "2026-06-07T09:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063552103197610035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1449202189155454980",
+          "start": 0,
+          "username": "Pre_k7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063552103197610035",
+    "in_reply_to_user_id": "1449202189155454980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063551115061535152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pre_k7 就是这样！！！爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2063541867405615522",
+        "created_at": "2026-06-07T09:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063552103197610035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1449202189155454980",
+              "start": 0,
+              "username": "Pre_k7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063552103197610035",
+        "in_reply_to_user_id": "1449202189155454980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063551115061535152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pre_k7 就是这样！！！爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449202189155454980",
+        "conversation_id": "2063541867405615522",
+        "created_at": "2026-06-07T09:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063551115061535152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063551115061535152",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063541867405615522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 既丢了一堆没用的东西还只花1.5买了啤酒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ\n酸酸又瑟瑟文稿发在这边@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8181,
+          "following_count": 200,
+          "like_count": 20698,
+          "listed_count": 30,
+          "media_count": 165,
+          "tweet_count": 2291
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T02:35:16.000Z",
+        "description": "",
+        "id": "1449202189155454980",
+        "name": "橘子糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061346350890201088/zYV8Tcdz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 38,
+          "like_count": 905,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 57
+        },
+        "username": "Pre_k7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049122888947839046",
+    "created_at": "2026-04-28T15:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049153202877235422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797404474295943168",
+          "start": 0,
+          "username": "didibabawuuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049153202877235422",
+    "in_reply_to_user_id": "1797404474295943168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049152954327081122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didibabawuuuuuu 我也是，，，！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049122888947839046",
+        "created_at": "2026-04-28T15:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049153202877235422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797404474295943168",
+              "start": 0,
+              "username": "didibabawuuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049153202877235422",
+        "in_reply_to_user_id": "1797404474295943168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049152954327081122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didibabawuuuuuu 我也是，，，！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797404474295943168",
+        "conversation_id": "2049122888947839046",
+        "created_at": "2026-04-28T15:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049152954327081122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049152954327081122",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049122888947839046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我小时候也是这样特别依赖书，上厕所也要读，后来长大了才知道是因为adhd，我现在在依赖手机😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6129,
+          "following_count": 188,
+          "like_count": 14907,
+          "listed_count": 31,
+          "media_count": 84,
+          "tweet_count": 1341
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T23:06:47.000Z",
+        "description": "",
+        "id": "1797404474295943168",
+        "location": "🇭🇰",
+        "name": "莉莉周",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972995143218442240/ykfPEs7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 185
+        },
+        "username": "didibabawuuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

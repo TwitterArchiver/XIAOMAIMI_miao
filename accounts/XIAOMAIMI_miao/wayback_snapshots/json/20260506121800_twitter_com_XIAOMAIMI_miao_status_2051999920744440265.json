@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2051980840377438634",
+    "created_at": "2026-05-06T12:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051999920744440265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1093526860586078208",
+          "start": 0,
+          "username": "NuddingSyahril"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051999920744440265",
+    "in_reply_to_user_id": "1093526860586078208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051993722322350416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NuddingSyahril 嘿嘿＾＾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2051980840377438634",
+        "created_at": "2026-05-06T12:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051999920744440265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1093526860586078208",
+              "start": 0,
+              "username": "NuddingSyahril"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051999920744440265",
+        "in_reply_to_user_id": "1093526860586078208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051993722322350416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NuddingSyahril 嘿嘿＾＾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1093526860586078208",
+        "conversation_id": "2051980840377438634",
+        "created_at": "2026-05-06T11:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051993722322350416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051993722322350416",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051980840377438634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 美得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6479,
+          "following_count": 191,
+          "like_count": 16655,
+          "listed_count": 28,
+          "media_count": 121,
+          "tweet_count": 1708
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-07T15:08:15.000Z",
+        "description": "没黄色",
+        "id": "1093526860586078208",
+        "name": "收敛水（重启版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937581174492397568/5VHwh_YB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 661,
+          "like_count": 984,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 605
+        },
+        "username": "NuddingSyahril",
+        "verified": false
+      }
+    ]
+  }
+}

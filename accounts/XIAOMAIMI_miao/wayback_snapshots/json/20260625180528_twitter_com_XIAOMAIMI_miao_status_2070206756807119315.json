@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2070206756807119315",
+    "created_at": "2026-06-25T18:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T19:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070206756807119315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038379612678373376",
+          "start": 3,
+          "username": "allHVEM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070206756807119315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070046725948186963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @allHVEM: 希望大众能明白做爱的时候打两下屁股不是bdsm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2070206756807119315",
+        "created_at": "2026-06-25T18:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070206756807119315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038379612678373376",
+              "start": 3,
+              "username": "allHVEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070206756807119315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070046725948186963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @allHVEM: 希望大众能明白做爱的时候打两下屁股不是bdsm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038379612678373376",
+        "conversation_id": "2070046725948186963",
+        "created_at": "2026-06-25T07:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070046725948186963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070046725948186963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12731,
+          "like_count": 225,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "希望大众能明白做爱的时候打两下屁股不是bdsm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8450,
+          "following_count": 233,
+          "like_count": 24234,
+          "listed_count": 28,
+          "media_count": 45,
+          "tweet_count": 2309
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T22:17:56.000Z",
+        "description": "慎言\ndm开放\n@jenhvem 日常",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "jenhvem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/allhvem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/allhvem",
+                "start": 0,
+                "url": "https://t.co/MHaBOvjJVZ"
+              }
+            ]
+          }
+        },
+        "id": "2038379612678373376",
+        "location": "沉舟渡海",
+        "name": "sy",
+        "pinned_tweet_id": "2069427571847204974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048981556170297344/Ipvy5w35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 21,
+          "like_count": 8095,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/MHaBOvjJVZ",
+        "username": "allHVEM",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049033025074425874",
+    "created_at": "2026-04-28T16:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049161797312430477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671166664732442625",
+          "start": 0,
+          "username": "mlttu19655363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049161797312430477",
+    "in_reply_to_user_id": "1671166664732442625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049160934984442251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mlttu19655363 我选择炒鸡！手撕鸡！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049033025074425874",
+        "created_at": "2026-04-28T16:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049161797312430477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671166664732442625",
+              "start": 0,
+              "username": "mlttu19655363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049161797312430477",
+        "in_reply_to_user_id": "1671166664732442625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049160934984442251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mlttu19655363 我选择炒鸡！手撕鸡！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671166664732442625",
+        "conversation_id": "2049033025074425874",
+        "created_at": "2026-04-28T16:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049160934984442251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049160934984442251",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049033025074425874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 白切鸡是最好吃的 然后是椒麻鸡和大盘鸡 嗯！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6136,
+          "following_count": 188,
+          "like_count": 14924,
+          "listed_count": 27,
+          "media_count": 84,
+          "tweet_count": 1349
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T14:42:44.000Z",
+        "description": "",
+        "id": "1671166664732442625",
+        "name": "我好无语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042347775925555200/lfSv9ct3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 123,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 75
+        },
+        "username": "mlttu19655363",
+        "verified": false
+      }
+    ]
+  }
+}

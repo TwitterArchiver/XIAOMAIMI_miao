@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2051168039983583500",
+    "created_at": "2026-05-04T05:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T06:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051171212546736617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587039924913831936",
+          "start": 0,
+          "username": "Chrs_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051171212546736617",
+    "in_reply_to_user_id": "1587039924913831936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051168039983583500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chrs_mua 我去，，，！妈咪这个好！！！多拍两张这个！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1401,
+        "media_key": "3_2051168027622998016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHc2dB0bgAAgaTI.jpg",
+        "width": 1051
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2051168039983583500",
+        "created_at": "2026-05-04T05:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051171212546736617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587039924913831936",
+              "start": 0,
+              "username": "Chrs_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051171212546736617",
+        "in_reply_to_user_id": "1587039924913831936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051168039983583500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chrs_mua 我去，，，！妈咪这个好！！！多拍两张这个！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051168027622998016"
+          ]
+        },
+        "author_id": "1587039924913831936",
+        "conversation_id": "2051168039983583500",
+        "created_at": "2026-05-04T05:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051168039983583500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Orkf0Fitl",
+              "end": 31,
+              "expanded_url": "https://x.com/Chrs_mua/status/2051168039983583500/photo/1",
+              "media_key": "3_2051168027622998016",
+              "start": 8,
+              "url": "https://t.co/1Orkf0Fitl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051168039983583500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 113,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发表了一张图片 https://t.co/1Orkf0Fitl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6315,
+          "following_count": 189,
+          "like_count": 16161,
+          "listed_count": 27,
+          "media_count": 110,
+          "tweet_count": 1622
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T11:13:18.000Z",
+        "description": "随便看看 都很喜欢🩷\n没有🚪 不加🛰 止于推🔚\n有赛博暴露癖 喜欢半夜发疯\n不会再为爱发电了 伤心了 谢谢大家喜欢",
+        "id": "1587039924913831936",
+        "location": "投喂请发口令 给我的gelato加个球🍨",
+        "name": "Chrs",
+        "pinned_tweet_id": "2042641496650695131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957279870712692736/tAUB0yEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31433,
+          "following_count": 54,
+          "like_count": 1193,
+          "listed_count": 66,
+          "media_count": 196,
+          "tweet_count": 953
+        },
+        "username": "Chrs_mua",
+        "verified": false
+      }
+    ]
+  }
+}

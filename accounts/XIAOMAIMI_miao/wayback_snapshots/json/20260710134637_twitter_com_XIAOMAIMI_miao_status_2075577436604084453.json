@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075577423782203392"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2075577436604084453",
+    "created_at": "2026-07-10T13:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075577436604084453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4fADKSWQmW",
+          "end": 85,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2075577436604084453/photo/1",
+          "media_key": "3_2075577423782203392",
+          "start": 62,
+          "url": "https://t.co/4fADKSWQmW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075577436604084453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果能做哥哥的小猫就好了 谁靠近哥哥我就凶谁 但哥哥会以为我是在撒娇 所以哥哥跟别人讲话我只能呆呆的看着 默默掉眼泪TwT https://t.co/4fADKSWQmW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3676,
+        "media_key": "3_2075577423782203392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3uq4hb0AADTsx.jpg",
+        "width": 2758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075577423782203392"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2075577436604084453",
+        "created_at": "2026-07-10T13:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075577436604084453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fADKSWQmW",
+              "end": 85,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2075577436604084453/photo/1",
+              "media_key": "3_2075577423782203392",
+              "start": 62,
+              "url": "https://t.co/4fADKSWQmW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075577436604084453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果能做哥哥的小猫就好了 谁靠近哥哥我就凶谁 但哥哥会以为我是在撒娇 所以哥哥跟别人讲话我只能呆呆的看着 默默掉眼泪TwT https://t.co/4fADKSWQmW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9201,
+          "following_count": 243,
+          "like_count": 26010,
+          "listed_count": 29,
+          "media_count": 60,
+          "tweet_count": 2485
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

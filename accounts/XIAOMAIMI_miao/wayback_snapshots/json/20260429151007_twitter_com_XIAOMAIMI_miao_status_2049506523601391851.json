@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049445329762926939",
+    "created_at": "2026-04-29T15:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049506523601391851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043705346229997569",
+          "start": 0,
+          "username": "AstridXxlov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049506523601391851",
+    "in_reply_to_user_id": "2043705346229997569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049503647407669662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AstridXxlov 天呐小宝宝，，，摸摸你，，，一定要上消炎药啊，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049445329762926939",
+        "created_at": "2026-04-29T15:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049506523601391851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043705346229997569",
+              "start": 0,
+              "username": "AstridXxlov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049506523601391851",
+        "in_reply_to_user_id": "2043705346229997569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049503647407669662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AstridXxlov 天呐小宝宝，，，摸摸你，，，一定要上消炎药啊，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043705346229997569",
+        "conversation_id": "2049445329762926939",
+        "created_at": "2026-04-29T14:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049503647407669662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049503647407669662",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049445329762926939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我耳骨钉已经日常发炎差不多半年了，好痛苦😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6218,
+          "following_count": 191,
+          "like_count": 15251,
+          "listed_count": 27,
+          "media_count": 91,
+          "tweet_count": 1434
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T15:00:38.000Z",
+        "description": "告诉你一个秘密，宝宝，其实好多年以前，我们一起在树林里偷过别的部落的香蕉^ω^",
+        "id": "2043705346229997569",
+        "location": "2✖️384400km",
+        "name": "AstridXxlove",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043736862087622659/tJlGVPkb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 28,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "AstridXxlov",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2054234377417334950",
+    "created_at": "2026-05-12T16:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054234377417334950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893006992303890432",
+          "start": 3,
+          "username": "GUODUEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054234377417334950",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054174494617718930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GUODUEN: 一句不聊骚吓跑所有年上，一句想花钱吓跑所有年下😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2054234377417334950",
+        "created_at": "2026-05-12T16:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054234377417334950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893006992303890432",
+              "start": 3,
+              "username": "GUODUEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054234377417334950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054174494617718930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GUODUEN: 一句不聊骚吓跑所有年上，一句想花钱吓跑所有年下😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893006992303890432",
+        "conversation_id": "2054174494617718930",
+        "created_at": "2026-05-12T12:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054174494617718930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054174494617718930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 784,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一句不聊骚吓跑所有年上，一句想花钱吓跑所有年下😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7026,
+          "following_count": 196,
+          "like_count": 18160,
+          "listed_count": 26,
+          "media_count": 182,
+          "tweet_count": 2004
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T18:37:13.000Z",
+        "description": "",
+        "id": "1893006992303890432",
+        "name": "果冻",
+        "pinned_tweet_id": "2032494147530285175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995666652084752384/IZw2glVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 533,
+          "like_count": 9909,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1270
+        },
+        "username": "GUODUEN",
+        "verified": false
+      }
+    ]
+  }
+}

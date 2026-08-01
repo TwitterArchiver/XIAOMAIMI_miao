@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2076146846037397947",
+    "created_at": "2026-07-12T04:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076158692882596118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1995670265339281411",
+          "start": 0,
+          "username": "XHH258369x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076158692882596118",
+    "in_reply_to_user_id": "1995670265339281411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076155546709938545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XHH258369x 我是穷逼。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2076146846037397947",
+        "created_at": "2026-07-12T04:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076158692882596118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1995670265339281411",
+              "start": 0,
+              "username": "XHH258369x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076158692882596118",
+        "in_reply_to_user_id": "1995670265339281411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076155546709938545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XHH258369x 我是穷逼。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995670265339281411",
+        "conversation_id": "2076146846037397947",
+        "created_at": "2026-07-12T04:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076155546709938545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076155546709938545",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076146846037397947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 买21和24套，找大库存，这样划算点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9218,
+          "following_count": 244,
+          "like_count": 25974,
+          "listed_count": 29,
+          "media_count": 62,
+          "tweet_count": 2523
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T01:44:11.000Z",
+        "description": "",
+        "id": "1995670265339281411",
+        "name": "蛋小龙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073011050744864768/NfcycBJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 13,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "XHH258369x",
+        "verified": false
+      }
+    ]
+  }
+}

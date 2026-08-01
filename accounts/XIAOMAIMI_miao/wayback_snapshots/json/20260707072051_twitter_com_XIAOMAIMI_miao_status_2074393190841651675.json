@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2074344631932969462",
+    "created_at": "2026-07-07T07:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074393190841651675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1995670265339281411",
+          "start": 0,
+          "username": "XHH258369x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074393190841651675",
+    "in_reply_to_user_id": "1995670265339281411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074369530097508703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XHH258369x 不知道，瞎调。我最开始是1900*0.75，现在是1800*0.18"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2074344631932969462",
+        "created_at": "2026-07-07T07:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074393190841651675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1995670265339281411",
+              "start": 0,
+              "username": "XHH258369x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074393190841651675",
+        "in_reply_to_user_id": "1995670265339281411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074369530097508703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XHH258369x 不知道，瞎调。我最开始是1900*0.75，现在是1800*0.18"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995670265339281411",
+        "conversation_id": "2074344631932969462",
+        "created_at": "2026-07-07T05:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074369530097508703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074369530097508703",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074344826074796137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 灵敏度怎么调是最适合自己的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8607,
+          "following_count": 241,
+          "like_count": 25837,
+          "listed_count": 28,
+          "media_count": 58,
+          "tweet_count": 2448
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T01:44:11.000Z",
+        "description": "",
+        "id": "1995670265339281411",
+        "name": "蛋小龙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073011050744864768/NfcycBJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 12,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "XHH258369x",
+        "verified": false
+      }
+    ]
+  }
+}

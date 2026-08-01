@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047559740964958373",
+    "created_at": "2026-04-24T07:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T08:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047571931680194657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026680668365991936",
+          "start": 0,
+          "username": "Sakee1106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047571931680194657",
+    "in_reply_to_user_id": "2026680668365991936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047568791497023525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakee1106 太坏了，，，我一直在默默流眼泪，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047559740964958373",
+        "created_at": "2026-04-24T07:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047571931680194657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026680668365991936",
+              "start": 0,
+              "username": "Sakee1106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047571931680194657",
+        "in_reply_to_user_id": "2026680668365991936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047568791497023525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakee1106 太坏了，，，我一直在默默流眼泪，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026680668365991936",
+        "conversation_id": "2047559740964958373",
+        "created_at": "2026-04-24T06:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047568791497023525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047568791497023525",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047559740964958373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 这个世界本质就是个巨大的“会哭的孩子有糖吃”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 177,
+          "like_count": 13932,
+          "listed_count": 20,
+          "media_count": 66,
+          "tweet_count": 1108
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T15:28:30.000Z",
+        "description": "随处可见的普通人",
+        "id": "2026680668365991936",
+        "name": "王宇昊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042607302763778056/PeTxbluy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 62,
+          "like_count": 4380,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 739
+        },
+        "username": "Sakee1106",
+        "verified": false
+      }
+    ]
+  }
+}

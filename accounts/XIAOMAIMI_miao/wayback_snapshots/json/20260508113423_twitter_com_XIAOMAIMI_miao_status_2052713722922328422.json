@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052712813379064128",
+    "created_at": "2026-05-08T11:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052713722922328422"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052713722922328422",
+    "in_reply_to_user_id": "1942995969043501056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052712813379064128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈本来就是想分享记录日常偶尔发发身材照给大家看看，我就是想让人夸夸我我怎么了，我又没他妈收你们门槛费没让你们付费观看我他妈很仁慈了，别特么欺负我了行不行。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052712813379064128",
+        "created_at": "2026-05-08T11:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052713722922328422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052713722922328422",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052712813379064128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈本来就是想分享记录日常偶尔发发身材照给大家看看，我就是想让人夸夸我我怎么了，我又没他妈收你们门槛费没让你们付费观看我他妈很仁慈了，别特么欺负我了行不行。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052712813379064128",
+        "created_at": "2026-05-08T11:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052712813379064128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052712813379064128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "觉得我胸小的、觉得我看起来丑的、觉得我像男娘的，没必要特地来和我说，我他妈最讨厌听别人讽刺我，说我前后一样扁的咋滴没见过75A的罩杯是吗？非得胸都他妈和俩篮球一样挂着才算女的？别逗了哥们，低头看看自己的雌化胸吧，比我的大多了，你咋不说你是女的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6621,
+          "following_count": 192,
+          "like_count": 16986,
+          "listed_count": 27,
+          "media_count": 137,
+          "tweet_count": 1800
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2066066561186808300",
+    "created_at": "2026-06-14T16:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066198860381516190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1564028083769774080",
+          "start": 0,
+          "username": "vinswex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066198860381516190",
+    "in_reply_to_user_id": "1564028083769774080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066197164951519326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vinswex 那也很牛逼，我感觉能炒股的人除了一部分投机取巧者，还有一部分是真的很聪明能玩懂经济走向的，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T16:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066198860381516190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1564028083769774080",
+              "start": 0,
+              "username": "vinswex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066198860381516190",
+        "in_reply_to_user_id": "1564028083769774080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066197164951519326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vinswex 那也很牛逼，我感觉能炒股的人除了一部分投机取巧者，还有一部分是真的很聪明能玩懂经济走向的，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564028083769774080",
+        "conversation_id": "2066066561186808300",
+        "created_at": "2026-06-14T16:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066197164951519326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066197164951519326",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066066561186808300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 对靠聪明和道德在股市里躺着赚钱的呢？🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8291,
+          "following_count": 211,
+          "like_count": 22172,
+          "listed_count": 28,
+          "media_count": 116,
+          "tweet_count": 2502
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T23:12:20.000Z",
+        "description": "🇨🇳🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@inswexv2541?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@inswexv2541?si=7_HcZ6PSx7FZiOay",
+                "start": 0,
+                "url": "https://t.co/0xccBxZ5EE"
+              }
+            ]
+          }
+        },
+        "id": "1564028083769774080",
+        "location": "MANGROVE",
+        "name": "Friedrich Victoria",
+        "pinned_tweet_id": "2052412830272676291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965447392620380160/VcWjVOdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 2201,
+          "like_count": 36011,
+          "listed_count": 5,
+          "media_count": 736,
+          "tweet_count": 12321
+        },
+        "url": "https://t.co/0xccBxZ5EE",
+        "username": "vinswex",
+        "verified": false
+      }
+    ]
+  }
+}

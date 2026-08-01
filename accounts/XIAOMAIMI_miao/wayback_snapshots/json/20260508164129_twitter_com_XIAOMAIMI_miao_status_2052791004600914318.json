@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052790996065505280",
+        "3_2052790996350717952"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052791004600914318",
+    "created_at": "2026-05-08T16:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052791004600914318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mGWap7FgE6",
+          "end": 23,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2052791004600914318/photo/1",
+          "media_key": "3_2052790996065505280",
+          "start": 0,
+          "url": "https://t.co/mGWap7FgE6"
+        },
+        {
+          "display_url": "pic.x.com/mGWap7FgE6",
+          "end": 23,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2052791004600914318/photo/1",
+          "media_key": "3_2052790996350717952",
+          "start": 0,
+          "url": "https://t.co/mGWap7FgE6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052791004600914318",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/mGWap7FgE6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_2052790996065505280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz6iOaa0AAd7Ap.jpg",
+        "width": 1271
+      },
+      {
+        "height": 938,
+        "media_key": "3_2052790996350717952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz6iPea0AAqWM2.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052790996065505280",
+            "3_2052790996350717952"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052791004600914318",
+        "created_at": "2026-05-08T16:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052791004600914318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mGWap7FgE6",
+              "end": 23,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2052791004600914318/photo/1",
+              "media_key": "3_2052790996065505280",
+              "start": 0,
+              "url": "https://t.co/mGWap7FgE6"
+            },
+            {
+              "display_url": "pic.x.com/mGWap7FgE6",
+              "end": 23,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2052791004600914318/photo/1",
+              "media_key": "3_2052790996350717952",
+              "start": 0,
+              "url": "https://t.co/mGWap7FgE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052791004600914318",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mGWap7FgE6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6704,
+          "following_count": 193,
+          "like_count": 17098,
+          "listed_count": 27,
+          "media_count": 135,
+          "tweet_count": 1824
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

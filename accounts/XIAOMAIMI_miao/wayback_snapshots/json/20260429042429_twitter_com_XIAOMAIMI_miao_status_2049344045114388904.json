@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049343732668080166",
+    "created_at": "2026-04-29T04:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T05:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049344045114388904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2020299663992356864",
+          "start": 0,
+          "username": "HMJZ114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049344045114388904",
+    "in_reply_to_user_id": "2020299663992356864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049343991238520848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HMJZ114 我下三，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049343732668080166",
+        "created_at": "2026-04-29T04:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049344045114388904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2020299663992356864",
+              "start": 0,
+              "username": "HMJZ114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049344045114388904",
+        "in_reply_to_user_id": "2020299663992356864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049343991238520848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HMJZ114 我下三，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020299663992356864",
+        "conversation_id": "2049343732668080166",
+        "created_at": "2026-04-29T04:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049343991238520848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049343991238520848",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049343732668080166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 很厉害捏 可以一起玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6170,
+          "following_count": 188,
+          "like_count": 15016,
+          "listed_count": 28,
+          "media_count": 86,
+          "tweet_count": 1354
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-08T00:54:45.000Z",
+        "description": "花束般的恋爱",
+        "id": "2020299663992356864",
+        "name": "花城月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037969272165875712/qu1LTPWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 148,
+          "like_count": 773,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 77
+        },
+        "username": "HMJZ114",
+        "verified": false
+      }
+    ]
+  }
+}

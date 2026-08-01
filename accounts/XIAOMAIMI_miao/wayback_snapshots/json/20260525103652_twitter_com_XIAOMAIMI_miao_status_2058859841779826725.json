@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2058579272860856613",
+    "created_at": "2026-05-25T10:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058859841779826725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2039581449834344448",
+          "start": 0,
+          "username": "YGDZjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058859841779826725",
+    "in_reply_to_user_id": "2039581449834344448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058799725764301005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YGDZjj 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2058579272860856613",
+        "created_at": "2026-05-25T10:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058859841779826725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2039581449834344448",
+              "start": 0,
+              "username": "YGDZjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058859841779826725",
+        "in_reply_to_user_id": "2039581449834344448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058799725764301005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YGDZjj 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039581449834344448",
+        "conversation_id": "2058579272860856613",
+        "created_at": "2026-05-25T06:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058799725764301005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058799725764301005",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058579272860856613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7683,
+          "following_count": 198,
+          "like_count": 19544,
+          "listed_count": 26,
+          "media_count": 132,
+          "tweet_count": 2091
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T05:52:46.000Z",
+        "description": "",
+        "id": "2039581449834344448",
+        "name": "YGDZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039582187297841152/wvUXTRL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "username": "YGDZjj",
+        "verified": false
+      }
+    ]
+  }
+}

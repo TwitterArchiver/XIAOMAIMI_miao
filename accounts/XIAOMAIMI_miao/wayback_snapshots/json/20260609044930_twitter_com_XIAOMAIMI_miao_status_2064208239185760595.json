@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2064205132536164484",
+    "created_at": "2026-06-09T04:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064208239185760595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1589454067259973632",
+          "start": 0,
+          "username": "Nobody_78901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064208239185760595",
+    "in_reply_to_user_id": "1589454067259973632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064207780672909788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nobody_78901 开着cs，Steam和5e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2064205132536164484",
+        "created_at": "2026-06-09T04:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064208239185760595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589454067259973632",
+              "start": 0,
+              "username": "Nobody_78901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064208239185760595",
+        "in_reply_to_user_id": "1589454067259973632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064207780672909788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nobody_78901 开着cs，Steam和5e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589454067259973632",
+        "conversation_id": "2064205132536164484",
+        "created_at": "2026-06-09T04:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064207780672909788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064207780672909788",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064205132536164484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 出错时有没有在用什么软件"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8196,
+          "following_count": 204,
+          "like_count": 20966,
+          "listed_count": 30,
+          "media_count": 156,
+          "tweet_count": 2301
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T03:06:39.000Z",
+        "description": "不善言辞",
+        "id": "1589454067259973632",
+        "name": "椒糖拿铁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883448729262542848/hYKtOptF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 158,
+          "like_count": 13208,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1181
+        },
+        "username": "Nobody_78901",
+        "verified": true
+      }
+    ]
+  }
+}

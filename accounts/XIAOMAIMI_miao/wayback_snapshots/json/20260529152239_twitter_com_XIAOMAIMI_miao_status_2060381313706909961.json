@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2060378635878752547",
+    "created_at": "2026-05-29T15:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060381313706909961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893233040606011392",
+          "start": 0,
+          "username": "myzm_gachi0813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060381313706909961",
+    "in_reply_to_user_id": "1893233040606011392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060379464396374426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myzm_gachi0813 我都是套在内裤外面当短裤穿的TT，这个对我来说太肥了不贴合，要是当内裤感觉会和真空没区别。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2060378635878752547",
+        "created_at": "2026-05-29T15:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060381313706909961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1893233040606011392",
+              "start": 0,
+              "username": "myzm_gachi0813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060381313706909961",
+        "in_reply_to_user_id": "1893233040606011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060379464396374426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myzm_gachi0813 我都是套在内裤外面当短裤穿的TT，这个对我来说太肥了不贴合，要是当内裤感觉会和真空没区别。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893233040606011392",
+        "conversation_id": "2060378635878752547",
+        "created_at": "2026-05-29T15:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060379464396374426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060379464396374426",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060378635878752547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao ！平角的会很好穿吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7894,
+          "following_count": 197,
+          "like_count": 19853,
+          "listed_count": 27,
+          "media_count": 140,
+          "tweet_count": 2153
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T09:35:22.000Z",
+        "description": "而我只是一个颜文字爱好者，一个双性恋，一个05后，一个把沙砾磨成珍珠直到死才开壳的蚌。",
+        "id": "1893233040606011392",
+        "location": "距离你3.1415926km",
+        "name": "awa٩( °༥° )و",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050956107859087360/7frvQyQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 342,
+          "like_count": 4555,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 176
+        },
+        "username": "myzm_gachi0813",
+        "verified": false
+      }
+    ]
+  }
+}

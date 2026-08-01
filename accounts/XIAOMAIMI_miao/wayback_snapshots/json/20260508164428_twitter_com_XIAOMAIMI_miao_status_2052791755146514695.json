@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052791755146514695",
+    "created_at": "2026-05-08T16:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052791755146514695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2040045603665698816",
+          "start": 3,
+          "username": "dD8740274718577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052791755146514695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052732074038292785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dD8740274718577: 拥抱稍微用力挤压对方发出哼唧声的时候好可爱，好为她着迷啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052791755146514695",
+        "created_at": "2026-05-08T16:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052791755146514695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2040045603665698816",
+              "start": 3,
+              "username": "dD8740274718577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052791755146514695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052732074038292785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dD8740274718577: 拥抱稍微用力挤压对方发出哼唧声的时候好可爱，好为她着迷啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040045603665698816",
+        "conversation_id": "2052732074038292785",
+        "created_at": "2026-05-08T12:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052732074038292785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052732074038292785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 806,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "拥抱稍微用力挤压对方发出哼唧声的时候好可爱，好为她着迷啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6704,
+          "following_count": 193,
+          "like_count": 17099,
+          "listed_count": 27,
+          "media_count": 135,
+          "tweet_count": 1825
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T12:36:10.000Z",
+        "description": "下贱的欲望\n所有内容皆为原创",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/em93153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/em93153",
+                "start": 0,
+                "url": "https://t.co/ohIKaO0khW"
+              }
+            ]
+          }
+        },
+        "id": "2040045603665698816",
+        "name": "恶魔69",
+        "pinned_tweet_id": "2047772862451482649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048022119158890496/_wngNFvO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 1,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/ohIKaO0khW",
+        "username": "dD8740274718577",
+        "verified": false
+      }
+    ]
+  }
+}

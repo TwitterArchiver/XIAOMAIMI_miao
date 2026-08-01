@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2050201028365357081",
+    "created_at": "2026-05-01T13:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T14:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050201672631382057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1868670226629541888",
+          "start": 0,
+          "username": "0yui7w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050201672631382057",
+    "in_reply_to_user_id": "1868670226629541888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050201028365357081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0yui7w 妈咪我暗恋你，，，😭🥰❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13377,
+        "height": 1280,
+        "media_key": "7_2050200891874320384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050200891874320384/pu/img/lYzKuVGDjHRFLCrm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050200891874320384/pu/vid/avc1/320x568/RY2xnke172BGKjfb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050200891874320384/pu/vid/avc1/480x852/1ztez2XpFfDXZrmt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050200891874320384/pu/vid/avc1/720x1280/ra3F_p0kIAzAq5nM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050200891874320384/pu/pl/XFhaqgwFaAe-CxEN.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2050201028365357081",
+        "created_at": "2026-05-01T13:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050201672631382057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1868670226629541888",
+              "start": 0,
+              "username": "0yui7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050201672631382057",
+        "in_reply_to_user_id": "1868670226629541888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050201028365357081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0yui7w 妈咪我暗恋你，，，😭🥰❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050200891874320384"
+          ]
+        },
+        "author_id": "1868670226629541888",
+        "conversation_id": "2050201028365357081",
+        "created_at": "2026-05-01T13:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050201028365357081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQxi0K31yr",
+              "end": 47,
+              "expanded_url": "https://x.com/0yui7w/status/2050201028365357081/video/1",
+              "media_key": "7_2050200891874320384",
+              "start": 24,
+              "url": "https://t.co/ZQxi0K31yr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050201028365357081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来是暗示前夫哥的但好像没暗示到只好给你们看看 https://t.co/ZQxi0K31yr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6266,
+          "following_count": 195,
+          "like_count": 15644,
+          "listed_count": 27,
+          "media_count": 95,
+          "tweet_count": 1526
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T14:51:30.000Z",
+        "description": "🐱·ゆい Ⅰ我叫布洛芬Ⅰ♌infpⅠ泛性恋Ⅰ喜欢发点家里的小猫他叫今日Ⅰ秽土转生寻找曾经的互关中Ⅰ垃圾桶制造中Ⅰ匿名提问https://t.co/bGg3rwC0xQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yui7w00",
+                "end": 83,
+                "expanded_url": "https://ngl.link/yui7w00",
+                "start": 60,
+                "url": "https://t.co/bGg3rwC0xQ"
+              }
+            ]
+          }
+        },
+        "id": "1868670226629541888",
+        "name": "止痛片2.0",
+        "pinned_tweet_id": "2019286228290724146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049261117126619136/frEpCCGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 41,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1082
+        },
+        "username": "0yui7w",
+        "verified": false
+      }
+    ]
+  }
+}

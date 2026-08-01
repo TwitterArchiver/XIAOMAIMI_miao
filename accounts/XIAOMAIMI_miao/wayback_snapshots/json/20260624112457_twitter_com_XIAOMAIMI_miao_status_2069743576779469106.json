@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2069723072442048543",
+    "created_at": "2026-06-24T11:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069743576779469106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1999582662152056832",
+          "start": 0,
+          "username": "q315830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069743576779469106",
+    "in_reply_to_user_id": "1999582662152056832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069741843365962038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q315830 喜欢哥哥的粉牛牛吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2069723072442048543",
+        "created_at": "2026-06-24T11:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069743576779469106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1999582662152056832",
+              "start": 0,
+              "username": "q315830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069743576779469106",
+        "in_reply_to_user_id": "1999582662152056832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069741843365962038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q315830 喜欢哥哥的粉牛牛吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999582662152056832",
+        "conversation_id": "2069723072442048543",
+        "created_at": "2026-06-24T11:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069741843365962038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069741843365962038",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069723072442048543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 好大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/UVVQRrPaTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao",
+                "start": 46,
+                "url": "https://t.co/UVVQRrPaTT"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8358,
+          "following_count": 233,
+          "like_count": 23997,
+          "listed_count": 28,
+          "media_count": 43,
+          "tweet_count": 2287
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T20:50:41.000Z",
+        "description": "",
+        "id": "1999582662152056832",
+        "name": "青山",
+        "pinned_tweet_id": "2034001679725826434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041913560650149888/7ROrAicn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 73,
+          "like_count": 6691,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "q315830",
+        "verified": false
+      }
+    ]
+  }
+}

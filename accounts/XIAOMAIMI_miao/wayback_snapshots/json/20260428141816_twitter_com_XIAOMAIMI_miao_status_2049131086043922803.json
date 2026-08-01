@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2048940586535977274",
+    "created_at": "2026-04-28T14:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049131086043922803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029585628074262528",
+          "start": 0,
+          "username": "Serinda_Aqua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049131086043922803",
+    "in_reply_to_user_id": "2029585628074262528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049130529598194000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serinda_Aqua 好的好的！谢谢老师！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2048940586535977274",
+        "created_at": "2026-04-28T14:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049131086043922803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029585628074262528",
+              "start": 0,
+              "username": "Serinda_Aqua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049131086043922803",
+        "in_reply_to_user_id": "2029585628074262528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049130529598194000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serinda_Aqua 好的好的！谢谢老师！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029585628074262528",
+        "conversation_id": "2048940586535977274",
+        "created_at": "2026-04-28T14:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049130529598194000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049130529598194000",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049129662174081200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 认真答题，听说买不了一部分的商业保险，但也只是听说，我开过药但不知道有没有被写进档案，说实话确诊了也没啥用，因为一线用药是专注达，而这个很贵也不是从根本上解决问题，好奇可以搜小红书有很多人分享就诊记录，在这里我就不说我的账号了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6126,
+          "following_count": 188,
+          "like_count": 14846,
+          "listed_count": 26,
+          "media_count": 81,
+          "tweet_count": 1313
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T15:52:08.000Z",
+        "description": "=小水🩵请详细阅读我的简介和置顶\n日常碎碎念/🔞涩情照片/负能/转贴\n❌不加联系就别发私信骚扰\n05/170/104🚪88➕v好友位\n⚠️bpd | ADHD | 双相Ⅱ型患者\n欢迎自伤和药物滥用者互fo交友",
+        "id": "2029585628074262528",
+        "location": "无爱之森",
+        "name": "水色歌",
+        "pinned_tweet_id": "2048811353998283049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039737520695742464/IIi0fjpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 100,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 682
+        },
+        "username": "Serinda_Aqua",
+        "verified": false
+      }
+    ]
+  }
+}

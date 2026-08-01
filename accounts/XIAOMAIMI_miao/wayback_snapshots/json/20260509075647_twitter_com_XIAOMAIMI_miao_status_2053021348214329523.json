@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2053017086532997228",
+    "created_at": "2026-05-09T07:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053021348214329523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765000212085702656",
+          "start": 0,
+          "username": "popoichhng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053021348214329523",
+    "in_reply_to_user_id": "1765000212085702656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053020873087750537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@popoichhng 对，，，而且用不了多久就三十几度了，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2053017086532997228",
+        "created_at": "2026-05-09T07:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053021348214329523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765000212085702656",
+              "start": 0,
+              "username": "popoichhng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053021348214329523",
+        "in_reply_to_user_id": "1765000212085702656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053020873087750537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@popoichhng 对，，，而且用不了多久就三十几度了，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765000212085702656",
+        "conversation_id": "2053017086532997228",
+        "created_at": "2026-05-09T07:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053020873087750537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053020873087750537",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053017086532997228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 主要这个材质会热"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6738,
+          "following_count": 193,
+          "like_count": 17174,
+          "listed_count": 27,
+          "media_count": 140,
+          "tweet_count": 1840
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T13:03:46.000Z",
+        "description": "平平无奇的碎碎念xp记录仪 ，抽象发疯日常，\n小号，@XinShi52907\n不加v，无🚪，不接置顶推广，无任何墙内社交软件\nbrat，高p，爱发啥发啥要你管？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "XinShi52907"
+              }
+            ]
+          }
+        },
+        "id": "1765000212085702656",
+        "location": "Frankfurt on the Main, Germany",
+        "name": "地瓜妹🍠",
+        "pinned_tweet_id": "2036025874420838425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030954172540207104/20Wt_unZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5489,
+          "following_count": 199,
+          "like_count": 5323,
+          "listed_count": 6,
+          "media_count": 88,
+          "tweet_count": 3737
+        },
+        "username": "popoichhng",
+        "verified": false
+      }
+    ]
+  }
+}

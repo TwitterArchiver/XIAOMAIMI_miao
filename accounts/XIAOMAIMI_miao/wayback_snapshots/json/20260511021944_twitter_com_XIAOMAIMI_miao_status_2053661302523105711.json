@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2053661302523105711",
+    "created_at": "2026-05-11T02:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T03:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053661302523105711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1889290861261053953",
+          "start": 3,
+          "username": "OwO7u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053661302523105711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053469651657756943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OwO7u: 我现在唯一的性生活就是打游戏的时候操别人妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2053661302523105711",
+        "created_at": "2026-05-11T02:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053661302523105711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1889290861261053953",
+              "start": 3,
+              "username": "OwO7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053661302523105711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053469651657756943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OwO7u: 我现在唯一的性生活就是打游戏的时候操别人妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889290861261053953",
+        "conversation_id": "2053469651657756943",
+        "created_at": "2026-05-10T13:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053469651657756943"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053469651657756943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 17557,
+          "like_count": 569,
+          "quote_count": 5,
+          "reply_count": 111,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "我现在唯一的性生活就是打游戏的时候操别人妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6796,
+          "following_count": 193,
+          "like_count": 17480,
+          "listed_count": 26,
+          "media_count": 154,
+          "tweet_count": 1899
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T12:30:29.000Z",
+        "description": "惡語傷咪心",
+        "id": "1889290861261053953",
+        "location": "纯绿🚪188",
+        "name": "白咪饭",
+        "pinned_tweet_id": "2045200112067154356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004052588275400704/A9RN6l5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15795,
+          "following_count": 28,
+          "like_count": 500,
+          "listed_count": 34,
+          "media_count": 159,
+          "tweet_count": 772
+        },
+        "username": "OwO7u",
+        "verified": false
+      }
+    ]
+  }
+}

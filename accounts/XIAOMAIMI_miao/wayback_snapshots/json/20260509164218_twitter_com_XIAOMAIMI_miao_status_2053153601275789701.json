@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2053053358081261798",
+    "created_at": "2026-05-09T16:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053153601275789701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1611121838645735426",
+          "start": 0,
+          "username": "sx08940315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053153601275789701",
+    "in_reply_to_user_id": "1611121838645735426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053150940929335461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sx08940315 好，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2053053358081261798",
+        "created_at": "2026-05-09T16:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053153601275789701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1611121838645735426",
+              "start": 0,
+              "username": "sx08940315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053153601275789701",
+        "in_reply_to_user_id": "1611121838645735426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053150940929335461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sx08940315 好，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611121838645735426",
+        "conversation_id": "2053053358081261798",
+        "created_at": "2026-05-09T16:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053150940929335461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053150940929335461",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053053358081261798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 也可能是潜意识里压力太大了？（我之前睡过迟到被导员点名，之后起床就有这样的后遗症🥲）可以试着放松一下心情🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6752,
+          "following_count": 193,
+          "like_count": 17222,
+          "listed_count": 27,
+          "media_count": 143,
+          "tweet_count": 1856
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T22:06:07.000Z",
+        "description": "",
+        "id": "1611121838645735426",
+        "name": "S9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045486001091641344/K3h2Uit9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 2694,
+          "like_count": 9128,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 713
+        },
+        "username": "sx08940315",
+        "verified": false
+      }
+    ]
+  }
+}

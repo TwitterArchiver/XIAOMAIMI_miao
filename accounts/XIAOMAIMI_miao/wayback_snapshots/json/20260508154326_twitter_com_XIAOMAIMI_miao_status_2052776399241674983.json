@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052776389959647232"
+      ]
+    },
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052776399241674983",
+    "created_at": "2026-05-08T15:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052776399241674983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kdJyHmdnJ7",
+          "end": 100,
+          "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2052776399241674983/photo/1",
+          "media_key": "3_2052776389959647232",
+          "start": 77,
+          "url": "https://t.co/kdJyHmdnJ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052776399241674983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哥哥 我好像越来越依赖你了 开心的事想第一时间告诉你 委屈的时候也只想被你安慰 我不是离不开谁 只是比起所有人 我更想一直待在你身边 安安静静 只喜欢你 https://t.co/kdJyHmdnJ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052776389959647232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHztQCbagAAl13_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052776389959647232"
+          ]
+        },
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052776399241674983",
+        "created_at": "2026-05-08T15:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052776399241674983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kdJyHmdnJ7",
+              "end": 100,
+              "expanded_url": "https://x.com/XIAOMAIMI_miao/status/2052776399241674983/photo/1",
+              "media_key": "3_2052776389959647232",
+              "start": 77,
+              "url": "https://t.co/kdJyHmdnJ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052776399241674983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥 我好像越来越依赖你了 开心的事想第一时间告诉你 委屈的时候也只想被你安慰 我不是离不开谁 只是比起所有人 我更想一直待在你身边 安安静静 只喜欢你 https://t.co/kdJyHmdnJ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6698,
+          "following_count": 192,
+          "like_count": 17040,
+          "listed_count": 27,
+          "media_count": 135,
+          "tweet_count": 1818
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

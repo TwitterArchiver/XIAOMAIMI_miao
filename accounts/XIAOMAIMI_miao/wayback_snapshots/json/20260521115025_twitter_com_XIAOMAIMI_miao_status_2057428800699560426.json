@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2057411808156324024",
+    "created_at": "2026-05-21T11:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057428800699560426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944994854637068288",
+          "start": 0,
+          "username": "miukkkeii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057428800699560426",
+    "in_reply_to_user_id": "1944994854637068288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057426409338130761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miukkkeii 好嘟好嘟谢谢你小宝宝＾＾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2057411808156324024",
+        "created_at": "2026-05-21T11:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057428800699560426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944994854637068288",
+              "start": 0,
+              "username": "miukkkeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057428800699560426",
+        "in_reply_to_user_id": "1944994854637068288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057426409338130761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miukkkeii 好嘟好嘟谢谢你小宝宝＾＾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944994854637068288",
+        "conversation_id": "2057411808156324024",
+        "created_at": "2026-05-21T11:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057426409338130761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057426409338130761",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057411808156324024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 应该不会的诡秘，我刚开始打的钛钢的，但是属于比较容易发炎但是换了银针就不怎么发炎了，如果肿了还是不要取下来擦，用碘伏前后推一下钉子消消毒，然后用生理盐水擦干净晚上不要压到。如果推不动就看看棉签揪一揪能不能塞进去擦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7629,
+          "following_count": 197,
+          "like_count": 19327,
+          "listed_count": 26,
+          "media_count": 124,
+          "tweet_count": 2012
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:38:27.000Z",
+        "description": "03♒️｜自嗨来的想发啥别管我^_^\n无🚪不约不线下不加v不看🐔\n没有陪聊的义务｜有礼貌的私信会回",
+        "id": "1944994854637068288",
+        "name": "hellomilk🍢",
+        "pinned_tweet_id": "2034620342417907825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053972278514417664/EvMVouya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 59,
+          "like_count": 1972,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1075
+        },
+        "username": "miukkkeii",
+        "verified": true
+      }
+    ]
+  }
+}

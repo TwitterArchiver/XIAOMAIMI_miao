@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047559740964958373",
+    "created_at": "2026-04-24T08:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047599606650048745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946140463368708096",
+          "start": 0,
+          "username": "xinruiwang111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047599606650048745",
+    "in_reply_to_user_id": "1946140463368708096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047597202894467357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinruiwang111 天呐，，，你说的好好，，，🥹❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047559740964958373",
+        "created_at": "2026-04-24T08:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047599606650048745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946140463368708096",
+              "start": 0,
+              "username": "xinruiwang111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047599606650048745",
+        "in_reply_to_user_id": "1946140463368708096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047597202894467357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinruiwang111 天呐，，，你说的好好，，，🥹❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946140463368708096",
+        "conversation_id": "2047559740964958373",
+        "created_at": "2026-04-24T08:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047597202894467357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047597202894467357",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047559740964958373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 宝宝一定要去做自己想做的呀！这个世界就是一个巨大的游乐场 有人的听了别人的话没有去坐摩天轮 那他就可能会后悔以前为什么听了别人的话没去体验一下！甚至可能现在不出去玩 以后再去玩 心境也会不同的🤲🏻人生在世要留遗憾！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5885,
+          "following_count": 178,
+          "like_count": 13951,
+          "listed_count": 20,
+          "media_count": 66,
+          "tweet_count": 1116
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T09:30:32.000Z",
+        "description": "",
+        "id": "1946140463368708096",
+        "name": "椰丝狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047328878868439040/EB87sz4n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 27,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 159
+        },
+        "username": "xinruiwang111",
+        "verified": false
+      }
+    ]
+  }
+}

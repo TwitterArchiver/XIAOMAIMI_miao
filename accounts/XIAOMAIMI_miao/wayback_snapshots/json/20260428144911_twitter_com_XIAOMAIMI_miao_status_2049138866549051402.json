@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2049115887643546024",
+    "created_at": "2026-04-28T14:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049138866549051402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1712415478092902400",
+          "start": 0,
+          "username": "cq_20_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049138866549051402",
+    "in_reply_to_user_id": "1712415478092902400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049138282731348114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cq_20_ovo 我到现在都不知道要写什么！我没有爱好也没有擅长的事，好坏！每次都在瞎编。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049115887643546024",
+        "created_at": "2026-04-28T14:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049138866549051402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1712415478092902400",
+              "start": 0,
+              "username": "cq_20_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049138866549051402",
+        "in_reply_to_user_id": "1712415478092902400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049138282731348114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cq_20_ovo 我到现在都不知道要写什么！我没有爱好也没有擅长的事，好坏！每次都在瞎编。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712415478092902400",
+        "conversation_id": "2049115887643546024",
+        "created_at": "2026-04-28T14:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049138282731348114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049138282731348114",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049115887643546024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 我每次學校讓我填愛好跟擅長的事：聽音樂看小說做家事😭😭要21歲了我還是這樣😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6127,
+          "following_count": 188,
+          "like_count": 14881,
+          "listed_count": 31,
+          "media_count": 82,
+          "tweet_count": 1324
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T10:30:49.000Z",
+        "description": "",
+        "id": "1712415478092902400",
+        "name": "初",
+        "pinned_tweet_id": "2046567314594857233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048368933317808128/RF2eO3Yh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 46,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 383
+        },
+        "username": "cq_20_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2047281588019601765",
+    "created_at": "2026-04-23T13:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047302835369566589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1247139188589260800",
+          "start": 0,
+          "username": "oc24zpfGynr7vgN"
+        },
+        {
+          "end": 28,
+          "id": "1854788275187466240",
+          "start": 17,
+          "username": "oioi256794"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047302835369566589",
+    "in_reply_to_user_id": "1247139188589260800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047301630379397481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oc24zpfGynr7vgN @oioi256794 不要乱猜宝宝，，，🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2047281588019601765",
+        "created_at": "2026-04-23T13:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047302835369566589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1247139188589260800",
+              "start": 0,
+              "username": "oc24zpfGynr7vgN"
+            },
+            {
+              "end": 28,
+              "id": "1854788275187466240",
+              "start": 17,
+              "username": "oioi256794"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047302835369566589",
+        "in_reply_to_user_id": "1247139188589260800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047301630379397481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oc24zpfGynr7vgN @oioi256794 不要乱猜宝宝，，，🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247139188589260800",
+        "conversation_id": "2047281588019601765",
+        "created_at": "2026-04-23T13:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047301630379397481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1854788275187466240",
+              "start": 0,
+              "username": "oioi256794"
+            },
+            {
+              "end": 27,
+              "id": "1942995969043501056",
+              "start": 12,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047301630379397481",
+        "in_reply_to_user_id": "1854788275187466240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047300943709118973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oioi256794 @XIAOMAIMI_miao 这是个小胸博主，可能被代性转之类的吧🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047158551294906872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047105151471915009/afyeBBA8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 176,
+          "like_count": 13852,
+          "listed_count": 20,
+          "media_count": 64,
+          "tweet_count": 1096
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T12:28:58.000Z",
+        "description": "橹穆认识儿",
+        "id": "1247139188589260800",
+        "name": "sooft",
+        "pinned_tweet_id": "2042628032565858409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554660050395746304/XD65-8Gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 68,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 364
+        },
+        "username": "oc24zpfGynr7vgN",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T07:29:29.000Z",
+        "description": "滚出去",
+        "id": "1854788275187466240",
+        "name": "橹穆你俩有心吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044682689618542592/fGvKmDk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 137,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1406
+        },
+        "username": "oioi256794",
+        "verified": false
+      }
+    ]
+  }
+}

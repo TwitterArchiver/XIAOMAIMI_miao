@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2064562079231820098",
+    "created_at": "2026-06-10T04:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064562079231820098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850374828764831744",
+          "start": 3,
+          "username": "yuyuysama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064562079231820098",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064030690463924348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyuysama: 被年上叫姐姐真是美味美味，被年下叫姐姐感觉钱包要减肥了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2064562079231820098",
+        "created_at": "2026-06-10T04:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064562079231820098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850374828764831744",
+              "start": 3,
+              "username": "yuyuysama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064562079231820098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064030690463924348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyuysama: 被年上叫姐姐真是美味美味，被年下叫姐姐感觉钱包要减肥了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850374828764831744",
+        "conversation_id": "2064030690463924348",
+        "created_at": "2026-06-08T17:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064030690463924348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064030690463924348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1173,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "被年上叫姐姐真是美味美味，被年下叫姐姐感觉钱包要减肥了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎讲梦话@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "XIAOSHUgugu"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8186,
+          "following_count": 205,
+          "like_count": 21186,
+          "listed_count": 28,
+          "media_count": 157,
+          "tweet_count": 2323
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T03:12:03.000Z",
+        "description": "可以叫我小游！ 不约不聊骚不kp 05 大二 我讨厌的能是什么好人！讨厌我的肯定也坏的不轻！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuyusama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuyusama",
+                "start": 0,
+                "url": "https://t.co/776gW9kA2x"
+              }
+            ]
+          }
+        },
+        "id": "1850374828764831744",
+        "location": "喵喵喵",
+        "name": "梨花游",
+        "pinned_tweet_id": "2056706018604700064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055716562485886976/xfka1xKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 182,
+          "like_count": 13689,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1771
+        },
+        "url": "https://t.co/776gW9kA2x",
+        "username": "yuyuysama",
+        "verified": true
+      }
+    ]
+  }
+}

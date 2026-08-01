@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942995969043501056",
+    "conversation_id": "2052248183817072903",
+    "created_at": "2026-05-08T06:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T07:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052641124884611468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2042196793622970368",
+          "start": 0,
+          "username": "Findmyway1217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052641124884611468",
+    "in_reply_to_user_id": "2042196793622970368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052637757143719974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Findmyway1217 妹子们都是好人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2052248183817072903",
+        "created_at": "2026-05-08T06:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052641124884611468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2042196793622970368",
+              "start": 0,
+              "username": "Findmyway1217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052641124884611468",
+        "in_reply_to_user_id": "2042196793622970368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052637757143719974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Findmyway1217 妹子们都是好人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042196793622970368",
+        "conversation_id": "2052248183817072903",
+        "created_at": "2026-05-08T06:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052637757143719974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052637757143719974",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052248183817072903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 妹子是个好人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6570,
+          "following_count": 192,
+          "like_count": 16948,
+          "listed_count": 27,
+          "media_count": 133,
+          "tweet_count": 1787
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T11:04:04.000Z",
+        "description": "我一个从小打4399都开无敌版的人 我有什么抗挫折能力\n🚪88--∞ 抽象福利搞笑女",
+        "id": "2042196793622970368",
+        "location": "厕所某坑位",
+        "name": "可爱版茜",
+        "pinned_tweet_id": "2050258712020033780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050100604610158592/9GJRzK0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 26,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 87
+        },
+        "username": "Findmyway1217",
+        "verified": false
+      }
+    ]
+  }
+}
